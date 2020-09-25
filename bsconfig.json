@@ -1,23 +1,22 @@
 {
   "name": "@draftbit/re-font-awesome-pro",
+  "namespace": "FontAwesomePro",
   "reason": {
     "react-jsx": 3
   },
   "version": "0.1.0",
   "sources": {
-    "dir" : "src",
-    "subdirs" : true
+    "dir": "src",
+    "subdirs": true
   },
   "package-specs": {
     "module": "commonjs",
     "in-source": true
   },
   "suffix": ".bs.js",
-  "bs-dependencies": [
-    "reason-react"
-  ],
+  "bs-dependencies": ["reason-react"],
   "warnings": {
-    "error" : "+101"
+    "error": "+101"
   },
   "refmt": 3
 }

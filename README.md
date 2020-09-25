@@ -3,8 +3,12 @@
 ## Usage
 
 ```reason
-<FontAwesome.Icon icon=FontAwesome.Duotone.faArrowRight />
-<FontAwesome.Icon icon=FontAwesome.Solid.faCheck className="PrimaryIcon" />
+<FontAwesomePro.Icon icon=FontAwesomePro.Duotone.faArrowRight />
+
+<FontAwesomePro.Icon
+  icon=FontAwesomePro.Solid.faCheck
+  className="PrimaryIcon"
+/>
 ```
 
 ## Installation
