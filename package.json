@@ -2,7 +2,7 @@
   "name": "@draftbit/re-font-awesome-pro",
   "version": "0.1.0",
   "scripts": {
-    "copy-git-hooks": "if [ -e ./hooks ]; then cp -v ./hooks/* ./.git/hooks; fi",
+    "copy-git-hooks": "if [ -e ./hooks ] && [ -e ./.git/hooks ]; then cp -v ./hooks/* ./.git/hooks; fi",
     "prepare": "if [ -z \"$CI\" ]; then yarn copy-git-hooks; fi",
     "re:clean": "bsb -clean-world",
     "re:build": "bsb -make-world",
@@ -12,7 +12,7 @@
   "keywords": [
     "BuckleScript"
   ],
-  "peerDependencies": {
+  "dependencies": {
     "@fortawesome/fontawesome-pro": "^5.13.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/react-fontawesome": "^0.1.9"
@@ -26,9 +26,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@fortawesome/fontawesome-pro": "^5.13.0",
-    "@fortawesome/fontawesome-svg-core": "^1.2.28",
-    "@fortawesome/react-fontawesome": "^0.1.9",
     "@fortawesome/pro-duotone-svg-icons": "^5.13.0",
     "@fortawesome/pro-light-svg-icons": "^5.13.0",
     "@fortawesome/pro-regular-svg-icons": "^5.13.0",
