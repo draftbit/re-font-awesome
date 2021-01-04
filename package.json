@@ -1,5 +1,5 @@
 {
-  "name": "@draftbit/re-font-awesome-pro",
+  "name": "@draftbit/re-font-awesome",
   "version": "0.2.0-0",
   "scripts": {
     "copy-git-hooks": "if [ -e ./hooks ] && [ -e ./.git/hooks ]; then cp -v ./hooks/* ./.git/hooks; fi",
@@ -16,6 +16,8 @@
     "reason-react": "^0.9.1"
   },
   "optionalDependencies": {
+    "@fortawesome/free-regular-svg-icons": "^5.13.0",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/pro-duotone-svg-icons": "^5.13.0",
     "@fortawesome/pro-light-svg-icons": "^5.13.0",
     "@fortawesome/pro-regular-svg-icons": "^5.13.0",
