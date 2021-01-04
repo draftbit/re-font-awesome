@@ -1,29 +1,35 @@
-# Font Awesome Pro in ReasonML
+# Font Awesome in ReasonML
 
 ## Usage
 
 ```reason
-<FontAwesomePro.Icon icon=FontAwesomePro.Duotone.faArrowRight />
+// Free libraries
+<FontAwesome.Icon icon=FontAwesome.FreeRegular.faCheck />
+<FontAwesome.Icon icon=FontAwesome.FreeSolid.faXRay className="MyIcon" />
 
-<FontAwesomePro.Icon
-  icon=FontAwesomePro.Solid.faCheck
+// Pro libraries (requires a font-awesome token, see below)
+<FontAwesome.Icon
+  icon=FontAwesome.Duotone.faBanjo
   className="PrimaryIcon"
 />
+
+<FontAwesome.Icon icon=FontAwesome.Light.faHockeyPuck />
 ```
 
-## Installation
-
-This requires a token for font awesome in your `.npmrc`. As an example:
-
-```
-@fortawesome:registry=https://npm.fontawesome.com/
-//npm.fontawesome.com/:_authToken=XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX
-```
+## Installation & dependencies
 
 This library uses optional dependencies for the individual font libraries, so make sure you include the ones you want to use in your project. For example:
 
 ```
 $ yarn add '@fortawesome/pro-regular-svg-icons@^5'
+$ yarn add '@fortawesome/free-solid-svg-icons@^5'
+```
+
+_NOTE:_ In order to use the `-pro` libraries you must have a token for font awesome in your `.npmrc`. As an example:
+
+```
+@fortawesome:registry=https://npm.fontawesome.com/
+//npm.fontawesome.com/:_authToken=XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX
 ```
 
 ## Generate the binding files

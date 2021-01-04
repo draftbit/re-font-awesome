@@ -1,6 +1,6 @@
 {
-  "name": "@draftbit/re-font-awesome-pro",
-  "namespace": "FontAwesomePro",
+  "name": "@draftbit/re-font-awesome",
+  "namespace": "FontAwesome",
   "reason": {
     "react-jsx": 3
   },
