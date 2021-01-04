@@ -1,14 +1,19 @@
-# Font Awesome Pro in ReasonML
+# Font Awesome in ReasonML
 
 ## Usage
 
 ```reason
-<FontAwesomePro.Icon icon=FontAwesomePro.Duotone.faArrowRight />
+// Free libraries
+<FontAwesome.Icon icon=FontAwesome.FreeRegular.faCheck />
+<FontAwesome.Icon icon=FontAwesome.FreeSolid.faXRay className="MyIcon" />
 
-<FontAwesomePro.Icon
-  icon=FontAwesomePro.Solid.faCheck
+// Pro libraries (requires a font-awesome token, see below)
+<FontAwesome.Icon
+  icon=FontAwesome.Duotone.faBanjo
   className="PrimaryIcon"
 />
+
+<FontAwesome.Icon icon=FontAwesome.Light.faHockeyPuck />
 ```
 
 ## Installation & dependencies
