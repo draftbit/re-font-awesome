@@ -12,7 +12,8 @@ external make:
     ~flip: bool=?,
     ~spin: bool=?,
     ~pulse: bool=?,
-    ~rotation: int=?
+    ~rotation: int=?,
+    ~size: string=?
   ) =>
   React.element =
   "FontAwesomeIcon";
