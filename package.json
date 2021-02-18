@@ -1,6 +1,6 @@
 {
   "name": "@draftbit/re-font-awesome",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "copy-git-hooks": "if [ -e ./hooks ] && [ -e ./.git/hooks ]; then cp -v ./hooks/* ./.git/hooks; fi",
     "prepare": "if [ -z \"$CI\" ]; then yarn copy-git-hooks; fi",
