@@ -1,3 +1,8 @@
+/*
+   This binding matches with the React version of Font Awesome defined here:
+   https://github.com/FortAwesome/react-fontawesome/blob/master/src/components/FontAwesomeIcon.js#L62-L118
+ */
+
 [@bs.module "@fortawesome/react-fontawesome"] [@react.component]
 external make:
   (
@@ -14,7 +19,7 @@ external make:
     ~pulse: bool=?,
     ~rotation: int=?,
     ~size: string=?,
-    ~style: string=?
+    ~style: ReactDOM.Style.t=?
   ) =>
   React.element =
   "FontAwesomeIcon";
