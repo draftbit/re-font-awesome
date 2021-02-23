@@ -1,5 +1,5 @@
 {
-  "name": "@draftbit/rescript-font-awesome-pro",
+  "name": "@draftbit/rescript-font-awesome",
   "namespace": "FontAwesome",
   "reason": {
     "react-jsx": 3
