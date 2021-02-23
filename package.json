@@ -1,6 +1,6 @@
 {
-  "name": "@draftbit/re-font-awesome",
-  "version": "1.2.0",
+  "name": "@draftbit/rescript-font-awesome",
+  "version": "2.0.1",
   "scripts": {
     "copy-git-hooks": "if [ -e ./hooks ] && [ -e ./.git/hooks ]; then cp -v ./hooks/* ./.git/hooks; fi",
     "prepare": "if [ -z \"$CI\" ]; then yarn copy-git-hooks; fi",
@@ -10,10 +10,13 @@
     "gen-icon-bindings": "node genbindings.js"
   },
   "keywords": [
-    "BuckleScript"
+    "BuckleScript",
+    "Rescript",
+    "FontAwesome",
+    "Font Awesome"
   ],
   "dependencies": {
-    "reason-react": "^0.9.1"
+    "@rescript/react": "^0.10.1"
   },
   "optionalDependencies": {
     "@fortawesome/free-regular-svg-icons": "^5.13.0",
@@ -30,7 +33,7 @@
     "@fortawesome/pro-light-svg-icons": "^5.13.0",
     "@fortawesome/pro-regular-svg-icons": "^5.13.0",
     "@fortawesome/pro-solid-svg-icons": "^5.13.0",
-    "bs-platform": "^7.3.2",
+    "bs-platform": "^9.0.1",
     "lint-staged": "^10.4.0",
     "prettier": "^2.1.2"
   },

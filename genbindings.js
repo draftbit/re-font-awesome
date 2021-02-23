@@ -13,12 +13,12 @@ const iconObjectTypeName = "IconObject.t";
   const iconNames = Object.keys(lib).filter((s) => s.match(/fa[A-Z][A-Za-z]+/));
   const bindings = iconNames.map(
     (n) =>
-      `[@bs.module "${libName}"]\nexternal ${n}: ${iconObjectTypeName} = "${n}";`
+      `@module("${libName}")\nexternal ${n}: ${iconObjectTypeName} = "${n}";`
   );
   const capitalizedStyle = style[0].toUpperCase() + style.slice(1);
   const moduleName = `${tier === "free" ? "Free" : ""}${capitalizedStyle}`;
   const moduleContents = bindings.join("\n\n");
-  const bindingPath = `src/${moduleName}.re`;
+  const bindingPath = `src/${moduleName}.res`;
   require("fs").writeFileSync(bindingPath, moduleContents);
   console.log(`Generated ${bindingPath}`);
 });
