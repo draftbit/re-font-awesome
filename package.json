@@ -1,5 +1,5 @@
 {
-  "name": "@draftbit/rescript-font-awesome",
+  "name": "@draftbit/rescript-font-awesome-pro",
   "version": "2.0.1",
   "scripts": {
     "copy-git-hooks": "if [ -e ./hooks ] && [ -e ./.git/hooks ]; then cp -v ./hooks/* ./.git/hooks; fi",
