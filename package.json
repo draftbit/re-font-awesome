@@ -19,22 +19,24 @@
     "@rescript/react": "^0.10.1"
   },
   "optionalDependencies": {
-    "@fortawesome/free-regular-svg-icons": "^5.13.0",
-    "@fortawesome/free-solid-svg-icons": "^5.13.0",
-    "@fortawesome/pro-duotone-svg-icons": "^5.13.0",
-    "@fortawesome/pro-light-svg-icons": "^5.13.0",
-    "@fortawesome/pro-regular-svg-icons": "^5.13.0",
-    "@fortawesome/pro-solid-svg-icons": "^5.13.0"
+    "@fortawesome/free-regular-svg-icons": "^5.15.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.0",
+    "@fortawesome/pro-duotone-svg-icons": "^5.15.0",
+    "@fortawesome/pro-light-svg-icons": "^5.15.0",
+    "@fortawesome/pro-regular-svg-icons": "^5.15.0",
+    "@fortawesome/pro-solid-svg-icons": "^5.15.0",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
     "@fortawesome/pro-duotone-svg-icons": "^5.13.0",
-    "@fortawesome/pro-light-svg-icons": "^5.13.0",
-    "@fortawesome/pro-regular-svg-icons": "^5.13.0",
-    "@fortawesome/pro-solid-svg-icons": "^5.13.0",
-    "bs-platform": "^9.0.1",
+    "@fortawesome/pro-light-svg-icons": "^5.15.0",
+    "@fortawesome/pro-regular-svg-icons": "^5.15.0",
+    "@fortawesome/pro-solid-svg-icons": "^5.15.0",
     "@rescript/react": "^0.10.1",
+    "bs-platform": "^9.0.1",
     "lint-staged": "^10.4.0",
     "prettier": "^2.1.2"
   },
