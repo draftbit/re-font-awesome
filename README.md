@@ -1,4 +1,4 @@
-# Font Awesome in ReasonML
+# Font Awesome in Rescript
 
 ## Usage
 
