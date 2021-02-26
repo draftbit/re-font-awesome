@@ -18,6 +18,7 @@
     "Font Awesome"
   ],
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/react-fontawesome": "^0.1.14"
   },
   "peerDependencies": {
