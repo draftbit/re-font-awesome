@@ -1,3 +1,7 @@
+lib
+node_modules
+yarn-error.log
+
 *.exe
 *.obj
 *.out
@@ -18,7 +22,6 @@
 *.annot
 *.cmj
 *.bak
-lib/bs
 *.mlast
 *.mliast
 .vscode

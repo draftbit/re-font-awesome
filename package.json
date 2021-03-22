@@ -1,6 +1,8 @@
 {
-  "name": "@draftbit/re-font-awesome",
-  "version": "1.4.0",
+  "name": "@draftbit/rescript-font-awesome",
+  "version": "2.0.2",
+  "author": "",
+  "license": "MIT",
   "scripts": {
     "copy-git-hooks": "if [ -e ./hooks ] && [ -e ./.git/hooks ]; then cp -v ./hooks/* ./.git/hooks; fi",
     "prepare": "if [ -z \"$CI\" ]; then yarn copy-git-hooks; fi",
@@ -11,29 +13,35 @@
     "gen": "yarn gen-icon-bindings && yarn bsrefmt --in-place src/*.re"
   },
   "keywords": [
-    "BuckleScript"
+    "BuckleScript",
+    "Rescript",
+    "FontAwesome",
+    "Font Awesome"
   ],
   "dependencies": {
-    "reason-react": "^0.9.1"
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/react-fontawesome": "^0.1.14"
+  },
+  "peerDependencies": {
+    "@rescript/react": "^0.10.1"
   },
   "optionalDependencies": {
-    "@fortawesome/free-regular-svg-icons": "^5.13.0",
-    "@fortawesome/free-solid-svg-icons": "^5.13.0",
-    "@fortawesome/free-brands-svg-icons": "^5.13.0",
-    "@fortawesome/pro-duotone-svg-icons": "^5.13.0",
-    "@fortawesome/pro-light-svg-icons": "^5.13.0",
-    "@fortawesome/pro-regular-svg-icons": "^5.13.0",
-    "@fortawesome/pro-solid-svg-icons": "^5.13.0"
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-regular-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/pro-duotone-svg-icons": "^5.15.2",
+    "@fortawesome/pro-light-svg-icons": "^5.15.2",
+    "@fortawesome/pro-regular-svg-icons": "^5.15.2",
+    "@fortawesome/pro-solid-svg-icons": "^5.15.2"
   },
-  "author": "",
-  "license": "MIT",
   "devDependencies": {
-    "@fortawesome/free-brands-svg-icons": "^5.13.0",
-    "@fortawesome/pro-duotone-svg-icons": "^5.13.0",
-    "@fortawesome/pro-light-svg-icons": "^5.13.0",
-    "@fortawesome/pro-regular-svg-icons": "^5.13.0",
-    "@fortawesome/pro-solid-svg-icons": "^5.13.0",
-    "bs-platform": "^7.3.2",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/pro-duotone-svg-icons": "^5.15.2",
+    "@fortawesome/pro-light-svg-icons": "^5.15.2",
+    "@fortawesome/pro-regular-svg-icons": "^5.15.2",
+    "@fortawesome/pro-solid-svg-icons": "^5.15.2",
+    "@rescript/react": "^0.10.1",
+    "bs-platform": "^9.0.1",
     "lint-staged": "^10.4.0",
     "prettier": "^2.1.2"
   },
