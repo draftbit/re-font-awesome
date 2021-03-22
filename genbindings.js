@@ -17,7 +17,9 @@ const iconObjectTypeName = "IconObject.t";
       `[@bs.module "${libName}"]\nexternal ${n}: ${iconObjectTypeName} = "${n}";`
   );
   const capitalizedStyle = style[0].toUpperCase() + style.slice(1);
-  const moduleName = `${tier === "free" ? "Free" : ""}${capitalizedStyle}`;
+  const moduleName = `${
+    tier === "free" && style !== "brands" ? "Free" : ""
+  }${capitalizedStyle}`;
   const moduleContents = bindings.join("\n\n");
   const bindingPath = `src/${moduleName}.re`;
   require("fs").writeFileSync(bindingPath, moduleContents);

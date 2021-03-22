@@ -8,7 +8,7 @@
     "re:build": "bsb -make-world",
     "re:watch": "bsb -make-world -w",
     "gen-icon-bindings": "node genbindings.js",
-    "gen": "yarn gen-icon-bindings"
+    "gen": "yarn gen-icon-bindings && yarn bsrefmt --in-place src/*.re"
   },
   "keywords": [
     "BuckleScript"
