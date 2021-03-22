@@ -7,6 +7,7 @@ const iconObjectTypeName = "IconObject.t";
   ["duotone", "pro"],
   ["regular", "free"],
   ["solid", "free"],
+  ["brands", "free"],
 ].forEach(([style, tier]) => {
   const libName = `@fortawesome/${tier}-${style}-svg-icons`;
   const lib = require(libName);
