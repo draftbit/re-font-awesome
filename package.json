@@ -54,6 +54,9 @@
     ],
     "*.{re,rei}": [
       "bsrefmt --in-place"
+    ],
+    "*.res": [
+      "node ./format-rescript.js"
     ]
   }
 }
