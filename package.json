@@ -19,27 +19,27 @@
     "Font Awesome"
   ],
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.34",
-    "@fortawesome/react-fontawesome": "^0.1.14"
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0"
   },
   "peerDependencies": {
     "@rescript/react": "^0.10.1"
   },
   "optionalDependencies": {
-    "@fortawesome/free-brands-svg-icons": "^5.15.2",
-    "@fortawesome/free-regular-svg-icons": "^5.15.2",
-    "@fortawesome/free-solid-svg-icons": "^5.15.2",
-    "@fortawesome/pro-duotone-svg-icons": "^5.15.2",
-    "@fortawesome/pro-light-svg-icons": "^5.15.2",
-    "@fortawesome/pro-regular-svg-icons": "^5.15.2",
-    "@fortawesome/pro-solid-svg-icons": "^5.15.2"
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/pro-duotone-svg-icons": "^6.2.0",
+    "@fortawesome/pro-light-svg-icons": "^6.2.0",
+    "@fortawesome/pro-regular-svg-icons": "^6.2.0",
+    "@fortawesome/pro-solid-svg-icons": "^6.2.0"
   },
   "devDependencies": {
-    "@fortawesome/free-brands-svg-icons": "^5.15.2",
-    "@fortawesome/pro-duotone-svg-icons": "^5.15.2",
-    "@fortawesome/pro-light-svg-icons": "^5.15.2",
-    "@fortawesome/pro-regular-svg-icons": "^5.15.2",
-    "@fortawesome/pro-solid-svg-icons": "^5.15.2",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/pro-duotone-svg-icons": "^6.2.0",
+    "@fortawesome/pro-light-svg-icons": "^6.2.0",
+    "@fortawesome/pro-regular-svg-icons": "^6.2.0",
+    "@fortawesome/pro-solid-svg-icons": "^6.2.0",
     "@rescript/react": "^0.10.1",
     "bs-platform": "^9.0.1",
     "lint-staged": "^10.4.0",
