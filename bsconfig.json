@@ -5,10 +5,17 @@
     "react-jsx": 3
   },
   "version": "2.0.1",
-  "sources": {
-    "dir": "src",
-    "subdirs": true
-  },
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    },
+    {
+      "dir": "example",
+      "type": "dev",
+      "subdirs": false
+    }
+  ],
   "package-specs": {
     "module": "commonjs",
     "in-source": true

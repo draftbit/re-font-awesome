@@ -10,7 +10,11 @@
     "re:build": "bsb -make-world",
     "re:watch": "bsb -make-world -w",
     "gen-icon-bindings": "node genbindings.js",
-    "gen": "yarn gen-icon-bindings"
+    "gen": "yarn gen-icon-bindings",
+    "example:css:build": "tailwindcss -i ./example/index.css -o ./example/tailwind.css",
+    "example:css:watch": "yarn example:css:build --watch",
+    "example:parcel": "parcel example/index.html",
+    "example:start": "concurrently --names 'res,css,parcel' 'yarn re:watch' 'yarn example:css:watch' 'yarn example:parcel'"
   },
   "keywords": [
     "BuckleScript",
@@ -42,8 +46,14 @@
     "@fortawesome/pro-solid-svg-icons": "^6.2.0",
     "@rescript/react": "^0.10.1",
     "bs-platform": "^9.0.1",
+    "concurrently": "^7.5.0",
     "lint-staged": "^10.4.0",
-    "prettier": "^2.1.2"
+    "parcel": "^2.7.0",
+    "prettier": "^2.1.2",
+    "process": "^0.11.10",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "tailwindcss": "^3.2.2"
   },
   "lint-staged": {
     "*.js": [
