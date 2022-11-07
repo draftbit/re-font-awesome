@@ -4,10 +4,12 @@ type iconSet = [
   | #Regular
   | #Light
   | #Duotone
+  | #Thin
+  | #SharpSolid
   | #Brands
 ]
 
-let iconSets = [#Solid, #Regular, #Light, #Duotone, #Brands]
+let iconSets = [#Solid, #Regular, #Light, #Duotone, #Thin, #SharpSolid, #Brands]
 
 let getAll = iconSet =>
   switch iconSet {
@@ -15,13 +17,15 @@ let getAll = iconSet =>
   | #Regular => Regular_All.all
   | #Light => Light_All.all
   | #Duotone => Duotone_All.all
+  | #Thin => Thin_All.all
+  | #SharpSolid => SharpSolid_All.all
   | #Brands => Brands_All.all
   }
 
 @react.component
 let make = () => {
   let (iconSet, setIconSet) = React.useState(_ => #Solid)
-  let (size, setSize) = React.useState(_ => "2x")
+  let (size: IconSize.t, setSize) = React.useState(_ => #"2x")
   let icons = iconSet->getAll
   <div className="flex flex-col">
     <div className="flex flex-row">
@@ -48,11 +52,13 @@ let make = () => {
           className="ml-1"
           onChange={event => {
             let value = ReactEvent.Form.target(event)["value"]
-            setSize(_ => value)
+            value->IconSize.tFromJs->Belt.Option.forEach(size => setSize(_ => size))
           }}>
-          {["xs", "sm", "md", "lg", "2x", "3x", "4x", "5x", "6x"]
+          {IconSize.all
           ->Js.Array2.map(s =>
-            <option key=s selected={s == size} value=s> {React.string(s)} </option>
+            <option key={IconSize.tToJs(s)} selected={s == size} value={IconSize.tToJs(s)}>
+              {React.string(s->IconSize.tToJs)}
+            </option>
           )
           ->React.array}
         </select>

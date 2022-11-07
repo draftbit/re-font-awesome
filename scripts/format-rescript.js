@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 const { basename } = require("path");
 const { lstatSync } = require("fs");
-const formatRescriptFile = require("./formatRescriptFile");
+const formatRescriptFile = require("../formatRescriptFile");
 const fileNames = process.argv.slice(2);
 
 if (!fileNames.length) {
