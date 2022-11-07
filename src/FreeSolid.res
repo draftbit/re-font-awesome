@@ -1,3005 +1,5745 @@
 @module("@fortawesome/free-solid-svg-icons")
-external faAd: IconObject.t = "faAd";
+external faAd: IconObject.t = "faAd"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAddressBook: IconObject.t = "faAddressBook";
+external faAdd: IconObject.t = "faAdd"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAddressCard: IconObject.t = "faAddressCard";
+external faAddressBook: IconObject.t = "faAddressBook"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAdjust: IconObject.t = "faAdjust";
+external faAddressCard: IconObject.t = "faAddressCard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAirFreshener: IconObject.t = "faAirFreshener";
+external faAdjust: IconObject.t = "faAdjust"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAlignCenter: IconObject.t = "faAlignCenter";
+external faAirFreshener: IconObject.t = "faAirFreshener"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAlignJustify: IconObject.t = "faAlignJustify";
+external faAlignCenter: IconObject.t = "faAlignCenter"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAlignLeft: IconObject.t = "faAlignLeft";
+external faAlignJustify: IconObject.t = "faAlignJustify"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAlignRight: IconObject.t = "faAlignRight";
+external faAlignLeft: IconObject.t = "faAlignLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAllergies: IconObject.t = "faAllergies";
+external faAlignRight: IconObject.t = "faAlignRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAmbulance: IconObject.t = "faAmbulance";
+external faAllergies: IconObject.t = "faAllergies"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAmericanSignLanguageInterpreting: IconObject.t = "faAmericanSignLanguageInterpreting";
+external faAmbulance: IconObject.t = "faAmbulance"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAnchor: IconObject.t = "faAnchor";
+external faAmericanSignLanguageInterpreting: IconObject.t = "faAmericanSignLanguageInterpreting"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngleDoubleDown: IconObject.t = "faAngleDoubleDown";
+external faAnchor: IconObject.t = "faAnchor"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngleDoubleLeft: IconObject.t = "faAngleDoubleLeft";
+external faAnchorCircleCheck: IconObject.t = "faAnchorCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngleDoubleRight: IconObject.t = "faAngleDoubleRight";
+external faAnchorCircleExclamation: IconObject.t = "faAnchorCircleExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngleDoubleUp: IconObject.t = "faAngleDoubleUp";
+external faAnchorCircleXmark: IconObject.t = "faAnchorCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngleDown: IconObject.t = "faAngleDown";
+external faAnchorLock: IconObject.t = "faAnchorLock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngleLeft: IconObject.t = "faAngleLeft";
+external faAngleDoubleDown: IconObject.t = "faAngleDoubleDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngleRight: IconObject.t = "faAngleRight";
+external faAngleDoubleLeft: IconObject.t = "faAngleDoubleLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngleUp: IconObject.t = "faAngleUp";
+external faAngleDoubleRight: IconObject.t = "faAngleDoubleRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAngry: IconObject.t = "faAngry";
+external faAngleDoubleUp: IconObject.t = "faAngleDoubleUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAnkh: IconObject.t = "faAnkh";
+external faAngleDown: IconObject.t = "faAngleDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAppleAlt: IconObject.t = "faAppleAlt";
+external faAngleLeft: IconObject.t = "faAngleLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArchive: IconObject.t = "faArchive";
+external faAngleRight: IconObject.t = "faAngleRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArchway: IconObject.t = "faArchway";
+external faAngleUp: IconObject.t = "faAngleUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowAltCircleDown: IconObject.t = "faArrowAltCircleDown";
+external faAnglesDown: IconObject.t = "faAnglesDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowAltCircleLeft: IconObject.t = "faArrowAltCircleLeft";
+external faAnglesLeft: IconObject.t = "faAnglesLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowAltCircleRight: IconObject.t = "faArrowAltCircleRight";
+external faAnglesRight: IconObject.t = "faAnglesRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowAltCircleUp: IconObject.t = "faArrowAltCircleUp";
+external faAnglesUp: IconObject.t = "faAnglesUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowCircleDown: IconObject.t = "faArrowCircleDown";
+external faAngry: IconObject.t = "faAngry"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowCircleLeft: IconObject.t = "faArrowCircleLeft";
+external faAnkh: IconObject.t = "faAnkh"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowCircleRight: IconObject.t = "faArrowCircleRight";
+external faAppleAlt: IconObject.t = "faAppleAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowCircleUp: IconObject.t = "faArrowCircleUp";
+external faAppleWhole: IconObject.t = "faAppleWhole"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowDown: IconObject.t = "faArrowDown";
+external faArchive: IconObject.t = "faArchive"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowLeft: IconObject.t = "faArrowLeft";
+external faArchway: IconObject.t = "faArchway"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowRight: IconObject.t = "faArrowRight";
+external faAreaChart: IconObject.t = "faAreaChart"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowUp: IconObject.t = "faArrowUp";
+external faArrowAltCircleDown: IconObject.t = "faArrowAltCircleDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowsAlt: IconObject.t = "faArrowsAlt";
+external faArrowAltCircleLeft: IconObject.t = "faArrowAltCircleLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowsAltH: IconObject.t = "faArrowsAltH";
+external faArrowAltCircleRight: IconObject.t = "faArrowAltCircleRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowsAltV: IconObject.t = "faArrowsAltV";
+external faArrowAltCircleUp: IconObject.t = "faArrowAltCircleUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAssistiveListeningSystems: IconObject.t = "faAssistiveListeningSystems";
+external faArrowCircleDown: IconObject.t = "faArrowCircleDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAsterisk: IconObject.t = "faAsterisk";
+external faArrowCircleLeft: IconObject.t = "faArrowCircleLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAt: IconObject.t = "faAt";
+external faArrowCircleRight: IconObject.t = "faArrowCircleRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAtlas: IconObject.t = "faAtlas";
+external faArrowCircleUp: IconObject.t = "faArrowCircleUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAtom: IconObject.t = "faAtom";
+external faArrowDown: IconObject.t = "faArrowDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAudioDescription: IconObject.t = "faAudioDescription";
+external faArrowDown19: IconObject.t = "faArrowDown19"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faAward: IconObject.t = "faAward";
+external faArrowDown91: IconObject.t = "faArrowDown91"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBaby: IconObject.t = "faBaby";
+external faArrowDownAZ: IconObject.t = "faArrowDownAZ"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBabyCarriage: IconObject.t = "faBabyCarriage";
+external faArrowDownLong: IconObject.t = "faArrowDownLong"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBackspace: IconObject.t = "faBackspace";
+external faArrowDownShortWide: IconObject.t = "faArrowDownShortWide"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBackward: IconObject.t = "faBackward";
+external faArrowDownUpAcrossLine: IconObject.t = "faArrowDownUpAcrossLine"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBacon: IconObject.t = "faBacon";
+external faArrowDownUpLock: IconObject.t = "faArrowDownUpLock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBacteria: IconObject.t = "faBacteria";
+external faArrowDownWideShort: IconObject.t = "faArrowDownWideShort"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBacterium: IconObject.t = "faBacterium";
+external faArrowDownZA: IconObject.t = "faArrowDownZA"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBahai: IconObject.t = "faBahai";
+external faArrowLeft: IconObject.t = "faArrowLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBalanceScale: IconObject.t = "faBalanceScale";
+external faArrowLeftLong: IconObject.t = "faArrowLeftLong"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBalanceScaleLeft: IconObject.t = "faBalanceScaleLeft";
+external faArrowLeftRotate: IconObject.t = "faArrowLeftRotate"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBalanceScaleRight: IconObject.t = "faBalanceScaleRight";
+external faArrowPointer: IconObject.t = "faArrowPointer"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBan: IconObject.t = "faBan";
+external faArrowRight: IconObject.t = "faArrowRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBandAid: IconObject.t = "faBandAid";
+external faArrowRightArrowLeft: IconObject.t = "faArrowRightArrowLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBarcode: IconObject.t = "faBarcode";
+external faArrowRightFromBracket: IconObject.t = "faArrowRightFromBracket"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBars: IconObject.t = "faBars";
+external faArrowRightFromFile: IconObject.t = "faArrowRightFromFile"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBaseballBall: IconObject.t = "faBaseballBall";
+external faArrowRightLong: IconObject.t = "faArrowRightLong"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBasketballBall: IconObject.t = "faBasketballBall";
+external faArrowRightRotate: IconObject.t = "faArrowRightRotate"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBath: IconObject.t = "faBath";
+external faArrowRightToBracket: IconObject.t = "faArrowRightToBracket"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBatteryEmpty: IconObject.t = "faBatteryEmpty";
+external faArrowRightToCity: IconObject.t = "faArrowRightToCity"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBatteryFull: IconObject.t = "faBatteryFull";
+external faArrowRightToFile: IconObject.t = "faArrowRightToFile"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBatteryHalf: IconObject.t = "faBatteryHalf";
+external faArrowRotateBack: IconObject.t = "faArrowRotateBack"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBatteryQuarter: IconObject.t = "faBatteryQuarter";
+external faArrowRotateBackward: IconObject.t = "faArrowRotateBackward"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBatteryThreeQuarters: IconObject.t = "faBatteryThreeQuarters";
+external faArrowRotateForward: IconObject.t = "faArrowRotateForward"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBed: IconObject.t = "faBed";
+external faArrowRotateLeft: IconObject.t = "faArrowRotateLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBeer: IconObject.t = "faBeer";
+external faArrowRotateRight: IconObject.t = "faArrowRotateRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBell: IconObject.t = "faBell";
+external faArrowTrendDown: IconObject.t = "faArrowTrendDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBellSlash: IconObject.t = "faBellSlash";
+external faArrowTrendUp: IconObject.t = "faArrowTrendUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBezierCurve: IconObject.t = "faBezierCurve";
+external faArrowTurnDown: IconObject.t = "faArrowTurnDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBible: IconObject.t = "faBible";
+external faArrowTurnRight: IconObject.t = "faArrowTurnRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBicycle: IconObject.t = "faBicycle";
+external faArrowTurnUp: IconObject.t = "faArrowTurnUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBiking: IconObject.t = "faBiking";
+external faArrowUp: IconObject.t = "faArrowUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBinoculars: IconObject.t = "faBinoculars";
+external faArrowUp19: IconObject.t = "faArrowUp19"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBiohazard: IconObject.t = "faBiohazard";
+external faArrowUp91: IconObject.t = "faArrowUp91"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBirthdayCake: IconObject.t = "faBirthdayCake";
+external faArrowUpAZ: IconObject.t = "faArrowUpAZ"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBlender: IconObject.t = "faBlender";
+external faArrowUpFromBracket: IconObject.t = "faArrowUpFromBracket"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBlenderPhone: IconObject.t = "faBlenderPhone";
+external faArrowUpFromGroundWater: IconObject.t = "faArrowUpFromGroundWater"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBlind: IconObject.t = "faBlind";
+external faArrowUpFromWaterPump: IconObject.t = "faArrowUpFromWaterPump"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBlog: IconObject.t = "faBlog";
+external faArrowUpLong: IconObject.t = "faArrowUpLong"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBold: IconObject.t = "faBold";
+external faArrowUpRightDots: IconObject.t = "faArrowUpRightDots"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBolt: IconObject.t = "faBolt";
+external faArrowUpRightFromSquare: IconObject.t = "faArrowUpRightFromSquare"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBomb: IconObject.t = "faBomb";
+external faArrowUpShortWide: IconObject.t = "faArrowUpShortWide"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBone: IconObject.t = "faBone";
+external faArrowUpWideShort: IconObject.t = "faArrowUpWideShort"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBong: IconObject.t = "faBong";
+external faArrowUpZA: IconObject.t = "faArrowUpZA"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBook: IconObject.t = "faBook";
+external faArrows: IconObject.t = "faArrows"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBookDead: IconObject.t = "faBookDead";
+external faArrowsAlt: IconObject.t = "faArrowsAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBookMedical: IconObject.t = "faBookMedical";
+external faArrowsAltH: IconObject.t = "faArrowsAltH"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBookOpen: IconObject.t = "faBookOpen";
+external faArrowsAltV: IconObject.t = "faArrowsAltV"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBookReader: IconObject.t = "faBookReader";
+external faArrowsDownToLine: IconObject.t = "faArrowsDownToLine"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBookmark: IconObject.t = "faBookmark";
+external faArrowsDownToPeople: IconObject.t = "faArrowsDownToPeople"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBorderAll: IconObject.t = "faBorderAll";
+external faArrowsH: IconObject.t = "faArrowsH"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBorderNone: IconObject.t = "faBorderNone";
+external faArrowsLeftRight: IconObject.t = "faArrowsLeftRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBorderStyle: IconObject.t = "faBorderStyle";
+external faArrowsLeftRightToLine: IconObject.t = "faArrowsLeftRightToLine"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBowlingBall: IconObject.t = "faBowlingBall";
+external faArrowsRotate: IconObject.t = "faArrowsRotate"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBox: IconObject.t = "faBox";
+external faArrowsSpin: IconObject.t = "faArrowsSpin"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBoxOpen: IconObject.t = "faBoxOpen";
+external faArrowsSplitUpAndLeft: IconObject.t = "faArrowsSplitUpAndLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBoxTissue: IconObject.t = "faBoxTissue";
+external faArrowsToCircle: IconObject.t = "faArrowsToCircle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBoxes: IconObject.t = "faBoxes";
+external faArrowsToDot: IconObject.t = "faArrowsToDot"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBraille: IconObject.t = "faBraille";
+external faArrowsToEye: IconObject.t = "faArrowsToEye"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBrain: IconObject.t = "faBrain";
+external faArrowsTurnRight: IconObject.t = "faArrowsTurnRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBreadSlice: IconObject.t = "faBreadSlice";
+external faArrowsTurnToDots: IconObject.t = "faArrowsTurnToDots"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBriefcase: IconObject.t = "faBriefcase";
+external faArrowsUpDown: IconObject.t = "faArrowsUpDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBriefcaseMedical: IconObject.t = "faBriefcaseMedical";
+external faArrowsUpDownLeftRight: IconObject.t = "faArrowsUpDownLeftRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBroadcastTower: IconObject.t = "faBroadcastTower";
+external faArrowsUpToLine: IconObject.t = "faArrowsUpToLine"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBroom: IconObject.t = "faBroom";
+external faArrowsV: IconObject.t = "faArrowsV"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBrush: IconObject.t = "faBrush";
+external faAslInterpreting: IconObject.t = "faAslInterpreting"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBug: IconObject.t = "faBug";
+external faAssistiveListeningSystems: IconObject.t = "faAssistiveListeningSystems"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBuilding: IconObject.t = "faBuilding";
+external faAsterisk: IconObject.t = "faAsterisk"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBullhorn: IconObject.t = "faBullhorn";
+external faAt: IconObject.t = "faAt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBullseye: IconObject.t = "faBullseye";
+external faAtlas: IconObject.t = "faAtlas"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBurn: IconObject.t = "faBurn";
+external faAtom: IconObject.t = "faAtom"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBus: IconObject.t = "faBus";
+external faAudioDescription: IconObject.t = "faAudioDescription"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBusAlt: IconObject.t = "faBusAlt";
+external faAustralSign: IconObject.t = "faAustralSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faBusinessTime: IconObject.t = "faBusinessTime";
+external faAutomobile: IconObject.t = "faAutomobile"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalculator: IconObject.t = "faCalculator";
+external faAward: IconObject.t = "faAward"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalendar: IconObject.t = "faCalendar";
+external faBaby: IconObject.t = "faBaby"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalendarAlt: IconObject.t = "faCalendarAlt";
+external faBabyCarriage: IconObject.t = "faBabyCarriage"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalendarCheck: IconObject.t = "faCalendarCheck";
+external faBackspace: IconObject.t = "faBackspace"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalendarDay: IconObject.t = "faCalendarDay";
+external faBackward: IconObject.t = "faBackward"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalendarMinus: IconObject.t = "faCalendarMinus";
+external faBackwardFast: IconObject.t = "faBackwardFast"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalendarPlus: IconObject.t = "faCalendarPlus";
+external faBackwardStep: IconObject.t = "faBackwardStep"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalendarTimes: IconObject.t = "faCalendarTimes";
+external faBacon: IconObject.t = "faBacon"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCalendarWeek: IconObject.t = "faCalendarWeek";
+external faBacteria: IconObject.t = "faBacteria"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCamera: IconObject.t = "faCamera";
+external faBacterium: IconObject.t = "faBacterium"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCameraRetro: IconObject.t = "faCameraRetro";
+external faBagShopping: IconObject.t = "faBagShopping"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCampground: IconObject.t = "faCampground";
+external faBahai: IconObject.t = "faBahai"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCandyCane: IconObject.t = "faCandyCane";
+external faBahtSign: IconObject.t = "faBahtSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCannabis: IconObject.t = "faCannabis";
+external faBalanceScale: IconObject.t = "faBalanceScale"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCapsules: IconObject.t = "faCapsules";
+external faBalanceScaleLeft: IconObject.t = "faBalanceScaleLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCar: IconObject.t = "faCar";
+external faBalanceScaleRight: IconObject.t = "faBalanceScaleRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCarAlt: IconObject.t = "faCarAlt";
+external faBan: IconObject.t = "faBan"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCarBattery: IconObject.t = "faCarBattery";
+external faBanSmoking: IconObject.t = "faBanSmoking"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCarCrash: IconObject.t = "faCarCrash";
+external faBandAid: IconObject.t = "faBandAid"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCarSide: IconObject.t = "faCarSide";
+external faBandage: IconObject.t = "faBandage"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaravan: IconObject.t = "faCaravan";
+external faBank: IconObject.t = "faBank"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaretDown: IconObject.t = "faCaretDown";
+external faBarChart: IconObject.t = "faBarChart"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaretLeft: IconObject.t = "faCaretLeft";
+external faBarcode: IconObject.t = "faBarcode"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaretRight: IconObject.t = "faCaretRight";
+external faBars: IconObject.t = "faBars"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaretSquareDown: IconObject.t = "faCaretSquareDown";
+external faBarsProgress: IconObject.t = "faBarsProgress"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaretSquareLeft: IconObject.t = "faCaretSquareLeft";
+external faBarsStaggered: IconObject.t = "faBarsStaggered"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaretSquareRight: IconObject.t = "faCaretSquareRight";
+external faBaseball: IconObject.t = "faBaseball"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaretSquareUp: IconObject.t = "faCaretSquareUp";
+external faBaseballBall: IconObject.t = "faBaseballBall"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCaretUp: IconObject.t = "faCaretUp";
+external faBaseballBatBall: IconObject.t = "faBaseballBatBall"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCarrot: IconObject.t = "faCarrot";
+external faBasketShopping: IconObject.t = "faBasketShopping"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCartArrowDown: IconObject.t = "faCartArrowDown";
+external faBasketball: IconObject.t = "faBasketball"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCartPlus: IconObject.t = "faCartPlus";
+external faBasketballBall: IconObject.t = "faBasketballBall"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCashRegister: IconObject.t = "faCashRegister";
+external faBath: IconObject.t = "faBath"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCat: IconObject.t = "faCat";
+external faBathtub: IconObject.t = "faBathtub"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCertificate: IconObject.t = "faCertificate";
+external faBattery: IconObject.t = "faBattery"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChair: IconObject.t = "faChair";
+external faBattery0: IconObject.t = "faBattery0"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChalkboard: IconObject.t = "faChalkboard";
+external faBattery2: IconObject.t = "faBattery2"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChalkboardTeacher: IconObject.t = "faChalkboardTeacher";
+external faBattery3: IconObject.t = "faBattery3"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChargingStation: IconObject.t = "faChargingStation";
+external faBattery4: IconObject.t = "faBattery4"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChartArea: IconObject.t = "faChartArea";
+external faBattery5: IconObject.t = "faBattery5"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChartBar: IconObject.t = "faChartBar";
+external faBatteryCar: IconObject.t = "faBatteryCar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChartLine: IconObject.t = "faChartLine";
+external faBatteryEmpty: IconObject.t = "faBatteryEmpty"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChartPie: IconObject.t = "faChartPie";
+external faBatteryFull: IconObject.t = "faBatteryFull"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCheck: IconObject.t = "faCheck";
+external faBatteryHalf: IconObject.t = "faBatteryHalf"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCheckCircle: IconObject.t = "faCheckCircle";
+external faBatteryQuarter: IconObject.t = "faBatteryQuarter"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCheckDouble: IconObject.t = "faCheckDouble";
+external faBatteryThreeQuarters: IconObject.t = "faBatteryThreeQuarters"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCheckSquare: IconObject.t = "faCheckSquare";
+external faBed: IconObject.t = "faBed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCheese: IconObject.t = "faCheese";
+external faBedPulse: IconObject.t = "faBedPulse"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChess: IconObject.t = "faChess";
+external faBeer: IconObject.t = "faBeer"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChessBishop: IconObject.t = "faChessBishop";
+external faBeerMugEmpty: IconObject.t = "faBeerMugEmpty"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChessBoard: IconObject.t = "faChessBoard";
+external faBell: IconObject.t = "faBell"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChessKing: IconObject.t = "faChessKing";
+external faBellConcierge: IconObject.t = "faBellConcierge"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChessKnight: IconObject.t = "faChessKnight";
+external faBellSlash: IconObject.t = "faBellSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChessPawn: IconObject.t = "faChessPawn";
+external faBezierCurve: IconObject.t = "faBezierCurve"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChessQueen: IconObject.t = "faChessQueen";
+external faBible: IconObject.t = "faBible"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChessRook: IconObject.t = "faChessRook";
+external faBicycle: IconObject.t = "faBicycle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChevronCircleDown: IconObject.t = "faChevronCircleDown";
+external faBiking: IconObject.t = "faBiking"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChevronCircleLeft: IconObject.t = "faChevronCircleLeft";
+external faBinoculars: IconObject.t = "faBinoculars"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChevronCircleRight: IconObject.t = "faChevronCircleRight";
+external faBiohazard: IconObject.t = "faBiohazard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChevronCircleUp: IconObject.t = "faChevronCircleUp";
+external faBirthdayCake: IconObject.t = "faBirthdayCake"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChevronDown: IconObject.t = "faChevronDown";
+external faBitcoinSign: IconObject.t = "faBitcoinSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChevronLeft: IconObject.t = "faChevronLeft";
+external faBlackboard: IconObject.t = "faBlackboard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChevronRight: IconObject.t = "faChevronRight";
+external faBlender: IconObject.t = "faBlender"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChevronUp: IconObject.t = "faChevronUp";
+external faBlenderPhone: IconObject.t = "faBlenderPhone"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChild: IconObject.t = "faChild";
+external faBlind: IconObject.t = "faBlind"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faChurch: IconObject.t = "faChurch";
+external faBlog: IconObject.t = "faBlog"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCircle: IconObject.t = "faCircle";
+external faBold: IconObject.t = "faBold"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCircleNotch: IconObject.t = "faCircleNotch";
+external faBolt: IconObject.t = "faBolt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCity: IconObject.t = "faCity";
+external faBoltLightning: IconObject.t = "faBoltLightning"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faClinicMedical: IconObject.t = "faClinicMedical";
+external faBomb: IconObject.t = "faBomb"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faClipboard: IconObject.t = "faClipboard";
+external faBone: IconObject.t = "faBone"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faClipboardCheck: IconObject.t = "faClipboardCheck";
+external faBong: IconObject.t = "faBong"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faClipboardList: IconObject.t = "faClipboardList";
+external faBook: IconObject.t = "faBook"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faClock: IconObject.t = "faClock";
+external faBookAtlas: IconObject.t = "faBookAtlas"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faClone: IconObject.t = "faClone";
+external faBookBible: IconObject.t = "faBookBible"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faClosedCaptioning: IconObject.t = "faClosedCaptioning";
+external faBookBookmark: IconObject.t = "faBookBookmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloud: IconObject.t = "faCloud";
+external faBookDead: IconObject.t = "faBookDead"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudDownloadAlt: IconObject.t = "faCloudDownloadAlt";
+external faBookJournalWhills: IconObject.t = "faBookJournalWhills"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudMeatball: IconObject.t = "faCloudMeatball";
+external faBookMedical: IconObject.t = "faBookMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudMoon: IconObject.t = "faCloudMoon";
+external faBookOpen: IconObject.t = "faBookOpen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudMoonRain: IconObject.t = "faCloudMoonRain";
+external faBookOpenReader: IconObject.t = "faBookOpenReader"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudRain: IconObject.t = "faCloudRain";
+external faBookQuran: IconObject.t = "faBookQuran"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudShowersHeavy: IconObject.t = "faCloudShowersHeavy";
+external faBookReader: IconObject.t = "faBookReader"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudSun: IconObject.t = "faCloudSun";
+external faBookSkull: IconObject.t = "faBookSkull"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudSunRain: IconObject.t = "faCloudSunRain";
+external faBookTanakh: IconObject.t = "faBookTanakh"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCloudUploadAlt: IconObject.t = "faCloudUploadAlt";
+external faBookmark: IconObject.t = "faBookmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCocktail: IconObject.t = "faCocktail";
+external faBorderAll: IconObject.t = "faBorderAll"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCode: IconObject.t = "faCode";
+external faBorderNone: IconObject.t = "faBorderNone"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCodeBranch: IconObject.t = "faCodeBranch";
+external faBorderStyle: IconObject.t = "faBorderStyle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCoffee: IconObject.t = "faCoffee";
+external faBorderTopLeft: IconObject.t = "faBorderTopLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCog: IconObject.t = "faCog";
+external faBoreHole: IconObject.t = "faBoreHole"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCogs: IconObject.t = "faCogs";
+external faBottleDroplet: IconObject.t = "faBottleDroplet"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCoins: IconObject.t = "faCoins";
+external faBottleWater: IconObject.t = "faBottleWater"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faColumns: IconObject.t = "faColumns";
+external faBowlFood: IconObject.t = "faBowlFood"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faComment: IconObject.t = "faComment";
+external faBowlRice: IconObject.t = "faBowlRice"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCommentAlt: IconObject.t = "faCommentAlt";
+external faBowlingBall: IconObject.t = "faBowlingBall"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCommentDollar: IconObject.t = "faCommentDollar";
+external faBox: IconObject.t = "faBox"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCommentDots: IconObject.t = "faCommentDots";
+external faBoxArchive: IconObject.t = "faBoxArchive"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCommentMedical: IconObject.t = "faCommentMedical";
+external faBoxOpen: IconObject.t = "faBoxOpen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCommentSlash: IconObject.t = "faCommentSlash";
+external faBoxTissue: IconObject.t = "faBoxTissue"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faComments: IconObject.t = "faComments";
+external faBoxes: IconObject.t = "faBoxes"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCommentsDollar: IconObject.t = "faCommentsDollar";
+external faBoxesAlt: IconObject.t = "faBoxesAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCompactDisc: IconObject.t = "faCompactDisc";
+external faBoxesPacking: IconObject.t = "faBoxesPacking"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCompass: IconObject.t = "faCompass";
+external faBoxesStacked: IconObject.t = "faBoxesStacked"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCompress: IconObject.t = "faCompress";
+external faBraille: IconObject.t = "faBraille"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCompressAlt: IconObject.t = "faCompressAlt";
+external faBrain: IconObject.t = "faBrain"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCompressArrowsAlt: IconObject.t = "faCompressArrowsAlt";
+external faBrazilianRealSign: IconObject.t = "faBrazilianRealSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faConciergeBell: IconObject.t = "faConciergeBell";
+external faBreadSlice: IconObject.t = "faBreadSlice"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCookie: IconObject.t = "faCookie";
+external faBridge: IconObject.t = "faBridge"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCookieBite: IconObject.t = "faCookieBite";
+external faBridgeCircleCheck: IconObject.t = "faBridgeCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCopy: IconObject.t = "faCopy";
+external faBridgeCircleExclamation: IconObject.t = "faBridgeCircleExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCopyright: IconObject.t = "faCopyright";
+external faBridgeCircleXmark: IconObject.t = "faBridgeCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCouch: IconObject.t = "faCouch";
+external faBridgeLock: IconObject.t = "faBridgeLock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCreditCard: IconObject.t = "faCreditCard";
+external faBridgeWater: IconObject.t = "faBridgeWater"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCrop: IconObject.t = "faCrop";
+external faBriefcase: IconObject.t = "faBriefcase"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCropAlt: IconObject.t = "faCropAlt";
+external faBriefcaseClock: IconObject.t = "faBriefcaseClock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCross: IconObject.t = "faCross";
+external faBriefcaseMedical: IconObject.t = "faBriefcaseMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCrosshairs: IconObject.t = "faCrosshairs";
+external faBroadcastTower: IconObject.t = "faBroadcastTower"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCrow: IconObject.t = "faCrow";
+external faBroom: IconObject.t = "faBroom"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCrown: IconObject.t = "faCrown";
+external faBroomBall: IconObject.t = "faBroomBall"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCrutch: IconObject.t = "faCrutch";
+external faBrush: IconObject.t = "faBrush"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCube: IconObject.t = "faCube";
+external faBucket: IconObject.t = "faBucket"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCubes: IconObject.t = "faCubes";
+external faBug: IconObject.t = "faBug"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faCut: IconObject.t = "faCut";
+external faBugSlash: IconObject.t = "faBugSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDatabase: IconObject.t = "faDatabase";
+external faBugs: IconObject.t = "faBugs"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDeaf: IconObject.t = "faDeaf";
+external faBuilding: IconObject.t = "faBuilding"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDemocrat: IconObject.t = "faDemocrat";
+external faBuildingCircleArrowRight: IconObject.t = "faBuildingCircleArrowRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDesktop: IconObject.t = "faDesktop";
+external faBuildingCircleCheck: IconObject.t = "faBuildingCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDharmachakra: IconObject.t = "faDharmachakra";
+external faBuildingCircleExclamation: IconObject.t = "faBuildingCircleExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiagnoses: IconObject.t = "faDiagnoses";
+external faBuildingCircleXmark: IconObject.t = "faBuildingCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDice: IconObject.t = "faDice";
+external faBuildingColumns: IconObject.t = "faBuildingColumns"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiceD20: IconObject.t = "faDiceD20";
+external faBuildingFlag: IconObject.t = "faBuildingFlag"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiceD6: IconObject.t = "faDiceD6";
+external faBuildingLock: IconObject.t = "faBuildingLock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiceFive: IconObject.t = "faDiceFive";
+external faBuildingNgo: IconObject.t = "faBuildingNgo"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiceFour: IconObject.t = "faDiceFour";
+external faBuildingShield: IconObject.t = "faBuildingShield"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiceOne: IconObject.t = "faDiceOne";
+external faBuildingUn: IconObject.t = "faBuildingUn"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiceSix: IconObject.t = "faDiceSix";
+external faBuildingUser: IconObject.t = "faBuildingUser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiceThree: IconObject.t = "faDiceThree";
+external faBuildingWheat: IconObject.t = "faBuildingWheat"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDiceTwo: IconObject.t = "faDiceTwo";
+external faBullhorn: IconObject.t = "faBullhorn"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDigitalTachograph: IconObject.t = "faDigitalTachograph";
+external faBullseye: IconObject.t = "faBullseye"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDirections: IconObject.t = "faDirections";
+external faBurger: IconObject.t = "faBurger"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDisease: IconObject.t = "faDisease";
+external faBurn: IconObject.t = "faBurn"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDivide: IconObject.t = "faDivide";
+external faBurst: IconObject.t = "faBurst"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDizzy: IconObject.t = "faDizzy";
+external faBus: IconObject.t = "faBus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDna: IconObject.t = "faDna";
+external faBusAlt: IconObject.t = "faBusAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDog: IconObject.t = "faDog";
+external faBusSimple: IconObject.t = "faBusSimple"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDollarSign: IconObject.t = "faDollarSign";
+external faBusinessTime: IconObject.t = "faBusinessTime"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDolly: IconObject.t = "faDolly";
+external faCab: IconObject.t = "faCab"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDollyFlatbed: IconObject.t = "faDollyFlatbed";
+external faCableCar: IconObject.t = "faCableCar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDonate: IconObject.t = "faDonate";
+external faCake: IconObject.t = "faCake"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDoorClosed: IconObject.t = "faDoorClosed";
+external faCakeCandles: IconObject.t = "faCakeCandles"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDoorOpen: IconObject.t = "faDoorOpen";
+external faCalculator: IconObject.t = "faCalculator"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDotCircle: IconObject.t = "faDotCircle";
+external faCalendar: IconObject.t = "faCalendar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDove: IconObject.t = "faDove";
+external faCalendarAlt: IconObject.t = "faCalendarAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDownload: IconObject.t = "faDownload";
+external faCalendarCheck: IconObject.t = "faCalendarCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDraftingCompass: IconObject.t = "faDraftingCompass";
+external faCalendarDay: IconObject.t = "faCalendarDay"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDragon: IconObject.t = "faDragon";
+external faCalendarDays: IconObject.t = "faCalendarDays"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDrawPolygon: IconObject.t = "faDrawPolygon";
+external faCalendarMinus: IconObject.t = "faCalendarMinus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDrum: IconObject.t = "faDrum";
+external faCalendarPlus: IconObject.t = "faCalendarPlus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDrumSteelpan: IconObject.t = "faDrumSteelpan";
+external faCalendarTimes: IconObject.t = "faCalendarTimes"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDrumstickBite: IconObject.t = "faDrumstickBite";
+external faCalendarWeek: IconObject.t = "faCalendarWeek"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDumbbell: IconObject.t = "faDumbbell";
+external faCalendarXmark: IconObject.t = "faCalendarXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDumpster: IconObject.t = "faDumpster";
+external faCamera: IconObject.t = "faCamera"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDumpsterFire: IconObject.t = "faDumpsterFire";
+external faCameraAlt: IconObject.t = "faCameraAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faDungeon: IconObject.t = "faDungeon";
+external faCameraRetro: IconObject.t = "faCameraRetro"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEdit: IconObject.t = "faEdit";
+external faCameraRotate: IconObject.t = "faCameraRotate"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEgg: IconObject.t = "faEgg";
+external faCampground: IconObject.t = "faCampground"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEject: IconObject.t = "faEject";
+external faCancel: IconObject.t = "faCancel"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEllipsisH: IconObject.t = "faEllipsisH";
+external faCandyCane: IconObject.t = "faCandyCane"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEllipsisV: IconObject.t = "faEllipsisV";
+external faCannabis: IconObject.t = "faCannabis"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEnvelope: IconObject.t = "faEnvelope";
+external faCapsules: IconObject.t = "faCapsules"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEnvelopeOpen: IconObject.t = "faEnvelopeOpen";
+external faCar: IconObject.t = "faCar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEnvelopeOpenText: IconObject.t = "faEnvelopeOpenText";
+external faCarAlt: IconObject.t = "faCarAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEnvelopeSquare: IconObject.t = "faEnvelopeSquare";
+external faCarBattery: IconObject.t = "faCarBattery"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEquals: IconObject.t = "faEquals";
+external faCarBurst: IconObject.t = "faCarBurst"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEraser: IconObject.t = "faEraser";
+external faCarCrash: IconObject.t = "faCarCrash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEthernet: IconObject.t = "faEthernet";
+external faCarOn: IconObject.t = "faCarOn"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEuroSign: IconObject.t = "faEuroSign";
+external faCarRear: IconObject.t = "faCarRear"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExchangeAlt: IconObject.t = "faExchangeAlt";
+external faCarSide: IconObject.t = "faCarSide"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExclamation: IconObject.t = "faExclamation";
+external faCarTunnel: IconObject.t = "faCarTunnel"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExclamationCircle: IconObject.t = "faExclamationCircle";
+external faCaravan: IconObject.t = "faCaravan"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExclamationTriangle: IconObject.t = "faExclamationTriangle";
+external faCaretDown: IconObject.t = "faCaretDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExpand: IconObject.t = "faExpand";
+external faCaretLeft: IconObject.t = "faCaretLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExpandAlt: IconObject.t = "faExpandAlt";
+external faCaretRight: IconObject.t = "faCaretRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExpandArrowsAlt: IconObject.t = "faExpandArrowsAlt";
+external faCaretSquareDown: IconObject.t = "faCaretSquareDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExternalLinkAlt: IconObject.t = "faExternalLinkAlt";
+external faCaretSquareLeft: IconObject.t = "faCaretSquareLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faExternalLinkSquareAlt: IconObject.t = "faExternalLinkSquareAlt";
+external faCaretSquareRight: IconObject.t = "faCaretSquareRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEye: IconObject.t = "faEye";
+external faCaretSquareUp: IconObject.t = "faCaretSquareUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEyeDropper: IconObject.t = "faEyeDropper";
+external faCaretUp: IconObject.t = "faCaretUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faEyeSlash: IconObject.t = "faEyeSlash";
+external faCarriageBaby: IconObject.t = "faCarriageBaby"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFan: IconObject.t = "faFan";
+external faCarrot: IconObject.t = "faCarrot"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFastBackward: IconObject.t = "faFastBackward";
+external faCartArrowDown: IconObject.t = "faCartArrowDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFastForward: IconObject.t = "faFastForward";
+external faCartFlatbed: IconObject.t = "faCartFlatbed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFaucet: IconObject.t = "faFaucet";
+external faCartFlatbedSuitcase: IconObject.t = "faCartFlatbedSuitcase"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFax: IconObject.t = "faFax";
+external faCartPlus: IconObject.t = "faCartPlus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFeather: IconObject.t = "faFeather";
+external faCartShopping: IconObject.t = "faCartShopping"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFeatherAlt: IconObject.t = "faFeatherAlt";
+external faCashRegister: IconObject.t = "faCashRegister"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFemale: IconObject.t = "faFemale";
+external faCat: IconObject.t = "faCat"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFighterJet: IconObject.t = "faFighterJet";
+external faCediSign: IconObject.t = "faCediSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFile: IconObject.t = "faFile";
+external faCentSign: IconObject.t = "faCentSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileAlt: IconObject.t = "faFileAlt";
+external faCertificate: IconObject.t = "faCertificate"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileArchive: IconObject.t = "faFileArchive";
+external faChain: IconObject.t = "faChain"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileAudio: IconObject.t = "faFileAudio";
+external faChainBroken: IconObject.t = "faChainBroken"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileCode: IconObject.t = "faFileCode";
+external faChainSlash: IconObject.t = "faChainSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileContract: IconObject.t = "faFileContract";
+external faChair: IconObject.t = "faChair"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileCsv: IconObject.t = "faFileCsv";
+external faChalkboard: IconObject.t = "faChalkboard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileDownload: IconObject.t = "faFileDownload";
+external faChalkboardTeacher: IconObject.t = "faChalkboardTeacher"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileExcel: IconObject.t = "faFileExcel";
+external faChalkboardUser: IconObject.t = "faChalkboardUser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileExport: IconObject.t = "faFileExport";
+external faChampagneGlasses: IconObject.t = "faChampagneGlasses"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileImage: IconObject.t = "faFileImage";
+external faChargingStation: IconObject.t = "faChargingStation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileImport: IconObject.t = "faFileImport";
+external faChartArea: IconObject.t = "faChartArea"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileInvoice: IconObject.t = "faFileInvoice";
+external faChartBar: IconObject.t = "faChartBar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileInvoiceDollar: IconObject.t = "faFileInvoiceDollar";
+external faChartColumn: IconObject.t = "faChartColumn"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileMedical: IconObject.t = "faFileMedical";
+external faChartGantt: IconObject.t = "faChartGantt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileMedicalAlt: IconObject.t = "faFileMedicalAlt";
+external faChartLine: IconObject.t = "faChartLine"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFilePdf: IconObject.t = "faFilePdf";
+external faChartPie: IconObject.t = "faChartPie"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFilePowerpoint: IconObject.t = "faFilePowerpoint";
+external faChartSimple: IconObject.t = "faChartSimple"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFilePrescription: IconObject.t = "faFilePrescription";
+external faCheck: IconObject.t = "faCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileSignature: IconObject.t = "faFileSignature";
+external faCheckCircle: IconObject.t = "faCheckCircle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileUpload: IconObject.t = "faFileUpload";
+external faCheckDouble: IconObject.t = "faCheckDouble"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileVideo: IconObject.t = "faFileVideo";
+external faCheckSquare: IconObject.t = "faCheckSquare"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFileWord: IconObject.t = "faFileWord";
+external faCheckToSlot: IconObject.t = "faCheckToSlot"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFill: IconObject.t = "faFill";
+external faCheese: IconObject.t = "faCheese"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFillDrip: IconObject.t = "faFillDrip";
+external faChess: IconObject.t = "faChess"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFilm: IconObject.t = "faFilm";
+external faChessBishop: IconObject.t = "faChessBishop"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFilter: IconObject.t = "faFilter";
+external faChessBoard: IconObject.t = "faChessBoard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFingerprint: IconObject.t = "faFingerprint";
+external faChessKing: IconObject.t = "faChessKing"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFire: IconObject.t = "faFire";
+external faChessKnight: IconObject.t = "faChessKnight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFireAlt: IconObject.t = "faFireAlt";
+external faChessPawn: IconObject.t = "faChessPawn"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFireExtinguisher: IconObject.t = "faFireExtinguisher";
+external faChessQueen: IconObject.t = "faChessQueen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFirstAid: IconObject.t = "faFirstAid";
+external faChessRook: IconObject.t = "faChessRook"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFish: IconObject.t = "faFish";
+external faChevronCircleDown: IconObject.t = "faChevronCircleDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFistRaised: IconObject.t = "faFistRaised";
+external faChevronCircleLeft: IconObject.t = "faChevronCircleLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFlag: IconObject.t = "faFlag";
+external faChevronCircleRight: IconObject.t = "faChevronCircleRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFlagCheckered: IconObject.t = "faFlagCheckered";
+external faChevronCircleUp: IconObject.t = "faChevronCircleUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFlagUsa: IconObject.t = "faFlagUsa";
+external faChevronDown: IconObject.t = "faChevronDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFlask: IconObject.t = "faFlask";
+external faChevronLeft: IconObject.t = "faChevronLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFlushed: IconObject.t = "faFlushed";
+external faChevronRight: IconObject.t = "faChevronRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFolder: IconObject.t = "faFolder";
+external faChevronUp: IconObject.t = "faChevronUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFolderMinus: IconObject.t = "faFolderMinus";
+external faChild: IconObject.t = "faChild"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFolderOpen: IconObject.t = "faFolderOpen";
+external faChildDress: IconObject.t = "faChildDress"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFolderPlus: IconObject.t = "faFolderPlus";
+external faChildReaching: IconObject.t = "faChildReaching"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFont: IconObject.t = "faFont";
+external faChildRifle: IconObject.t = "faChildRifle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFontAwesomeLogoFull: IconObject.t = "faFontAwesomeLogoFull";
+external faChildren: IconObject.t = "faChildren"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFootballBall: IconObject.t = "faFootballBall";
+external faChurch: IconObject.t = "faChurch"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faForward: IconObject.t = "faForward";
+external faCircle: IconObject.t = "faCircle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFrog: IconObject.t = "faFrog";
+external faCircleArrowDown: IconObject.t = "faCircleArrowDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFrown: IconObject.t = "faFrown";
+external faCircleArrowLeft: IconObject.t = "faCircleArrowLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFrownOpen: IconObject.t = "faFrownOpen";
+external faCircleArrowRight: IconObject.t = "faCircleArrowRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFunnelDollar: IconObject.t = "faFunnelDollar";
+external faCircleArrowUp: IconObject.t = "faCircleArrowUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faFutbol: IconObject.t = "faFutbol";
+external faCircleCheck: IconObject.t = "faCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGamepad: IconObject.t = "faGamepad";
+external faCircleChevronDown: IconObject.t = "faCircleChevronDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGasPump: IconObject.t = "faGasPump";
+external faCircleChevronLeft: IconObject.t = "faCircleChevronLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGavel: IconObject.t = "faGavel";
+external faCircleChevronRight: IconObject.t = "faCircleChevronRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGem: IconObject.t = "faGem";
+external faCircleChevronUp: IconObject.t = "faCircleChevronUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGenderless: IconObject.t = "faGenderless";
+external faCircleDollarToSlot: IconObject.t = "faCircleDollarToSlot"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGhost: IconObject.t = "faGhost";
+external faCircleDot: IconObject.t = "faCircleDot"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGift: IconObject.t = "faGift";
+external faCircleDown: IconObject.t = "faCircleDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGifts: IconObject.t = "faGifts";
+external faCircleExclamation: IconObject.t = "faCircleExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlassCheers: IconObject.t = "faGlassCheers";
+external faCircleH: IconObject.t = "faCircleH"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlassMartini: IconObject.t = "faGlassMartini";
+external faCircleHalfStroke: IconObject.t = "faCircleHalfStroke"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlassMartiniAlt: IconObject.t = "faGlassMartiniAlt";
+external faCircleInfo: IconObject.t = "faCircleInfo"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlassWhiskey: IconObject.t = "faGlassWhiskey";
+external faCircleLeft: IconObject.t = "faCircleLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlasses: IconObject.t = "faGlasses";
+external faCircleMinus: IconObject.t = "faCircleMinus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlobe: IconObject.t = "faGlobe";
+external faCircleNodes: IconObject.t = "faCircleNodes"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlobeAfrica: IconObject.t = "faGlobeAfrica";
+external faCircleNotch: IconObject.t = "faCircleNotch"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlobeAmericas: IconObject.t = "faGlobeAmericas";
+external faCirclePause: IconObject.t = "faCirclePause"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlobeAsia: IconObject.t = "faGlobeAsia";
+external faCirclePlay: IconObject.t = "faCirclePlay"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGlobeEurope: IconObject.t = "faGlobeEurope";
+external faCirclePlus: IconObject.t = "faCirclePlus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGolfBall: IconObject.t = "faGolfBall";
+external faCircleQuestion: IconObject.t = "faCircleQuestion"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGopuram: IconObject.t = "faGopuram";
+external faCircleRadiation: IconObject.t = "faCircleRadiation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGraduationCap: IconObject.t = "faGraduationCap";
+external faCircleRight: IconObject.t = "faCircleRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGreaterThan: IconObject.t = "faGreaterThan";
+external faCircleStop: IconObject.t = "faCircleStop"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGreaterThanEqual: IconObject.t = "faGreaterThanEqual";
+external faCircleUp: IconObject.t = "faCircleUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrimace: IconObject.t = "faGrimace";
+external faCircleUser: IconObject.t = "faCircleUser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrin: IconObject.t = "faGrin";
+external faCircleXmark: IconObject.t = "faCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinAlt: IconObject.t = "faGrinAlt";
+external faCity: IconObject.t = "faCity"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinBeam: IconObject.t = "faGrinBeam";
+external faClapperboard: IconObject.t = "faClapperboard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinBeamSweat: IconObject.t = "faGrinBeamSweat";
+external faClinicMedical: IconObject.t = "faClinicMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinHearts: IconObject.t = "faGrinHearts";
+external faClipboard: IconObject.t = "faClipboard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinSquint: IconObject.t = "faGrinSquint";
+external faClipboardCheck: IconObject.t = "faClipboardCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinSquintTears: IconObject.t = "faGrinSquintTears";
+external faClipboardList: IconObject.t = "faClipboardList"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinStars: IconObject.t = "faGrinStars";
+external faClipboardQuestion: IconObject.t = "faClipboardQuestion"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinTears: IconObject.t = "faGrinTears";
+external faClipboardUser: IconObject.t = "faClipboardUser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinTongue: IconObject.t = "faGrinTongue";
+external faClock: IconObject.t = "faClock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinTongueSquint: IconObject.t = "faGrinTongueSquint";
+external faClockFour: IconObject.t = "faClockFour"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinTongueWink: IconObject.t = "faGrinTongueWink";
+external faClockRotateLeft: IconObject.t = "faClockRotateLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGrinWink: IconObject.t = "faGrinWink";
+external faClone: IconObject.t = "faClone"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGripHorizontal: IconObject.t = "faGripHorizontal";
+external faClose: IconObject.t = "faClose"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGripLines: IconObject.t = "faGripLines";
+external faClosedCaptioning: IconObject.t = "faClosedCaptioning"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGripLinesVertical: IconObject.t = "faGripLinesVertical";
+external faCloud: IconObject.t = "faCloud"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGripVertical: IconObject.t = "faGripVertical";
+external faCloudArrowDown: IconObject.t = "faCloudArrowDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faGuitar: IconObject.t = "faGuitar";
+external faCloudArrowUp: IconObject.t = "faCloudArrowUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHSquare: IconObject.t = "faHSquare";
+external faCloudBolt: IconObject.t = "faCloudBolt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHamburger: IconObject.t = "faHamburger";
+external faCloudDownload: IconObject.t = "faCloudDownload"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHammer: IconObject.t = "faHammer";
+external faCloudDownloadAlt: IconObject.t = "faCloudDownloadAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHamsa: IconObject.t = "faHamsa";
+external faCloudMeatball: IconObject.t = "faCloudMeatball"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandHolding: IconObject.t = "faHandHolding";
+external faCloudMoon: IconObject.t = "faCloudMoon"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandHoldingHeart: IconObject.t = "faHandHoldingHeart";
+external faCloudMoonRain: IconObject.t = "faCloudMoonRain"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandHoldingMedical: IconObject.t = "faHandHoldingMedical";
+external faCloudRain: IconObject.t = "faCloudRain"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandHoldingUsd: IconObject.t = "faHandHoldingUsd";
+external faCloudShowersHeavy: IconObject.t = "faCloudShowersHeavy"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandHoldingWater: IconObject.t = "faHandHoldingWater";
+external faCloudShowersWater: IconObject.t = "faCloudShowersWater"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandLizard: IconObject.t = "faHandLizard";
+external faCloudSun: IconObject.t = "faCloudSun"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandMiddleFinger: IconObject.t = "faHandMiddleFinger";
+external faCloudSunRain: IconObject.t = "faCloudSunRain"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandPaper: IconObject.t = "faHandPaper";
+external faCloudUpload: IconObject.t = "faCloudUpload"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandPeace: IconObject.t = "faHandPeace";
+external faCloudUploadAlt: IconObject.t = "faCloudUploadAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandPointDown: IconObject.t = "faHandPointDown";
+external faClover: IconObject.t = "faClover"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandPointLeft: IconObject.t = "faHandPointLeft";
+external faCny: IconObject.t = "faCny"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandPointRight: IconObject.t = "faHandPointRight";
+external faCocktail: IconObject.t = "faCocktail"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandPointUp: IconObject.t = "faHandPointUp";
+external faCode: IconObject.t = "faCode"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandPointer: IconObject.t = "faHandPointer";
+external faCodeBranch: IconObject.t = "faCodeBranch"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandRock: IconObject.t = "faHandRock";
+external faCodeCommit: IconObject.t = "faCodeCommit"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandScissors: IconObject.t = "faHandScissors";
+external faCodeCompare: IconObject.t = "faCodeCompare"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandSparkles: IconObject.t = "faHandSparkles";
+external faCodeFork: IconObject.t = "faCodeFork"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandSpock: IconObject.t = "faHandSpock";
+external faCodeMerge: IconObject.t = "faCodeMerge"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHands: IconObject.t = "faHands";
+external faCodePullRequest: IconObject.t = "faCodePullRequest"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandsHelping: IconObject.t = "faHandsHelping";
+external faCoffee: IconObject.t = "faCoffee"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandsWash: IconObject.t = "faHandsWash";
+external faCog: IconObject.t = "faCog"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandshake: IconObject.t = "faHandshake";
+external faCogs: IconObject.t = "faCogs"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandshakeAltSlash: IconObject.t = "faHandshakeAltSlash";
+external faCoins: IconObject.t = "faCoins"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHandshakeSlash: IconObject.t = "faHandshakeSlash";
+external faColonSign: IconObject.t = "faColonSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHanukiah: IconObject.t = "faHanukiah";
+external faColumns: IconObject.t = "faColumns"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHardHat: IconObject.t = "faHardHat";
+external faComment: IconObject.t = "faComment"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHashtag: IconObject.t = "faHashtag";
+external faCommentAlt: IconObject.t = "faCommentAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHatCowboy: IconObject.t = "faHatCowboy";
+external faCommentDollar: IconObject.t = "faCommentDollar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHatCowboySide: IconObject.t = "faHatCowboySide";
+external faCommentDots: IconObject.t = "faCommentDots"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHatWizard: IconObject.t = "faHatWizard";
+external faCommentMedical: IconObject.t = "faCommentMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHdd: IconObject.t = "faHdd";
+external faCommentSlash: IconObject.t = "faCommentSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeadSideCough: IconObject.t = "faHeadSideCough";
+external faCommentSms: IconObject.t = "faCommentSms"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeadSideCoughSlash: IconObject.t = "faHeadSideCoughSlash";
+external faCommenting: IconObject.t = "faCommenting"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeadSideMask: IconObject.t = "faHeadSideMask";
+external faComments: IconObject.t = "faComments"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeadSideVirus: IconObject.t = "faHeadSideVirus";
+external faCommentsDollar: IconObject.t = "faCommentsDollar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeading: IconObject.t = "faHeading";
+external faCompactDisc: IconObject.t = "faCompactDisc"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeadphones: IconObject.t = "faHeadphones";
+external faCompass: IconObject.t = "faCompass"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeadphonesAlt: IconObject.t = "faHeadphonesAlt";
+external faCompassDrafting: IconObject.t = "faCompassDrafting"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeadset: IconObject.t = "faHeadset";
+external faCompress: IconObject.t = "faCompress"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeart: IconObject.t = "faHeart";
+external faCompressAlt: IconObject.t = "faCompressAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeartBroken: IconObject.t = "faHeartBroken";
+external faCompressArrowsAlt: IconObject.t = "faCompressArrowsAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHeartbeat: IconObject.t = "faHeartbeat";
+external faComputer: IconObject.t = "faComputer"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHelicopter: IconObject.t = "faHelicopter";
+external faComputerMouse: IconObject.t = "faComputerMouse"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHighlighter: IconObject.t = "faHighlighter";
+external faConciergeBell: IconObject.t = "faConciergeBell"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHiking: IconObject.t = "faHiking";
+external faContactBook: IconObject.t = "faContactBook"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHippo: IconObject.t = "faHippo";
+external faContactCard: IconObject.t = "faContactCard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHistory: IconObject.t = "faHistory";
+external faCookie: IconObject.t = "faCookie"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHockeyPuck: IconObject.t = "faHockeyPuck";
+external faCookieBite: IconObject.t = "faCookieBite"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHollyBerry: IconObject.t = "faHollyBerry";
+external faCopy: IconObject.t = "faCopy"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHome: IconObject.t = "faHome";
+external faCopyright: IconObject.t = "faCopyright"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHorse: IconObject.t = "faHorse";
+external faCouch: IconObject.t = "faCouch"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHorseHead: IconObject.t = "faHorseHead";
+external faCow: IconObject.t = "faCow"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHospital: IconObject.t = "faHospital";
+external faCreditCard: IconObject.t = "faCreditCard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHospitalAlt: IconObject.t = "faHospitalAlt";
+external faCreditCardAlt: IconObject.t = "faCreditCardAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHospitalSymbol: IconObject.t = "faHospitalSymbol";
+external faCrop: IconObject.t = "faCrop"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHospitalUser: IconObject.t = "faHospitalUser";
+external faCropAlt: IconObject.t = "faCropAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHotTub: IconObject.t = "faHotTub";
+external faCropSimple: IconObject.t = "faCropSimple"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHotdog: IconObject.t = "faHotdog";
+external faCross: IconObject.t = "faCross"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHotel: IconObject.t = "faHotel";
+external faCrosshairs: IconObject.t = "faCrosshairs"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHourglass: IconObject.t = "faHourglass";
+external faCrow: IconObject.t = "faCrow"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHourglassEnd: IconObject.t = "faHourglassEnd";
+external faCrown: IconObject.t = "faCrown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHourglassHalf: IconObject.t = "faHourglassHalf";
+external faCrutch: IconObject.t = "faCrutch"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHourglassStart: IconObject.t = "faHourglassStart";
+external faCruzeiroSign: IconObject.t = "faCruzeiroSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHouseDamage: IconObject.t = "faHouseDamage";
+external faCube: IconObject.t = "faCube"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHouseUser: IconObject.t = "faHouseUser";
+external faCubes: IconObject.t = "faCubes"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faHryvnia: IconObject.t = "faHryvnia";
+external faCubesStacked: IconObject.t = "faCubesStacked"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faICursor: IconObject.t = "faICursor";
+external faCut: IconObject.t = "faCut"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIceCream: IconObject.t = "faIceCream";
+external faCutlery: IconObject.t = "faCutlery"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIcicles: IconObject.t = "faIcicles";
+external faDashboard: IconObject.t = "faDashboard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIcons: IconObject.t = "faIcons";
+external faDatabase: IconObject.t = "faDatabase"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIdBadge: IconObject.t = "faIdBadge";
+external faDeaf: IconObject.t = "faDeaf"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIdCard: IconObject.t = "faIdCard";
+external faDeafness: IconObject.t = "faDeafness"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIdCardAlt: IconObject.t = "faIdCardAlt";
+external faDedent: IconObject.t = "faDedent"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIgloo: IconObject.t = "faIgloo";
+external faDeleteLeft: IconObject.t = "faDeleteLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faImage: IconObject.t = "faImage";
+external faDemocrat: IconObject.t = "faDemocrat"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faImages: IconObject.t = "faImages";
+external faDesktop: IconObject.t = "faDesktop"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faInbox: IconObject.t = "faInbox";
+external faDesktopAlt: IconObject.t = "faDesktopAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIndent: IconObject.t = "faIndent";
+external faDharmachakra: IconObject.t = "faDharmachakra"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faIndustry: IconObject.t = "faIndustry";
+external faDiagnoses: IconObject.t = "faDiagnoses"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faInfinity: IconObject.t = "faInfinity";
+external faDiagramNext: IconObject.t = "faDiagramNext"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faInfo: IconObject.t = "faInfo";
+external faDiagramPredecessor: IconObject.t = "faDiagramPredecessor"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faInfoCircle: IconObject.t = "faInfoCircle";
+external faDiagramProject: IconObject.t = "faDiagramProject"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faItalic: IconObject.t = "faItalic";
+external faDiagramSuccessor: IconObject.t = "faDiagramSuccessor"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faJedi: IconObject.t = "faJedi";
+external faDiamond: IconObject.t = "faDiamond"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faJoint: IconObject.t = "faJoint";
+external faDiamondTurnRight: IconObject.t = "faDiamondTurnRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faJournalWhills: IconObject.t = "faJournalWhills";
+external faDice: IconObject.t = "faDice"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faKaaba: IconObject.t = "faKaaba";
+external faDiceD20: IconObject.t = "faDiceD20"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faKey: IconObject.t = "faKey";
+external faDiceD6: IconObject.t = "faDiceD6"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faKeyboard: IconObject.t = "faKeyboard";
+external faDiceFive: IconObject.t = "faDiceFive"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faKhanda: IconObject.t = "faKhanda";
+external faDiceFour: IconObject.t = "faDiceFour"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faKiss: IconObject.t = "faKiss";
+external faDiceOne: IconObject.t = "faDiceOne"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faKissBeam: IconObject.t = "faKissBeam";
+external faDiceSix: IconObject.t = "faDiceSix"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faKissWinkHeart: IconObject.t = "faKissWinkHeart";
+external faDiceThree: IconObject.t = "faDiceThree"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faKiwiBird: IconObject.t = "faKiwiBird";
+external faDiceTwo: IconObject.t = "faDiceTwo"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLandmark: IconObject.t = "faLandmark";
+external faDigging: IconObject.t = "faDigging"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLanguage: IconObject.t = "faLanguage";
+external faDigitalTachograph: IconObject.t = "faDigitalTachograph"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLaptop: IconObject.t = "faLaptop";
+external faDirections: IconObject.t = "faDirections"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLaptopCode: IconObject.t = "faLaptopCode";
+external faDisease: IconObject.t = "faDisease"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLaptopHouse: IconObject.t = "faLaptopHouse";
+external faDisplay: IconObject.t = "faDisplay"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLaptopMedical: IconObject.t = "faLaptopMedical";
+external faDivide: IconObject.t = "faDivide"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLaugh: IconObject.t = "faLaugh";
+external faDizzy: IconObject.t = "faDizzy"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLaughBeam: IconObject.t = "faLaughBeam";
+external faDna: IconObject.t = "faDna"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLaughSquint: IconObject.t = "faLaughSquint";
+external faDog: IconObject.t = "faDog"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLaughWink: IconObject.t = "faLaughWink";
+external faDollar: IconObject.t = "faDollar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLayerGroup: IconObject.t = "faLayerGroup";
+external faDollarSign: IconObject.t = "faDollarSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLeaf: IconObject.t = "faLeaf";
+external faDolly: IconObject.t = "faDolly"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLemon: IconObject.t = "faLemon";
+external faDollyBox: IconObject.t = "faDollyBox"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLessThan: IconObject.t = "faLessThan";
+external faDollyFlatbed: IconObject.t = "faDollyFlatbed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLessThanEqual: IconObject.t = "faLessThanEqual";
+external faDonate: IconObject.t = "faDonate"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLevelDownAlt: IconObject.t = "faLevelDownAlt";
+external faDongSign: IconObject.t = "faDongSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLevelUpAlt: IconObject.t = "faLevelUpAlt";
+external faDoorClosed: IconObject.t = "faDoorClosed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLifeRing: IconObject.t = "faLifeRing";
+external faDoorOpen: IconObject.t = "faDoorOpen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLightbulb: IconObject.t = "faLightbulb";
+external faDotCircle: IconObject.t = "faDotCircle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLink: IconObject.t = "faLink";
+external faDove: IconObject.t = "faDove"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLiraSign: IconObject.t = "faLiraSign";
+external faDownLeftAndUpRightToCenter: IconObject.t = "faDownLeftAndUpRightToCenter"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faList: IconObject.t = "faList";
+external faDownLong: IconObject.t = "faDownLong"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faListAlt: IconObject.t = "faListAlt";
+external faDownload: IconObject.t = "faDownload"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faListOl: IconObject.t = "faListOl";
+external faDraftingCompass: IconObject.t = "faDraftingCompass"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faListUl: IconObject.t = "faListUl";
+external faDragon: IconObject.t = "faDragon"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLocationArrow: IconObject.t = "faLocationArrow";
+external faDrawPolygon: IconObject.t = "faDrawPolygon"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLock: IconObject.t = "faLock";
+external faDriversLicense: IconObject.t = "faDriversLicense"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLockOpen: IconObject.t = "faLockOpen";
+external faDroplet: IconObject.t = "faDroplet"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLongArrowAltDown: IconObject.t = "faLongArrowAltDown";
+external faDropletSlash: IconObject.t = "faDropletSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLongArrowAltLeft: IconObject.t = "faLongArrowAltLeft";
+external faDrum: IconObject.t = "faDrum"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLongArrowAltRight: IconObject.t = "faLongArrowAltRight";
+external faDrumSteelpan: IconObject.t = "faDrumSteelpan"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLongArrowAltUp: IconObject.t = "faLongArrowAltUp";
+external faDrumstickBite: IconObject.t = "faDrumstickBite"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLowVision: IconObject.t = "faLowVision";
+external faDumbbell: IconObject.t = "faDumbbell"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLuggageCart: IconObject.t = "faLuggageCart";
+external faDumpster: IconObject.t = "faDumpster"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLungs: IconObject.t = "faLungs";
+external faDumpsterFire: IconObject.t = "faDumpsterFire"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faLungsVirus: IconObject.t = "faLungsVirus";
+external faDungeon: IconObject.t = "faDungeon"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMagic: IconObject.t = "faMagic";
+external faEarDeaf: IconObject.t = "faEarDeaf"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMagnet: IconObject.t = "faMagnet";
+external faEarListen: IconObject.t = "faEarListen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMailBulk: IconObject.t = "faMailBulk";
+external faEarth: IconObject.t = "faEarth"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMale: IconObject.t = "faMale";
+external faEarthAfrica: IconObject.t = "faEarthAfrica"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMap: IconObject.t = "faMap";
+external faEarthAmerica: IconObject.t = "faEarthAmerica"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMapMarked: IconObject.t = "faMapMarked";
+external faEarthAmericas: IconObject.t = "faEarthAmericas"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMapMarkedAlt: IconObject.t = "faMapMarkedAlt";
+external faEarthAsia: IconObject.t = "faEarthAsia"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMapMarker: IconObject.t = "faMapMarker";
+external faEarthEurope: IconObject.t = "faEarthEurope"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMapMarkerAlt: IconObject.t = "faMapMarkerAlt";
+external faEarthOceania: IconObject.t = "faEarthOceania"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMapPin: IconObject.t = "faMapPin";
+external faEdit: IconObject.t = "faEdit"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMapSigns: IconObject.t = "faMapSigns";
+external faEgg: IconObject.t = "faEgg"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMarker: IconObject.t = "faMarker";
+external faEject: IconObject.t = "faEject"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMars: IconObject.t = "faMars";
+external faElevator: IconObject.t = "faElevator"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMarsDouble: IconObject.t = "faMarsDouble";
+external faEllipsis: IconObject.t = "faEllipsis"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMarsStroke: IconObject.t = "faMarsStroke";
+external faEllipsisH: IconObject.t = "faEllipsisH"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMarsStrokeH: IconObject.t = "faMarsStrokeH";
+external faEllipsisV: IconObject.t = "faEllipsisV"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMarsStrokeV: IconObject.t = "faMarsStrokeV";
+external faEllipsisVertical: IconObject.t = "faEllipsisVertical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMask: IconObject.t = "faMask";
+external faEnvelope: IconObject.t = "faEnvelope"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMedal: IconObject.t = "faMedal";
+external faEnvelopeCircleCheck: IconObject.t = "faEnvelopeCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMedkit: IconObject.t = "faMedkit";
+external faEnvelopeOpen: IconObject.t = "faEnvelopeOpen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMeh: IconObject.t = "faMeh";
+external faEnvelopeOpenText: IconObject.t = "faEnvelopeOpenText"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMehBlank: IconObject.t = "faMehBlank";
+external faEnvelopeSquare: IconObject.t = "faEnvelopeSquare"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMehRollingEyes: IconObject.t = "faMehRollingEyes";
+external faEnvelopesBulk: IconObject.t = "faEnvelopesBulk"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMemory: IconObject.t = "faMemory";
+external faEquals: IconObject.t = "faEquals"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMenorah: IconObject.t = "faMenorah";
+external faEraser: IconObject.t = "faEraser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMercury: IconObject.t = "faMercury";
+external faEthernet: IconObject.t = "faEthernet"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMeteor: IconObject.t = "faMeteor";
+external faEur: IconObject.t = "faEur"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMicrochip: IconObject.t = "faMicrochip";
+external faEuro: IconObject.t = "faEuro"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMicrophone: IconObject.t = "faMicrophone";
+external faEuroSign: IconObject.t = "faEuroSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMicrophoneAlt: IconObject.t = "faMicrophoneAlt";
+external faExchange: IconObject.t = "faExchange"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMicrophoneAltSlash: IconObject.t = "faMicrophoneAltSlash";
+external faExchangeAlt: IconObject.t = "faExchangeAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMicrophoneSlash: IconObject.t = "faMicrophoneSlash";
+external faExclamation: IconObject.t = "faExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMicroscope: IconObject.t = "faMicroscope";
+external faExclamationCircle: IconObject.t = "faExclamationCircle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMinus: IconObject.t = "faMinus";
+external faExclamationTriangle: IconObject.t = "faExclamationTriangle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMinusCircle: IconObject.t = "faMinusCircle";
+external faExpand: IconObject.t = "faExpand"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMinusSquare: IconObject.t = "faMinusSquare";
+external faExpandAlt: IconObject.t = "faExpandAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMitten: IconObject.t = "faMitten";
+external faExpandArrowsAlt: IconObject.t = "faExpandArrowsAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMobile: IconObject.t = "faMobile";
+external faExplosion: IconObject.t = "faExplosion"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMobileAlt: IconObject.t = "faMobileAlt";
+external faExternalLink: IconObject.t = "faExternalLink"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMoneyBill: IconObject.t = "faMoneyBill";
+external faExternalLinkAlt: IconObject.t = "faExternalLinkAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMoneyBillAlt: IconObject.t = "faMoneyBillAlt";
+external faExternalLinkSquare: IconObject.t = "faExternalLinkSquare"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMoneyBillWave: IconObject.t = "faMoneyBillWave";
+external faExternalLinkSquareAlt: IconObject.t = "faExternalLinkSquareAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMoneyBillWaveAlt: IconObject.t = "faMoneyBillWaveAlt";
+external faEye: IconObject.t = "faEye"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMoneyCheck: IconObject.t = "faMoneyCheck";
+external faEyeDropper: IconObject.t = "faEyeDropper"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMoneyCheckAlt: IconObject.t = "faMoneyCheckAlt";
+external faEyeDropperEmpty: IconObject.t = "faEyeDropperEmpty"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMonument: IconObject.t = "faMonument";
+external faEyeLowVision: IconObject.t = "faEyeLowVision"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMoon: IconObject.t = "faMoon";
+external faEyeSlash: IconObject.t = "faEyeSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMortarPestle: IconObject.t = "faMortarPestle";
+external faEyedropper: IconObject.t = "faEyedropper"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMosque: IconObject.t = "faMosque";
+external faFaceAngry: IconObject.t = "faFaceAngry"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMotorcycle: IconObject.t = "faMotorcycle";
+external faFaceDizzy: IconObject.t = "faFaceDizzy"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMountain: IconObject.t = "faMountain";
+external faFaceFlushed: IconObject.t = "faFaceFlushed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMouse: IconObject.t = "faMouse";
+external faFaceFrown: IconObject.t = "faFaceFrown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMousePointer: IconObject.t = "faMousePointer";
+external faFaceFrownOpen: IconObject.t = "faFaceFrownOpen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMugHot: IconObject.t = "faMugHot";
+external faFaceGrimace: IconObject.t = "faFaceGrimace"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faMusic: IconObject.t = "faMusic";
+external faFaceGrin: IconObject.t = "faFaceGrin"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faNetworkWired: IconObject.t = "faNetworkWired";
+external faFaceGrinBeam: IconObject.t = "faFaceGrinBeam"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faNeuter: IconObject.t = "faNeuter";
+external faFaceGrinBeamSweat: IconObject.t = "faFaceGrinBeamSweat"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faNewspaper: IconObject.t = "faNewspaper";
+external faFaceGrinHearts: IconObject.t = "faFaceGrinHearts"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faNotEqual: IconObject.t = "faNotEqual";
+external faFaceGrinSquint: IconObject.t = "faFaceGrinSquint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faNotesMedical: IconObject.t = "faNotesMedical";
+external faFaceGrinSquintTears: IconObject.t = "faFaceGrinSquintTears"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faObjectGroup: IconObject.t = "faObjectGroup";
+external faFaceGrinStars: IconObject.t = "faFaceGrinStars"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faObjectUngroup: IconObject.t = "faObjectUngroup";
+external faFaceGrinTears: IconObject.t = "faFaceGrinTears"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faOilCan: IconObject.t = "faOilCan";
+external faFaceGrinTongue: IconObject.t = "faFaceGrinTongue"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faOm: IconObject.t = "faOm";
+external faFaceGrinTongueSquint: IconObject.t = "faFaceGrinTongueSquint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faOtter: IconObject.t = "faOtter";
+external faFaceGrinTongueWink: IconObject.t = "faFaceGrinTongueWink"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faOutdent: IconObject.t = "faOutdent";
+external faFaceGrinWide: IconObject.t = "faFaceGrinWide"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPager: IconObject.t = "faPager";
+external faFaceGrinWink: IconObject.t = "faFaceGrinWink"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPaintBrush: IconObject.t = "faPaintBrush";
+external faFaceKiss: IconObject.t = "faFaceKiss"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPaintRoller: IconObject.t = "faPaintRoller";
+external faFaceKissBeam: IconObject.t = "faFaceKissBeam"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPalette: IconObject.t = "faPalette";
+external faFaceKissWinkHeart: IconObject.t = "faFaceKissWinkHeart"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPallet: IconObject.t = "faPallet";
+external faFaceLaugh: IconObject.t = "faFaceLaugh"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPaperPlane: IconObject.t = "faPaperPlane";
+external faFaceLaughBeam: IconObject.t = "faFaceLaughBeam"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPaperclip: IconObject.t = "faPaperclip";
+external faFaceLaughSquint: IconObject.t = "faFaceLaughSquint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faParachuteBox: IconObject.t = "faParachuteBox";
+external faFaceLaughWink: IconObject.t = "faFaceLaughWink"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faParagraph: IconObject.t = "faParagraph";
+external faFaceMeh: IconObject.t = "faFaceMeh"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faParking: IconObject.t = "faParking";
+external faFaceMehBlank: IconObject.t = "faFaceMehBlank"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPassport: IconObject.t = "faPassport";
+external faFaceRollingEyes: IconObject.t = "faFaceRollingEyes"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPastafarianism: IconObject.t = "faPastafarianism";
+external faFaceSadCry: IconObject.t = "faFaceSadCry"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPaste: IconObject.t = "faPaste";
+external faFaceSadTear: IconObject.t = "faFaceSadTear"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPause: IconObject.t = "faPause";
+external faFaceSmile: IconObject.t = "faFaceSmile"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPauseCircle: IconObject.t = "faPauseCircle";
+external faFaceSmileBeam: IconObject.t = "faFaceSmileBeam"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPaw: IconObject.t = "faPaw";
+external faFaceSmileWink: IconObject.t = "faFaceSmileWink"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPeace: IconObject.t = "faPeace";
+external faFaceSurprise: IconObject.t = "faFaceSurprise"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPen: IconObject.t = "faPen";
+external faFaceTired: IconObject.t = "faFaceTired"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPenAlt: IconObject.t = "faPenAlt";
+external faFan: IconObject.t = "faFan"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPenFancy: IconObject.t = "faPenFancy";
+external faFastBackward: IconObject.t = "faFastBackward"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPenNib: IconObject.t = "faPenNib";
+external faFastForward: IconObject.t = "faFastForward"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPenSquare: IconObject.t = "faPenSquare";
+external faFaucet: IconObject.t = "faFaucet"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPencilAlt: IconObject.t = "faPencilAlt";
+external faFaucetDrip: IconObject.t = "faFaucetDrip"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPencilRuler: IconObject.t = "faPencilRuler";
+external faFax: IconObject.t = "faFax"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPeopleArrows: IconObject.t = "faPeopleArrows";
+external faFeather: IconObject.t = "faFeather"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPeopleCarry: IconObject.t = "faPeopleCarry";
+external faFeatherAlt: IconObject.t = "faFeatherAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPepperHot: IconObject.t = "faPepperHot";
+external faFeatherPointed: IconObject.t = "faFeatherPointed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPercent: IconObject.t = "faPercent";
+external faFeed: IconObject.t = "faFeed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPercentage: IconObject.t = "faPercentage";
+external faFemale: IconObject.t = "faFemale"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPersonBooth: IconObject.t = "faPersonBooth";
+external faFerry: IconObject.t = "faFerry"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPhone: IconObject.t = "faPhone";
+external faFighterJet: IconObject.t = "faFighterJet"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPhoneAlt: IconObject.t = "faPhoneAlt";
+external faFile: IconObject.t = "faFile"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPhoneSlash: IconObject.t = "faPhoneSlash";
+external faFileAlt: IconObject.t = "faFileAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPhoneSquare: IconObject.t = "faPhoneSquare";
+external faFileArchive: IconObject.t = "faFileArchive"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPhoneSquareAlt: IconObject.t = "faPhoneSquareAlt";
+external faFileArrowDown: IconObject.t = "faFileArrowDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPhoneVolume: IconObject.t = "faPhoneVolume";
+external faFileArrowUp: IconObject.t = "faFileArrowUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPhotoVideo: IconObject.t = "faPhotoVideo";
+external faFileAudio: IconObject.t = "faFileAudio"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPiggyBank: IconObject.t = "faPiggyBank";
+external faFileCircleCheck: IconObject.t = "faFileCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPills: IconObject.t = "faPills";
+external faFileCircleExclamation: IconObject.t = "faFileCircleExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPizzaSlice: IconObject.t = "faPizzaSlice";
+external faFileCircleMinus: IconObject.t = "faFileCircleMinus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlaceOfWorship: IconObject.t = "faPlaceOfWorship";
+external faFileCirclePlus: IconObject.t = "faFileCirclePlus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlane: IconObject.t = "faPlane";
+external faFileCircleQuestion: IconObject.t = "faFileCircleQuestion"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlaneArrival: IconObject.t = "faPlaneArrival";
+external faFileCircleXmark: IconObject.t = "faFileCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlaneDeparture: IconObject.t = "faPlaneDeparture";
+external faFileClipboard: IconObject.t = "faFileClipboard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlaneSlash: IconObject.t = "faPlaneSlash";
+external faFileCode: IconObject.t = "faFileCode"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlay: IconObject.t = "faPlay";
+external faFileContract: IconObject.t = "faFileContract"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlayCircle: IconObject.t = "faPlayCircle";
+external faFileCsv: IconObject.t = "faFileCsv"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlug: IconObject.t = "faPlug";
+external faFileDownload: IconObject.t = "faFileDownload"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlus: IconObject.t = "faPlus";
+external faFileEdit: IconObject.t = "faFileEdit"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlusCircle: IconObject.t = "faPlusCircle";
+external faFileExcel: IconObject.t = "faFileExcel"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPlusSquare: IconObject.t = "faPlusSquare";
+external faFileExport: IconObject.t = "faFileExport"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPodcast: IconObject.t = "faPodcast";
+external faFileImage: IconObject.t = "faFileImage"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPoll: IconObject.t = "faPoll";
+external faFileImport: IconObject.t = "faFileImport"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPollH: IconObject.t = "faPollH";
+external faFileInvoice: IconObject.t = "faFileInvoice"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPoo: IconObject.t = "faPoo";
+external faFileInvoiceDollar: IconObject.t = "faFileInvoiceDollar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPooStorm: IconObject.t = "faPooStorm";
+external faFileLines: IconObject.t = "faFileLines"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPoop: IconObject.t = "faPoop";
+external faFileMedical: IconObject.t = "faFileMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPortrait: IconObject.t = "faPortrait";
+external faFileMedicalAlt: IconObject.t = "faFileMedicalAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPoundSign: IconObject.t = "faPoundSign";
+external faFilePdf: IconObject.t = "faFilePdf"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPowerOff: IconObject.t = "faPowerOff";
+external faFilePen: IconObject.t = "faFilePen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPray: IconObject.t = "faPray";
+external faFilePowerpoint: IconObject.t = "faFilePowerpoint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPrayingHands: IconObject.t = "faPrayingHands";
+external faFilePrescription: IconObject.t = "faFilePrescription"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPrescription: IconObject.t = "faPrescription";
+external faFileShield: IconObject.t = "faFileShield"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPrescriptionBottle: IconObject.t = "faPrescriptionBottle";
+external faFileSignature: IconObject.t = "faFileSignature"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPrescriptionBottleAlt: IconObject.t = "faPrescriptionBottleAlt";
+external faFileText: IconObject.t = "faFileText"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPrint: IconObject.t = "faPrint";
+external faFileUpload: IconObject.t = "faFileUpload"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faProcedures: IconObject.t = "faProcedures";
+external faFileVideo: IconObject.t = "faFileVideo"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faProjectDiagram: IconObject.t = "faProjectDiagram";
+external faFileWaveform: IconObject.t = "faFileWaveform"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPumpMedical: IconObject.t = "faPumpMedical";
+external faFileWord: IconObject.t = "faFileWord"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPumpSoap: IconObject.t = "faPumpSoap";
+external faFileZipper: IconObject.t = "faFileZipper"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faPuzzlePiece: IconObject.t = "faPuzzlePiece";
+external faFill: IconObject.t = "faFill"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faQrcode: IconObject.t = "faQrcode";
+external faFillDrip: IconObject.t = "faFillDrip"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faQuestion: IconObject.t = "faQuestion";
+external faFilm: IconObject.t = "faFilm"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faQuestionCircle: IconObject.t = "faQuestionCircle";
+external faFilter: IconObject.t = "faFilter"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faQuidditch: IconObject.t = "faQuidditch";
+external faFilterCircleDollar: IconObject.t = "faFilterCircleDollar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faQuoteLeft: IconObject.t = "faQuoteLeft";
+external faFilterCircleXmark: IconObject.t = "faFilterCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faQuoteRight: IconObject.t = "faQuoteRight";
+external faFingerprint: IconObject.t = "faFingerprint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faQuran: IconObject.t = "faQuran";
+external faFire: IconObject.t = "faFire"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRadiation: IconObject.t = "faRadiation";
+external faFireAlt: IconObject.t = "faFireAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRadiationAlt: IconObject.t = "faRadiationAlt";
+external faFireBurner: IconObject.t = "faFireBurner"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRainbow: IconObject.t = "faRainbow";
+external faFireExtinguisher: IconObject.t = "faFireExtinguisher"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRandom: IconObject.t = "faRandom";
+external faFireFlameCurved: IconObject.t = "faFireFlameCurved"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faReceipt: IconObject.t = "faReceipt";
+external faFireFlameSimple: IconObject.t = "faFireFlameSimple"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRecordVinyl: IconObject.t = "faRecordVinyl";
+external faFirstAid: IconObject.t = "faFirstAid"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRecycle: IconObject.t = "faRecycle";
+external faFish: IconObject.t = "faFish"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRedo: IconObject.t = "faRedo";
+external faFishFins: IconObject.t = "faFishFins"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRedoAlt: IconObject.t = "faRedoAlt";
+external faFistRaised: IconObject.t = "faFistRaised"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRegistered: IconObject.t = "faRegistered";
+external faFlag: IconObject.t = "faFlag"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRemoveFormat: IconObject.t = "faRemoveFormat";
+external faFlagCheckered: IconObject.t = "faFlagCheckered"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faReply: IconObject.t = "faReply";
+external faFlagUsa: IconObject.t = "faFlagUsa"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faReplyAll: IconObject.t = "faReplyAll";
+external faFlask: IconObject.t = "faFlask"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRepublican: IconObject.t = "faRepublican";
+external faFlaskVial: IconObject.t = "faFlaskVial"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRestroom: IconObject.t = "faRestroom";
+external faFloppyDisk: IconObject.t = "faFloppyDisk"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRetweet: IconObject.t = "faRetweet";
+external faFlorinSign: IconObject.t = "faFlorinSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRibbon: IconObject.t = "faRibbon";
+external faFlushed: IconObject.t = "faFlushed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRing: IconObject.t = "faRing";
+external faFolder: IconObject.t = "faFolder"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRoad: IconObject.t = "faRoad";
+external faFolderBlank: IconObject.t = "faFolderBlank"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRobot: IconObject.t = "faRobot";
+external faFolderClosed: IconObject.t = "faFolderClosed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRocket: IconObject.t = "faRocket";
+external faFolderMinus: IconObject.t = "faFolderMinus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRoute: IconObject.t = "faRoute";
+external faFolderOpen: IconObject.t = "faFolderOpen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRss: IconObject.t = "faRss";
+external faFolderPlus: IconObject.t = "faFolderPlus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRssSquare: IconObject.t = "faRssSquare";
+external faFolderTree: IconObject.t = "faFolderTree"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRubleSign: IconObject.t = "faRubleSign";
+external faFont: IconObject.t = "faFont"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRuler: IconObject.t = "faRuler";
+external faFontAwesome: IconObject.t = "faFontAwesome"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRulerCombined: IconObject.t = "faRulerCombined";
+external faFontAwesomeFlag: IconObject.t = "faFontAwesomeFlag"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRulerHorizontal: IconObject.t = "faRulerHorizontal";
+external faFontAwesomeLogoFull: IconObject.t = "faFontAwesomeLogoFull"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRulerVertical: IconObject.t = "faRulerVertical";
+external faFootball: IconObject.t = "faFootball"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRunning: IconObject.t = "faRunning";
+external faFootballBall: IconObject.t = "faFootballBall"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faRupeeSign: IconObject.t = "faRupeeSign";
+external faForward: IconObject.t = "faForward"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSadCry: IconObject.t = "faSadCry";
+external faForwardFast: IconObject.t = "faForwardFast"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSadTear: IconObject.t = "faSadTear";
+external faForwardStep: IconObject.t = "faForwardStep"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSatellite: IconObject.t = "faSatellite";
+external faFrancSign: IconObject.t = "faFrancSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSatelliteDish: IconObject.t = "faSatelliteDish";
+external faFrog: IconObject.t = "faFrog"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSave: IconObject.t = "faSave";
+external faFrown: IconObject.t = "faFrown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSchool: IconObject.t = "faSchool";
+external faFrownOpen: IconObject.t = "faFrownOpen"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faScrewdriver: IconObject.t = "faScrewdriver";
+external faFunnelDollar: IconObject.t = "faFunnelDollar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faScroll: IconObject.t = "faScroll";
+external faFutbol: IconObject.t = "faFutbol"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSdCard: IconObject.t = "faSdCard";
+external faFutbolBall: IconObject.t = "faFutbolBall"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSearch: IconObject.t = "faSearch";
+external faGamepad: IconObject.t = "faGamepad"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSearchDollar: IconObject.t = "faSearchDollar";
+external faGasPump: IconObject.t = "faGasPump"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSearchLocation: IconObject.t = "faSearchLocation";
+external faGauge: IconObject.t = "faGauge"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSearchMinus: IconObject.t = "faSearchMinus";
+external faGaugeHigh: IconObject.t = "faGaugeHigh"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSearchPlus: IconObject.t = "faSearchPlus";
+external faGaugeMed: IconObject.t = "faGaugeMed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSeedling: IconObject.t = "faSeedling";
+external faGaugeSimple: IconObject.t = "faGaugeSimple"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faServer: IconObject.t = "faServer";
+external faGaugeSimpleHigh: IconObject.t = "faGaugeSimpleHigh"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShapes: IconObject.t = "faShapes";
+external faGaugeSimpleMed: IconObject.t = "faGaugeSimpleMed"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShare: IconObject.t = "faShare";
+external faGavel: IconObject.t = "faGavel"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShareAlt: IconObject.t = "faShareAlt";
+external faGbp: IconObject.t = "faGbp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShareAltSquare: IconObject.t = "faShareAltSquare";
+external faGear: IconObject.t = "faGear"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShareSquare: IconObject.t = "faShareSquare";
+external faGears: IconObject.t = "faGears"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShekelSign: IconObject.t = "faShekelSign";
+external faGem: IconObject.t = "faGem"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShieldAlt: IconObject.t = "faShieldAlt";
+external faGenderless: IconObject.t = "faGenderless"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShieldVirus: IconObject.t = "faShieldVirus";
+external faGhost: IconObject.t = "faGhost"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShip: IconObject.t = "faShip";
+external faGift: IconObject.t = "faGift"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShippingFast: IconObject.t = "faShippingFast";
+external faGifts: IconObject.t = "faGifts"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShoePrints: IconObject.t = "faShoePrints";
+external faGlassCheers: IconObject.t = "faGlassCheers"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShoppingBag: IconObject.t = "faShoppingBag";
+external faGlassMartini: IconObject.t = "faGlassMartini"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShoppingBasket: IconObject.t = "faShoppingBasket";
+external faGlassMartiniAlt: IconObject.t = "faGlassMartiniAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShoppingCart: IconObject.t = "faShoppingCart";
+external faGlassWater: IconObject.t = "faGlassWater"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShower: IconObject.t = "faShower";
+external faGlassWaterDroplet: IconObject.t = "faGlassWaterDroplet"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faShuttleVan: IconObject.t = "faShuttleVan";
+external faGlassWhiskey: IconObject.t = "faGlassWhiskey"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSign: IconObject.t = "faSign";
+external faGlasses: IconObject.t = "faGlasses"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSignInAlt: IconObject.t = "faSignInAlt";
+external faGlobe: IconObject.t = "faGlobe"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSignLanguage: IconObject.t = "faSignLanguage";
+external faGlobeAfrica: IconObject.t = "faGlobeAfrica"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSignOutAlt: IconObject.t = "faSignOutAlt";
+external faGlobeAmericas: IconObject.t = "faGlobeAmericas"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSignal: IconObject.t = "faSignal";
+external faGlobeAsia: IconObject.t = "faGlobeAsia"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSignature: IconObject.t = "faSignature";
+external faGlobeEurope: IconObject.t = "faGlobeEurope"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSimCard: IconObject.t = "faSimCard";
+external faGlobeOceania: IconObject.t = "faGlobeOceania"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSink: IconObject.t = "faSink";
+external faGolfBall: IconObject.t = "faGolfBall"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSitemap: IconObject.t = "faSitemap";
+external faGolfBallTee: IconObject.t = "faGolfBallTee"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSkating: IconObject.t = "faSkating";
+external faGopuram: IconObject.t = "faGopuram"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSkiing: IconObject.t = "faSkiing";
+external faGraduationCap: IconObject.t = "faGraduationCap"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSkiingNordic: IconObject.t = "faSkiingNordic";
+external faGreaterThan: IconObject.t = "faGreaterThan"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSkull: IconObject.t = "faSkull";
+external faGreaterThanEqual: IconObject.t = "faGreaterThanEqual"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSkullCrossbones: IconObject.t = "faSkullCrossbones";
+external faGrimace: IconObject.t = "faGrimace"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSlash: IconObject.t = "faSlash";
+external faGrin: IconObject.t = "faGrin"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSleigh: IconObject.t = "faSleigh";
+external faGrinAlt: IconObject.t = "faGrinAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSlidersH: IconObject.t = "faSlidersH";
+external faGrinBeam: IconObject.t = "faGrinBeam"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSmile: IconObject.t = "faSmile";
+external faGrinBeamSweat: IconObject.t = "faGrinBeamSweat"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSmileBeam: IconObject.t = "faSmileBeam";
+external faGrinHearts: IconObject.t = "faGrinHearts"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSmileWink: IconObject.t = "faSmileWink";
+external faGrinSquint: IconObject.t = "faGrinSquint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSmog: IconObject.t = "faSmog";
+external faGrinSquintTears: IconObject.t = "faGrinSquintTears"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSmoking: IconObject.t = "faSmoking";
+external faGrinStars: IconObject.t = "faGrinStars"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSmokingBan: IconObject.t = "faSmokingBan";
+external faGrinTears: IconObject.t = "faGrinTears"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSms: IconObject.t = "faSms";
+external faGrinTongue: IconObject.t = "faGrinTongue"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSnowboarding: IconObject.t = "faSnowboarding";
+external faGrinTongueSquint: IconObject.t = "faGrinTongueSquint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSnowflake: IconObject.t = "faSnowflake";
+external faGrinTongueWink: IconObject.t = "faGrinTongueWink"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSnowman: IconObject.t = "faSnowman";
+external faGrinWink: IconObject.t = "faGrinWink"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSnowplow: IconObject.t = "faSnowplow";
+external faGrip: IconObject.t = "faGrip"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSoap: IconObject.t = "faSoap";
+external faGripHorizontal: IconObject.t = "faGripHorizontal"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSocks: IconObject.t = "faSocks";
+external faGripLines: IconObject.t = "faGripLines"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSolarPanel: IconObject.t = "faSolarPanel";
+external faGripLinesVertical: IconObject.t = "faGripLinesVertical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSort: IconObject.t = "faSort";
+external faGripVertical: IconObject.t = "faGripVertical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortAlphaDown: IconObject.t = "faSortAlphaDown";
+external faGroupArrowsRotate: IconObject.t = "faGroupArrowsRotate"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortAlphaDownAlt: IconObject.t = "faSortAlphaDownAlt";
+external faGuaraniSign: IconObject.t = "faGuaraniSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortAlphaUp: IconObject.t = "faSortAlphaUp";
+external faGuitar: IconObject.t = "faGuitar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortAlphaUpAlt: IconObject.t = "faSortAlphaUpAlt";
+external faGun: IconObject.t = "faGun"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortAmountDown: IconObject.t = "faSortAmountDown";
+external faHSquare: IconObject.t = "faHSquare"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortAmountDownAlt: IconObject.t = "faSortAmountDownAlt";
+external faHamburger: IconObject.t = "faHamburger"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortAmountUp: IconObject.t = "faSortAmountUp";
+external faHammer: IconObject.t = "faHammer"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortAmountUpAlt: IconObject.t = "faSortAmountUpAlt";
+external faHamsa: IconObject.t = "faHamsa"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortDown: IconObject.t = "faSortDown";
+external faHand: IconObject.t = "faHand"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortNumericDown: IconObject.t = "faSortNumericDown";
+external faHandBackFist: IconObject.t = "faHandBackFist"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortNumericDownAlt: IconObject.t = "faSortNumericDownAlt";
+external faHandDots: IconObject.t = "faHandDots"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortNumericUp: IconObject.t = "faSortNumericUp";
+external faHandFist: IconObject.t = "faHandFist"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortNumericUpAlt: IconObject.t = "faSortNumericUpAlt";
+external faHandHolding: IconObject.t = "faHandHolding"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSortUp: IconObject.t = "faSortUp";
+external faHandHoldingDollar: IconObject.t = "faHandHoldingDollar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSpa: IconObject.t = "faSpa";
+external faHandHoldingDroplet: IconObject.t = "faHandHoldingDroplet"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSpaceShuttle: IconObject.t = "faSpaceShuttle";
+external faHandHoldingHand: IconObject.t = "faHandHoldingHand"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSpellCheck: IconObject.t = "faSpellCheck";
+external faHandHoldingHeart: IconObject.t = "faHandHoldingHeart"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSpider: IconObject.t = "faSpider";
+external faHandHoldingMedical: IconObject.t = "faHandHoldingMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSpinner: IconObject.t = "faSpinner";
+external faHandHoldingUsd: IconObject.t = "faHandHoldingUsd"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSplotch: IconObject.t = "faSplotch";
+external faHandHoldingWater: IconObject.t = "faHandHoldingWater"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSprayCan: IconObject.t = "faSprayCan";
+external faHandLizard: IconObject.t = "faHandLizard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSquare: IconObject.t = "faSquare";
+external faHandMiddleFinger: IconObject.t = "faHandMiddleFinger"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSquareFull: IconObject.t = "faSquareFull";
+external faHandPaper: IconObject.t = "faHandPaper"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSquareRootAlt: IconObject.t = "faSquareRootAlt";
+external faHandPeace: IconObject.t = "faHandPeace"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStamp: IconObject.t = "faStamp";
+external faHandPointDown: IconObject.t = "faHandPointDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStar: IconObject.t = "faStar";
+external faHandPointLeft: IconObject.t = "faHandPointLeft"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStarAndCrescent: IconObject.t = "faStarAndCrescent";
+external faHandPointRight: IconObject.t = "faHandPointRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStarHalf: IconObject.t = "faStarHalf";
+external faHandPointUp: IconObject.t = "faHandPointUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStarHalfAlt: IconObject.t = "faStarHalfAlt";
+external faHandPointer: IconObject.t = "faHandPointer"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStarOfDavid: IconObject.t = "faStarOfDavid";
+external faHandRock: IconObject.t = "faHandRock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStarOfLife: IconObject.t = "faStarOfLife";
+external faHandScissors: IconObject.t = "faHandScissors"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStepBackward: IconObject.t = "faStepBackward";
+external faHandSparkles: IconObject.t = "faHandSparkles"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStepForward: IconObject.t = "faStepForward";
+external faHandSpock: IconObject.t = "faHandSpock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStethoscope: IconObject.t = "faStethoscope";
+external faHandcuffs: IconObject.t = "faHandcuffs"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStickyNote: IconObject.t = "faStickyNote";
+external faHands: IconObject.t = "faHands"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStop: IconObject.t = "faStop";
+external faHandsAmericanSignLanguageInterpreting: IconObject.t =
+  "faHandsAmericanSignLanguageInterpreting"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStopCircle: IconObject.t = "faStopCircle";
+external faHandsAslInterpreting: IconObject.t = "faHandsAslInterpreting"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStopwatch: IconObject.t = "faStopwatch";
+external faHandsBound: IconObject.t = "faHandsBound"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStopwatch20: IconObject.t = "faStopwatch20";
+external faHandsBubbles: IconObject.t = "faHandsBubbles"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStore: IconObject.t = "faStore";
+external faHandsClapping: IconObject.t = "faHandsClapping"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStoreAlt: IconObject.t = "faStoreAlt";
+external faHandsHelping: IconObject.t = "faHandsHelping"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStoreAltSlash: IconObject.t = "faStoreAltSlash";
+external faHandsHolding: IconObject.t = "faHandsHolding"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStoreSlash: IconObject.t = "faStoreSlash";
+external faHandsHoldingChild: IconObject.t = "faHandsHoldingChild"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStream: IconObject.t = "faStream";
+external faHandsHoldingCircle: IconObject.t = "faHandsHoldingCircle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStreetView: IconObject.t = "faStreetView";
+external faHandsPraying: IconObject.t = "faHandsPraying"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStrikethrough: IconObject.t = "faStrikethrough";
+external faHandsWash: IconObject.t = "faHandsWash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faStroopwafel: IconObject.t = "faStroopwafel";
+external faHandshake: IconObject.t = "faHandshake"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSubscript: IconObject.t = "faSubscript";
+external faHandshakeAlt: IconObject.t = "faHandshakeAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSubway: IconObject.t = "faSubway";
+external faHandshakeAltSlash: IconObject.t = "faHandshakeAltSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSuitcase: IconObject.t = "faSuitcase";
+external faHandshakeAngle: IconObject.t = "faHandshakeAngle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSuitcaseRolling: IconObject.t = "faSuitcaseRolling";
+external faHandshakeSimple: IconObject.t = "faHandshakeSimple"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSun: IconObject.t = "faSun";
+external faHandshakeSimpleSlash: IconObject.t = "faHandshakeSimpleSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSuperscript: IconObject.t = "faSuperscript";
+external faHandshakeSlash: IconObject.t = "faHandshakeSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSurprise: IconObject.t = "faSurprise";
+external faHanukiah: IconObject.t = "faHanukiah"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSwatchbook: IconObject.t = "faSwatchbook";
+external faHardDrive: IconObject.t = "faHardDrive"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSwimmer: IconObject.t = "faSwimmer";
+external faHardHat: IconObject.t = "faHardHat"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSwimmingPool: IconObject.t = "faSwimmingPool";
+external faHardOfHearing: IconObject.t = "faHardOfHearing"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSynagogue: IconObject.t = "faSynagogue";
+external faHashtag: IconObject.t = "faHashtag"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSync: IconObject.t = "faSync";
+external faHatCowboy: IconObject.t = "faHatCowboy"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSyncAlt: IconObject.t = "faSyncAlt";
+external faHatCowboySide: IconObject.t = "faHatCowboySide"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faSyringe: IconObject.t = "faSyringe";
+external faHatHard: IconObject.t = "faHatHard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTable: IconObject.t = "faTable";
+external faHatWizard: IconObject.t = "faHatWizard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTableTennis: IconObject.t = "faTableTennis";
+external faHaykal: IconObject.t = "faHaykal"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTablet: IconObject.t = "faTablet";
+external faHdd: IconObject.t = "faHdd"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTabletAlt: IconObject.t = "faTabletAlt";
+external faHeadSideCough: IconObject.t = "faHeadSideCough"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTablets: IconObject.t = "faTablets";
+external faHeadSideCoughSlash: IconObject.t = "faHeadSideCoughSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTachometerAlt: IconObject.t = "faTachometerAlt";
+external faHeadSideMask: IconObject.t = "faHeadSideMask"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTag: IconObject.t = "faTag";
+external faHeadSideVirus: IconObject.t = "faHeadSideVirus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTags: IconObject.t = "faTags";
+external faHeader: IconObject.t = "faHeader"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTape: IconObject.t = "faTape";
+external faHeading: IconObject.t = "faHeading"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTasks: IconObject.t = "faTasks";
+external faHeadphones: IconObject.t = "faHeadphones"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTaxi: IconObject.t = "faTaxi";
+external faHeadphonesAlt: IconObject.t = "faHeadphonesAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTeeth: IconObject.t = "faTeeth";
+external faHeadphonesSimple: IconObject.t = "faHeadphonesSimple"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTeethOpen: IconObject.t = "faTeethOpen";
+external faHeadset: IconObject.t = "faHeadset"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTemperatureHigh: IconObject.t = "faTemperatureHigh";
+external faHeart: IconObject.t = "faHeart"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTemperatureLow: IconObject.t = "faTemperatureLow";
+external faHeartBroken: IconObject.t = "faHeartBroken"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTenge: IconObject.t = "faTenge";
+external faHeartCircleBolt: IconObject.t = "faHeartCircleBolt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTerminal: IconObject.t = "faTerminal";
+external faHeartCircleCheck: IconObject.t = "faHeartCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTextHeight: IconObject.t = "faTextHeight";
+external faHeartCircleExclamation: IconObject.t = "faHeartCircleExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTextWidth: IconObject.t = "faTextWidth";
+external faHeartCircleMinus: IconObject.t = "faHeartCircleMinus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTh: IconObject.t = "faTh";
+external faHeartCirclePlus: IconObject.t = "faHeartCirclePlus"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThLarge: IconObject.t = "faThLarge";
+external faHeartCircleXmark: IconObject.t = "faHeartCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThList: IconObject.t = "faThList";
+external faHeartCrack: IconObject.t = "faHeartCrack"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTheaterMasks: IconObject.t = "faTheaterMasks";
+external faHeartMusicCameraBolt: IconObject.t = "faHeartMusicCameraBolt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThermometer: IconObject.t = "faThermometer";
+external faHeartPulse: IconObject.t = "faHeartPulse"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThermometerEmpty: IconObject.t = "faThermometerEmpty";
+external faHeartbeat: IconObject.t = "faHeartbeat"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThermometerFull: IconObject.t = "faThermometerFull";
+external faHelicopter: IconObject.t = "faHelicopter"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThermometerHalf: IconObject.t = "faThermometerHalf";
+external faHelicopterSymbol: IconObject.t = "faHelicopterSymbol"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThermometerQuarter: IconObject.t = "faThermometerQuarter";
+external faHelmetSafety: IconObject.t = "faHelmetSafety"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThermometerThreeQuarters: IconObject.t = "faThermometerThreeQuarters";
+external faHelmetUn: IconObject.t = "faHelmetUn"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThumbsDown: IconObject.t = "faThumbsDown";
+external faHighlighter: IconObject.t = "faHighlighter"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThumbsUp: IconObject.t = "faThumbsUp";
+external faHiking: IconObject.t = "faHiking"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faThumbtack: IconObject.t = "faThumbtack";
+external faHillAvalanche: IconObject.t = "faHillAvalanche"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTicketAlt: IconObject.t = "faTicketAlt";
+external faHillRockslide: IconObject.t = "faHillRockslide"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTimes: IconObject.t = "faTimes";
+external faHippo: IconObject.t = "faHippo"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTimesCircle: IconObject.t = "faTimesCircle";
+external faHistory: IconObject.t = "faHistory"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTint: IconObject.t = "faTint";
+external faHockeyPuck: IconObject.t = "faHockeyPuck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTintSlash: IconObject.t = "faTintSlash";
+external faHollyBerry: IconObject.t = "faHollyBerry"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTired: IconObject.t = "faTired";
+external faHome: IconObject.t = "faHome"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faToggleOff: IconObject.t = "faToggleOff";
+external faHomeAlt: IconObject.t = "faHomeAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faToggleOn: IconObject.t = "faToggleOn";
+external faHomeLg: IconObject.t = "faHomeLg"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faToilet: IconObject.t = "faToilet";
+external faHomeLgAlt: IconObject.t = "faHomeLgAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faToiletPaper: IconObject.t = "faToiletPaper";
+external faHomeUser: IconObject.t = "faHomeUser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faToiletPaperSlash: IconObject.t = "faToiletPaperSlash";
+external faHorse: IconObject.t = "faHorse"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faToolbox: IconObject.t = "faToolbox";
+external faHorseHead: IconObject.t = "faHorseHead"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTools: IconObject.t = "faTools";
+external faHospital: IconObject.t = "faHospital"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTooth: IconObject.t = "faTooth";
+external faHospitalAlt: IconObject.t = "faHospitalAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTorah: IconObject.t = "faTorah";
+external faHospitalSymbol: IconObject.t = "faHospitalSymbol"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faToriiGate: IconObject.t = "faToriiGate";
+external faHospitalUser: IconObject.t = "faHospitalUser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTractor: IconObject.t = "faTractor";
+external faHospitalWide: IconObject.t = "faHospitalWide"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrademark: IconObject.t = "faTrademark";
+external faHotTub: IconObject.t = "faHotTub"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrafficLight: IconObject.t = "faTrafficLight";
+external faHotTubPerson: IconObject.t = "faHotTubPerson"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrailer: IconObject.t = "faTrailer";
+external faHotdog: IconObject.t = "faHotdog"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrain: IconObject.t = "faTrain";
+external faHotel: IconObject.t = "faHotel"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTram: IconObject.t = "faTram";
+external faHourglass: IconObject.t = "faHourglass"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTransgender: IconObject.t = "faTransgender";
+external faHourglass1: IconObject.t = "faHourglass1"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTransgenderAlt: IconObject.t = "faTransgenderAlt";
+external faHourglass2: IconObject.t = "faHourglass2"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrash: IconObject.t = "faTrash";
+external faHourglass3: IconObject.t = "faHourglass3"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrashAlt: IconObject.t = "faTrashAlt";
+external faHourglassEmpty: IconObject.t = "faHourglassEmpty"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrashRestore: IconObject.t = "faTrashRestore";
+external faHourglassEnd: IconObject.t = "faHourglassEnd"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrashRestoreAlt: IconObject.t = "faTrashRestoreAlt";
+external faHourglassHalf: IconObject.t = "faHourglassHalf"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTree: IconObject.t = "faTree";
+external faHourglassStart: IconObject.t = "faHourglassStart"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTrophy: IconObject.t = "faTrophy";
+external faHouse: IconObject.t = "faHouse"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTruck: IconObject.t = "faTruck";
+external faHouseChimney: IconObject.t = "faHouseChimney"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTruckLoading: IconObject.t = "faTruckLoading";
+external faHouseChimneyCrack: IconObject.t = "faHouseChimneyCrack"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTruckMonster: IconObject.t = "faTruckMonster";
+external faHouseChimneyMedical: IconObject.t = "faHouseChimneyMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTruckMoving: IconObject.t = "faTruckMoving";
+external faHouseChimneyUser: IconObject.t = "faHouseChimneyUser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTruckPickup: IconObject.t = "faTruckPickup";
+external faHouseChimneyWindow: IconObject.t = "faHouseChimneyWindow"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTshirt: IconObject.t = "faTshirt";
+external faHouseCircleCheck: IconObject.t = "faHouseCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTty: IconObject.t = "faTty";
+external faHouseCircleExclamation: IconObject.t = "faHouseCircleExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faTv: IconObject.t = "faTv";
+external faHouseCircleXmark: IconObject.t = "faHouseCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUmbrella: IconObject.t = "faUmbrella";
+external faHouseCrack: IconObject.t = "faHouseCrack"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUmbrellaBeach: IconObject.t = "faUmbrellaBeach";
+external faHouseDamage: IconObject.t = "faHouseDamage"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUnderline: IconObject.t = "faUnderline";
+external faHouseFire: IconObject.t = "faHouseFire"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUndo: IconObject.t = "faUndo";
+external faHouseFlag: IconObject.t = "faHouseFlag"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUndoAlt: IconObject.t = "faUndoAlt";
+external faHouseFloodWater: IconObject.t = "faHouseFloodWater"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUniversalAccess: IconObject.t = "faUniversalAccess";
+external faHouseFloodWaterCircleArrowRight: IconObject.t = "faHouseFloodWaterCircleArrowRight"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUniversity: IconObject.t = "faUniversity";
+external faHouseLaptop: IconObject.t = "faHouseLaptop"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUnlink: IconObject.t = "faUnlink";
+external faHouseLock: IconObject.t = "faHouseLock"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUnlock: IconObject.t = "faUnlock";
+external faHouseMedical: IconObject.t = "faHouseMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUnlockAlt: IconObject.t = "faUnlockAlt";
+external faHouseMedicalCircleCheck: IconObject.t = "faHouseMedicalCircleCheck"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUpload: IconObject.t = "faUpload";
+external faHouseMedicalCircleExclamation: IconObject.t = "faHouseMedicalCircleExclamation"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUser: IconObject.t = "faUser";
+external faHouseMedicalCircleXmark: IconObject.t = "faHouseMedicalCircleXmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserAlt: IconObject.t = "faUserAlt";
+external faHouseMedicalFlag: IconObject.t = "faHouseMedicalFlag"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserAltSlash: IconObject.t = "faUserAltSlash";
+external faHouseSignal: IconObject.t = "faHouseSignal"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserAstronaut: IconObject.t = "faUserAstronaut";
+external faHouseTsunami: IconObject.t = "faHouseTsunami"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserCheck: IconObject.t = "faUserCheck";
+external faHouseUser: IconObject.t = "faHouseUser"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserCircle: IconObject.t = "faUserCircle";
+external faHryvnia: IconObject.t = "faHryvnia"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserClock: IconObject.t = "faUserClock";
+external faHryvniaSign: IconObject.t = "faHryvniaSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserCog: IconObject.t = "faUserCog";
+external faHurricane: IconObject.t = "faHurricane"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserEdit: IconObject.t = "faUserEdit";
+external faICursor: IconObject.t = "faICursor"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserFriends: IconObject.t = "faUserFriends";
+external faIceCream: IconObject.t = "faIceCream"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserGraduate: IconObject.t = "faUserGraduate";
+external faIcicles: IconObject.t = "faIcicles"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserInjured: IconObject.t = "faUserInjured";
+external faIcons: IconObject.t = "faIcons"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserLock: IconObject.t = "faUserLock";
+external faIdBadge: IconObject.t = "faIdBadge"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserMd: IconObject.t = "faUserMd";
+external faIdCard: IconObject.t = "faIdCard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserMinus: IconObject.t = "faUserMinus";
+external faIdCardAlt: IconObject.t = "faIdCardAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserNinja: IconObject.t = "faUserNinja";
+external faIdCardClip: IconObject.t = "faIdCardClip"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserNurse: IconObject.t = "faUserNurse";
+external faIgloo: IconObject.t = "faIgloo"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserPlus: IconObject.t = "faUserPlus";
+external faIls: IconObject.t = "faIls"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserSecret: IconObject.t = "faUserSecret";
+external faImage: IconObject.t = "faImage"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserShield: IconObject.t = "faUserShield";
+external faImagePortrait: IconObject.t = "faImagePortrait"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserSlash: IconObject.t = "faUserSlash";
+external faImages: IconObject.t = "faImages"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserTag: IconObject.t = "faUserTag";
+external faInbox: IconObject.t = "faInbox"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserTie: IconObject.t = "faUserTie";
+external faIndent: IconObject.t = "faIndent"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUserTimes: IconObject.t = "faUserTimes";
+external faIndianRupee: IconObject.t = "faIndianRupee"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUsers: IconObject.t = "faUsers";
+external faIndianRupeeSign: IconObject.t = "faIndianRupeeSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUsersCog: IconObject.t = "faUsersCog";
+external faIndustry: IconObject.t = "faIndustry"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUsersSlash: IconObject.t = "faUsersSlash";
+external faInfinity: IconObject.t = "faInfinity"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUtensilSpoon: IconObject.t = "faUtensilSpoon";
+external faInfo: IconObject.t = "faInfo"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faUtensils: IconObject.t = "faUtensils";
+external faInfoCircle: IconObject.t = "faInfoCircle"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVectorSquare: IconObject.t = "faVectorSquare";
+external faInr: IconObject.t = "faInr"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVenus: IconObject.t = "faVenus";
+external faInstitution: IconObject.t = "faInstitution"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVenusDouble: IconObject.t = "faVenusDouble";
+external faItalic: IconObject.t = "faItalic"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVenusMars: IconObject.t = "faVenusMars";
+external faJar: IconObject.t = "faJar"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVest: IconObject.t = "faVest";
+external faJarWheat: IconObject.t = "faJarWheat"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVestPatches: IconObject.t = "faVestPatches";
+external faJedi: IconObject.t = "faJedi"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVial: IconObject.t = "faVial";
+external faJetFighter: IconObject.t = "faJetFighter"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVials: IconObject.t = "faVials";
+external faJetFighterUp: IconObject.t = "faJetFighterUp"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVideo: IconObject.t = "faVideo";
+external faJoint: IconObject.t = "faJoint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVideoSlash: IconObject.t = "faVideoSlash";
+external faJournalWhills: IconObject.t = "faJournalWhills"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVihara: IconObject.t = "faVihara";
+external faJpy: IconObject.t = "faJpy"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVirus: IconObject.t = "faVirus";
+external faJugDetergent: IconObject.t = "faJugDetergent"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVirusSlash: IconObject.t = "faVirusSlash";
+external faKaaba: IconObject.t = "faKaaba"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faViruses: IconObject.t = "faViruses";
+external faKey: IconObject.t = "faKey"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVoicemail: IconObject.t = "faVoicemail";
+external faKeyboard: IconObject.t = "faKeyboard"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVolleyballBall: IconObject.t = "faVolleyballBall";
+external faKhanda: IconObject.t = "faKhanda"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVolumeDown: IconObject.t = "faVolumeDown";
+external faKipSign: IconObject.t = "faKipSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVolumeMute: IconObject.t = "faVolumeMute";
+external faKiss: IconObject.t = "faKiss"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVolumeOff: IconObject.t = "faVolumeOff";
+external faKissBeam: IconObject.t = "faKissBeam"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVolumeUp: IconObject.t = "faVolumeUp";
+external faKissWinkHeart: IconObject.t = "faKissWinkHeart"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVoteYea: IconObject.t = "faVoteYea";
+external faKitMedical: IconObject.t = "faKitMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faVrCardboard: IconObject.t = "faVrCardboard";
+external faKitchenSet: IconObject.t = "faKitchenSet"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWalking: IconObject.t = "faWalking";
+external faKiwiBird: IconObject.t = "faKiwiBird"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWallet: IconObject.t = "faWallet";
+external faKrw: IconObject.t = "faKrw"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWarehouse: IconObject.t = "faWarehouse";
+external faLadderWater: IconObject.t = "faLadderWater"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWater: IconObject.t = "faWater";
+external faLandMineOn: IconObject.t = "faLandMineOn"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWaveSquare: IconObject.t = "faWaveSquare";
+external faLandmark: IconObject.t = "faLandmark"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWeight: IconObject.t = "faWeight";
+external faLandmarkAlt: IconObject.t = "faLandmarkAlt"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWeightHanging: IconObject.t = "faWeightHanging";
+external faLandmarkDome: IconObject.t = "faLandmarkDome"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWheelchair: IconObject.t = "faWheelchair";
+external faLandmarkFlag: IconObject.t = "faLandmarkFlag"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWifi: IconObject.t = "faWifi";
+external faLanguage: IconObject.t = "faLanguage"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWind: IconObject.t = "faWind";
+external faLaptop: IconObject.t = "faLaptop"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWindowClose: IconObject.t = "faWindowClose";
+external faLaptopCode: IconObject.t = "faLaptopCode"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWindowMaximize: IconObject.t = "faWindowMaximize";
+external faLaptopFile: IconObject.t = "faLaptopFile"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWindowMinimize: IconObject.t = "faWindowMinimize";
+external faLaptopHouse: IconObject.t = "faLaptopHouse"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWindowRestore: IconObject.t = "faWindowRestore";
+external faLaptopMedical: IconObject.t = "faLaptopMedical"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWineBottle: IconObject.t = "faWineBottle";
+external faLariSign: IconObject.t = "faLariSign"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWineGlass: IconObject.t = "faWineGlass";
+external faLaugh: IconObject.t = "faLaugh"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWineGlassAlt: IconObject.t = "faWineGlassAlt";
+external faLaughBeam: IconObject.t = "faLaughBeam"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWonSign: IconObject.t = "faWonSign";
+external faLaughSquint: IconObject.t = "faLaughSquint"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faWrench: IconObject.t = "faWrench";
+external faLaughWink: IconObject.t = "faLaughWink"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faXRay: IconObject.t = "faXRay";
+external faLayerGroup: IconObject.t = "faLayerGroup"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faYenSign: IconObject.t = "faYenSign";
+external faLeaf: IconObject.t = "faLeaf"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faYinYang: IconObject.t = "faYinYang";
+external faLeftLong: IconObject.t = "faLeftLong"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLeftRight: IconObject.t = "faLeftRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLegal: IconObject.t = "faLegal"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLemon: IconObject.t = "faLemon"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLessThan: IconObject.t = "faLessThan"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLessThanEqual: IconObject.t = "faLessThanEqual"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLevelDown: IconObject.t = "faLevelDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLevelDownAlt: IconObject.t = "faLevelDownAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLevelUp: IconObject.t = "faLevelUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLevelUpAlt: IconObject.t = "faLevelUpAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLifeRing: IconObject.t = "faLifeRing"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLightbulb: IconObject.t = "faLightbulb"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLineChart: IconObject.t = "faLineChart"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLinesLeaning: IconObject.t = "faLinesLeaning"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLink: IconObject.t = "faLink"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLinkSlash: IconObject.t = "faLinkSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLiraSign: IconObject.t = "faLiraSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faList: IconObject.t = "faList"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faList12: IconObject.t = "faList12"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faListAlt: IconObject.t = "faListAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faListCheck: IconObject.t = "faListCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faListDots: IconObject.t = "faListDots"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faListNumeric: IconObject.t = "faListNumeric"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faListOl: IconObject.t = "faListOl"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faListSquares: IconObject.t = "faListSquares"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faListUl: IconObject.t = "faListUl"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLitecoinSign: IconObject.t = "faLitecoinSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLocation: IconObject.t = "faLocation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLocationArrow: IconObject.t = "faLocationArrow"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLocationCrosshairs: IconObject.t = "faLocationCrosshairs"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLocationDot: IconObject.t = "faLocationDot"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLocationPin: IconObject.t = "faLocationPin"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLocationPinLock: IconObject.t = "faLocationPinLock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLock: IconObject.t = "faLock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLockOpen: IconObject.t = "faLockOpen"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLocust: IconObject.t = "faLocust"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLongArrowAltDown: IconObject.t = "faLongArrowAltDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLongArrowAltLeft: IconObject.t = "faLongArrowAltLeft"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLongArrowAltRight: IconObject.t = "faLongArrowAltRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLongArrowAltUp: IconObject.t = "faLongArrowAltUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLongArrowDown: IconObject.t = "faLongArrowDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLongArrowLeft: IconObject.t = "faLongArrowLeft"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLongArrowRight: IconObject.t = "faLongArrowRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLongArrowUp: IconObject.t = "faLongArrowUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLowVision: IconObject.t = "faLowVision"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLuggageCart: IconObject.t = "faLuggageCart"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLungs: IconObject.t = "faLungs"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faLungsVirus: IconObject.t = "faLungsVirus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagic: IconObject.t = "faMagic"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagicWandSparkles: IconObject.t = "faMagicWandSparkles"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagnet: IconObject.t = "faMagnet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagnifyingGlass: IconObject.t = "faMagnifyingGlass"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagnifyingGlassArrowRight: IconObject.t = "faMagnifyingGlassArrowRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagnifyingGlassChart: IconObject.t = "faMagnifyingGlassChart"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagnifyingGlassDollar: IconObject.t = "faMagnifyingGlassDollar"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagnifyingGlassLocation: IconObject.t = "faMagnifyingGlassLocation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagnifyingGlassMinus: IconObject.t = "faMagnifyingGlassMinus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMagnifyingGlassPlus: IconObject.t = "faMagnifyingGlassPlus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMailBulk: IconObject.t = "faMailBulk"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMailForward: IconObject.t = "faMailForward"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMailReply: IconObject.t = "faMailReply"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMailReplyAll: IconObject.t = "faMailReplyAll"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMale: IconObject.t = "faMale"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faManatSign: IconObject.t = "faManatSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMap: IconObject.t = "faMap"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMapLocation: IconObject.t = "faMapLocation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMapLocationDot: IconObject.t = "faMapLocationDot"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMapMarked: IconObject.t = "faMapMarked"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMapMarkedAlt: IconObject.t = "faMapMarkedAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMapMarker: IconObject.t = "faMapMarker"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMapMarkerAlt: IconObject.t = "faMapMarkerAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMapPin: IconObject.t = "faMapPin"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMapSigns: IconObject.t = "faMapSigns"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarker: IconObject.t = "faMarker"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMars: IconObject.t = "faMars"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarsAndVenus: IconObject.t = "faMarsAndVenus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarsAndVenusBurst: IconObject.t = "faMarsAndVenusBurst"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarsDouble: IconObject.t = "faMarsDouble"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarsStroke: IconObject.t = "faMarsStroke"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarsStrokeH: IconObject.t = "faMarsStrokeH"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarsStrokeRight: IconObject.t = "faMarsStrokeRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarsStrokeUp: IconObject.t = "faMarsStrokeUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMarsStrokeV: IconObject.t = "faMarsStrokeV"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMartiniGlass: IconObject.t = "faMartiniGlass"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMartiniGlassCitrus: IconObject.t = "faMartiniGlassCitrus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMartiniGlassEmpty: IconObject.t = "faMartiniGlassEmpty"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMask: IconObject.t = "faMask"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMaskFace: IconObject.t = "faMaskFace"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMaskVentilator: IconObject.t = "faMaskVentilator"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMasksTheater: IconObject.t = "faMasksTheater"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMattressPillow: IconObject.t = "faMattressPillow"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMaximize: IconObject.t = "faMaximize"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMedal: IconObject.t = "faMedal"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMedkit: IconObject.t = "faMedkit"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMeh: IconObject.t = "faMeh"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMehBlank: IconObject.t = "faMehBlank"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMehRollingEyes: IconObject.t = "faMehRollingEyes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMemory: IconObject.t = "faMemory"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMenorah: IconObject.t = "faMenorah"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMercury: IconObject.t = "faMercury"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMessage: IconObject.t = "faMessage"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMeteor: IconObject.t = "faMeteor"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMicrochip: IconObject.t = "faMicrochip"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMicrophone: IconObject.t = "faMicrophone"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMicrophoneAlt: IconObject.t = "faMicrophoneAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMicrophoneAltSlash: IconObject.t = "faMicrophoneAltSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMicrophoneLines: IconObject.t = "faMicrophoneLines"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMicrophoneLinesSlash: IconObject.t = "faMicrophoneLinesSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMicrophoneSlash: IconObject.t = "faMicrophoneSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMicroscope: IconObject.t = "faMicroscope"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMillSign: IconObject.t = "faMillSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMinimize: IconObject.t = "faMinimize"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMinus: IconObject.t = "faMinus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMinusCircle: IconObject.t = "faMinusCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMinusSquare: IconObject.t = "faMinusSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMitten: IconObject.t = "faMitten"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobile: IconObject.t = "faMobile"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobileAlt: IconObject.t = "faMobileAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobileAndroid: IconObject.t = "faMobileAndroid"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobileAndroidAlt: IconObject.t = "faMobileAndroidAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobileButton: IconObject.t = "faMobileButton"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobilePhone: IconObject.t = "faMobilePhone"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobileRetro: IconObject.t = "faMobileRetro"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobileScreen: IconObject.t = "faMobileScreen"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMobileScreenButton: IconObject.t = "faMobileScreenButton"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBill: IconObject.t = "faMoneyBill"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBill1: IconObject.t = "faMoneyBill1"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBill1Wave: IconObject.t = "faMoneyBill1Wave"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBillAlt: IconObject.t = "faMoneyBillAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBillTransfer: IconObject.t = "faMoneyBillTransfer"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBillTrendUp: IconObject.t = "faMoneyBillTrendUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBillWave: IconObject.t = "faMoneyBillWave"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBillWaveAlt: IconObject.t = "faMoneyBillWaveAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBillWheat: IconObject.t = "faMoneyBillWheat"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyBills: IconObject.t = "faMoneyBills"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyCheck: IconObject.t = "faMoneyCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyCheckAlt: IconObject.t = "faMoneyCheckAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoneyCheckDollar: IconObject.t = "faMoneyCheckDollar"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMonument: IconObject.t = "faMonument"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMoon: IconObject.t = "faMoon"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMortarBoard: IconObject.t = "faMortarBoard"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMortarPestle: IconObject.t = "faMortarPestle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMosque: IconObject.t = "faMosque"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMosquito: IconObject.t = "faMosquito"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMosquitoNet: IconObject.t = "faMosquitoNet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMotorcycle: IconObject.t = "faMotorcycle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMound: IconObject.t = "faMound"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMountain: IconObject.t = "faMountain"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMountainCity: IconObject.t = "faMountainCity"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMountainSun: IconObject.t = "faMountainSun"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMouse: IconObject.t = "faMouse"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMousePointer: IconObject.t = "faMousePointer"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMugHot: IconObject.t = "faMugHot"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMugSaucer: IconObject.t = "faMugSaucer"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMultiply: IconObject.t = "faMultiply"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMuseum: IconObject.t = "faMuseum"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faMusic: IconObject.t = "faMusic"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNairaSign: IconObject.t = "faNairaSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNavicon: IconObject.t = "faNavicon"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNetworkWired: IconObject.t = "faNetworkWired"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNeuter: IconObject.t = "faNeuter"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNewspaper: IconObject.t = "faNewspaper"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNotEqual: IconObject.t = "faNotEqual"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNoteSticky: IconObject.t = "faNoteSticky"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNotesMedical: IconObject.t = "faNotesMedical"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faObjectGroup: IconObject.t = "faObjectGroup"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faObjectUngroup: IconObject.t = "faObjectUngroup"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faOilCan: IconObject.t = "faOilCan"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faOilWell: IconObject.t = "faOilWell"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faOm: IconObject.t = "faOm"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faOtter: IconObject.t = "faOtter"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faOutdent: IconObject.t = "faOutdent"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPager: IconObject.t = "faPager"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPaintBrush: IconObject.t = "faPaintBrush"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPaintRoller: IconObject.t = "faPaintRoller"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPaintbrush: IconObject.t = "faPaintbrush"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPalette: IconObject.t = "faPalette"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPallet: IconObject.t = "faPallet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPanorama: IconObject.t = "faPanorama"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPaperPlane: IconObject.t = "faPaperPlane"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPaperclip: IconObject.t = "faPaperclip"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faParachuteBox: IconObject.t = "faParachuteBox"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faParagraph: IconObject.t = "faParagraph"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faParking: IconObject.t = "faParking"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPassport: IconObject.t = "faPassport"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPastafarianism: IconObject.t = "faPastafarianism"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPaste: IconObject.t = "faPaste"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPause: IconObject.t = "faPause"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPauseCircle: IconObject.t = "faPauseCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPaw: IconObject.t = "faPaw"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeace: IconObject.t = "faPeace"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPen: IconObject.t = "faPen"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPenAlt: IconObject.t = "faPenAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPenClip: IconObject.t = "faPenClip"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPenFancy: IconObject.t = "faPenFancy"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPenNib: IconObject.t = "faPenNib"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPenRuler: IconObject.t = "faPenRuler"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPenSquare: IconObject.t = "faPenSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPenToSquare: IconObject.t = "faPenToSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPencil: IconObject.t = "faPencil"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPencilAlt: IconObject.t = "faPencilAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPencilRuler: IconObject.t = "faPencilRuler"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPencilSquare: IconObject.t = "faPencilSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeopleArrows: IconObject.t = "faPeopleArrows"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeopleArrowsLeftRight: IconObject.t = "faPeopleArrowsLeftRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeopleCarry: IconObject.t = "faPeopleCarry"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeopleCarryBox: IconObject.t = "faPeopleCarryBox"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeopleGroup: IconObject.t = "faPeopleGroup"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeopleLine: IconObject.t = "faPeopleLine"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeoplePulling: IconObject.t = "faPeoplePulling"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeopleRobbery: IconObject.t = "faPeopleRobbery"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPeopleRoof: IconObject.t = "faPeopleRoof"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPepperHot: IconObject.t = "faPepperHot"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPercent: IconObject.t = "faPercent"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPercentage: IconObject.t = "faPercentage"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPerson: IconObject.t = "faPerson"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonArrowDownToLine: IconObject.t = "faPersonArrowDownToLine"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonArrowUpFromLine: IconObject.t = "faPersonArrowUpFromLine"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonBiking: IconObject.t = "faPersonBiking"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonBooth: IconObject.t = "faPersonBooth"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonBreastfeeding: IconObject.t = "faPersonBreastfeeding"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonBurst: IconObject.t = "faPersonBurst"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonCane: IconObject.t = "faPersonCane"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonChalkboard: IconObject.t = "faPersonChalkboard"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonCircleCheck: IconObject.t = "faPersonCircleCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonCircleExclamation: IconObject.t = "faPersonCircleExclamation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonCircleMinus: IconObject.t = "faPersonCircleMinus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonCirclePlus: IconObject.t = "faPersonCirclePlus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonCircleQuestion: IconObject.t = "faPersonCircleQuestion"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonCircleXmark: IconObject.t = "faPersonCircleXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonDigging: IconObject.t = "faPersonDigging"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonDotsFromLine: IconObject.t = "faPersonDotsFromLine"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonDress: IconObject.t = "faPersonDress"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonDressBurst: IconObject.t = "faPersonDressBurst"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonDrowning: IconObject.t = "faPersonDrowning"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonFalling: IconObject.t = "faPersonFalling"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonFallingBurst: IconObject.t = "faPersonFallingBurst"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonHalfDress: IconObject.t = "faPersonHalfDress"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonHarassing: IconObject.t = "faPersonHarassing"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonHiking: IconObject.t = "faPersonHiking"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonMilitaryPointing: IconObject.t = "faPersonMilitaryPointing"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonMilitaryRifle: IconObject.t = "faPersonMilitaryRifle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonMilitaryToPerson: IconObject.t = "faPersonMilitaryToPerson"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonPraying: IconObject.t = "faPersonPraying"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonPregnant: IconObject.t = "faPersonPregnant"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonRays: IconObject.t = "faPersonRays"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonRifle: IconObject.t = "faPersonRifle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonRunning: IconObject.t = "faPersonRunning"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonShelter: IconObject.t = "faPersonShelter"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonSkating: IconObject.t = "faPersonSkating"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonSkiing: IconObject.t = "faPersonSkiing"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonSkiingNordic: IconObject.t = "faPersonSkiingNordic"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonSnowboarding: IconObject.t = "faPersonSnowboarding"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonSwimming: IconObject.t = "faPersonSwimming"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonThroughWindow: IconObject.t = "faPersonThroughWindow"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonWalking: IconObject.t = "faPersonWalking"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonWalkingArrowLoopLeft: IconObject.t = "faPersonWalkingArrowLoopLeft"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonWalkingArrowRight: IconObject.t = "faPersonWalkingArrowRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonWalkingDashedLineArrowRight: IconObject.t = "faPersonWalkingDashedLineArrowRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonWalkingLuggage: IconObject.t = "faPersonWalkingLuggage"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPersonWalkingWithCane: IconObject.t = "faPersonWalkingWithCane"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPesetaSign: IconObject.t = "faPesetaSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPesoSign: IconObject.t = "faPesoSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhone: IconObject.t = "faPhone"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhoneAlt: IconObject.t = "faPhoneAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhoneFlip: IconObject.t = "faPhoneFlip"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhoneSlash: IconObject.t = "faPhoneSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhoneSquare: IconObject.t = "faPhoneSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhoneSquareAlt: IconObject.t = "faPhoneSquareAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhoneVolume: IconObject.t = "faPhoneVolume"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhotoFilm: IconObject.t = "faPhotoFilm"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPhotoVideo: IconObject.t = "faPhotoVideo"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPieChart: IconObject.t = "faPieChart"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPiggyBank: IconObject.t = "faPiggyBank"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPills: IconObject.t = "faPills"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPingPongPaddleBall: IconObject.t = "faPingPongPaddleBall"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPizzaSlice: IconObject.t = "faPizzaSlice"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaceOfWorship: IconObject.t = "faPlaceOfWorship"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlane: IconObject.t = "faPlane"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaneArrival: IconObject.t = "faPlaneArrival"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaneCircleCheck: IconObject.t = "faPlaneCircleCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaneCircleExclamation: IconObject.t = "faPlaneCircleExclamation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaneCircleXmark: IconObject.t = "faPlaneCircleXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaneDeparture: IconObject.t = "faPlaneDeparture"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaneLock: IconObject.t = "faPlaneLock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaneSlash: IconObject.t = "faPlaneSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlaneUp: IconObject.t = "faPlaneUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlantWilt: IconObject.t = "faPlantWilt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlateWheat: IconObject.t = "faPlateWheat"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlay: IconObject.t = "faPlay"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlayCircle: IconObject.t = "faPlayCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlug: IconObject.t = "faPlug"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlugCircleBolt: IconObject.t = "faPlugCircleBolt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlugCircleCheck: IconObject.t = "faPlugCircleCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlugCircleExclamation: IconObject.t = "faPlugCircleExclamation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlugCircleMinus: IconObject.t = "faPlugCircleMinus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlugCirclePlus: IconObject.t = "faPlugCirclePlus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlugCircleXmark: IconObject.t = "faPlugCircleXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlus: IconObject.t = "faPlus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlusCircle: IconObject.t = "faPlusCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlusMinus: IconObject.t = "faPlusMinus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPlusSquare: IconObject.t = "faPlusSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPodcast: IconObject.t = "faPodcast"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPoll: IconObject.t = "faPoll"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPollH: IconObject.t = "faPollH"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPoo: IconObject.t = "faPoo"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPooBolt: IconObject.t = "faPooBolt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPooStorm: IconObject.t = "faPooStorm"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPoop: IconObject.t = "faPoop"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPortrait: IconObject.t = "faPortrait"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPoundSign: IconObject.t = "faPoundSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPowerOff: IconObject.t = "faPowerOff"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPray: IconObject.t = "faPray"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPrayingHands: IconObject.t = "faPrayingHands"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPrescription: IconObject.t = "faPrescription"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPrescriptionBottle: IconObject.t = "faPrescriptionBottle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPrescriptionBottleAlt: IconObject.t = "faPrescriptionBottleAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPrescriptionBottleMedical: IconObject.t = "faPrescriptionBottleMedical"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPrint: IconObject.t = "faPrint"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faProcedures: IconObject.t = "faProcedures"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faProjectDiagram: IconObject.t = "faProjectDiagram"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPumpMedical: IconObject.t = "faPumpMedical"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPumpSoap: IconObject.t = "faPumpSoap"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faPuzzlePiece: IconObject.t = "faPuzzlePiece"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQrcode: IconObject.t = "faQrcode"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuestion: IconObject.t = "faQuestion"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuestionCircle: IconObject.t = "faQuestionCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuidditch: IconObject.t = "faQuidditch"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuidditchBroomBall: IconObject.t = "faQuidditchBroomBall"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuoteLeft: IconObject.t = "faQuoteLeft"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuoteLeftAlt: IconObject.t = "faQuoteLeftAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuoteRight: IconObject.t = "faQuoteRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuoteRightAlt: IconObject.t = "faQuoteRightAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faQuran: IconObject.t = "faQuran"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRadiation: IconObject.t = "faRadiation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRadiationAlt: IconObject.t = "faRadiationAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRadio: IconObject.t = "faRadio"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRainbow: IconObject.t = "faRainbow"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRandom: IconObject.t = "faRandom"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRankingStar: IconObject.t = "faRankingStar"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faReceipt: IconObject.t = "faReceipt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRecordVinyl: IconObject.t = "faRecordVinyl"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRectangleAd: IconObject.t = "faRectangleAd"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRectangleList: IconObject.t = "faRectangleList"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRectangleTimes: IconObject.t = "faRectangleTimes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRectangleXmark: IconObject.t = "faRectangleXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRecycle: IconObject.t = "faRecycle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRedo: IconObject.t = "faRedo"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRedoAlt: IconObject.t = "faRedoAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRefresh: IconObject.t = "faRefresh"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRegistered: IconObject.t = "faRegistered"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRemove: IconObject.t = "faRemove"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRemoveFormat: IconObject.t = "faRemoveFormat"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faReorder: IconObject.t = "faReorder"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRepeat: IconObject.t = "faRepeat"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faReply: IconObject.t = "faReply"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faReplyAll: IconObject.t = "faReplyAll"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRepublican: IconObject.t = "faRepublican"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRestroom: IconObject.t = "faRestroom"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRetweet: IconObject.t = "faRetweet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRibbon: IconObject.t = "faRibbon"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRightFromBracket: IconObject.t = "faRightFromBracket"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRightLeft: IconObject.t = "faRightLeft"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRightLong: IconObject.t = "faRightLong"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRightToBracket: IconObject.t = "faRightToBracket"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRing: IconObject.t = "faRing"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRmb: IconObject.t = "faRmb"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoad: IconObject.t = "faRoad"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoadBarrier: IconObject.t = "faRoadBarrier"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoadBridge: IconObject.t = "faRoadBridge"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoadCircleCheck: IconObject.t = "faRoadCircleCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoadCircleExclamation: IconObject.t = "faRoadCircleExclamation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoadCircleXmark: IconObject.t = "faRoadCircleXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoadLock: IconObject.t = "faRoadLock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoadSpikes: IconObject.t = "faRoadSpikes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRobot: IconObject.t = "faRobot"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRocket: IconObject.t = "faRocket"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRodAsclepius: IconObject.t = "faRodAsclepius"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRodSnake: IconObject.t = "faRodSnake"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRotate: IconObject.t = "faRotate"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRotateBack: IconObject.t = "faRotateBack"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRotateBackward: IconObject.t = "faRotateBackward"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRotateForward: IconObject.t = "faRotateForward"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRotateLeft: IconObject.t = "faRotateLeft"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRotateRight: IconObject.t = "faRotateRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRouble: IconObject.t = "faRouble"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRoute: IconObject.t = "faRoute"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRss: IconObject.t = "faRss"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRssSquare: IconObject.t = "faRssSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRub: IconObject.t = "faRub"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRuble: IconObject.t = "faRuble"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRubleSign: IconObject.t = "faRubleSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRug: IconObject.t = "faRug"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRuler: IconObject.t = "faRuler"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRulerCombined: IconObject.t = "faRulerCombined"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRulerHorizontal: IconObject.t = "faRulerHorizontal"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRulerVertical: IconObject.t = "faRulerVertical"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRunning: IconObject.t = "faRunning"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRupee: IconObject.t = "faRupee"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRupeeSign: IconObject.t = "faRupeeSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faRupiahSign: IconObject.t = "faRupiahSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSackDollar: IconObject.t = "faSackDollar"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSackXmark: IconObject.t = "faSackXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSadCry: IconObject.t = "faSadCry"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSadTear: IconObject.t = "faSadTear"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSailboat: IconObject.t = "faSailboat"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSatellite: IconObject.t = "faSatellite"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSatelliteDish: IconObject.t = "faSatelliteDish"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSave: IconObject.t = "faSave"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faScaleBalanced: IconObject.t = "faScaleBalanced"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faScaleUnbalanced: IconObject.t = "faScaleUnbalanced"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faScaleUnbalancedFlip: IconObject.t = "faScaleUnbalancedFlip"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSchool: IconObject.t = "faSchool"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSchoolCircleCheck: IconObject.t = "faSchoolCircleCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSchoolCircleExclamation: IconObject.t = "faSchoolCircleExclamation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSchoolCircleXmark: IconObject.t = "faSchoolCircleXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSchoolFlag: IconObject.t = "faSchoolFlag"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSchoolLock: IconObject.t = "faSchoolLock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faScissors: IconObject.t = "faScissors"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faScrewdriver: IconObject.t = "faScrewdriver"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faScrewdriverWrench: IconObject.t = "faScrewdriverWrench"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faScroll: IconObject.t = "faScroll"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faScrollTorah: IconObject.t = "faScrollTorah"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSdCard: IconObject.t = "faSdCard"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSearch: IconObject.t = "faSearch"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSearchDollar: IconObject.t = "faSearchDollar"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSearchLocation: IconObject.t = "faSearchLocation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSearchMinus: IconObject.t = "faSearchMinus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSearchPlus: IconObject.t = "faSearchPlus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSection: IconObject.t = "faSection"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSeedling: IconObject.t = "faSeedling"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faServer: IconObject.t = "faServer"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShapes: IconObject.t = "faShapes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShare: IconObject.t = "faShare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShareAlt: IconObject.t = "faShareAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShareAltSquare: IconObject.t = "faShareAltSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShareFromSquare: IconObject.t = "faShareFromSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShareNodes: IconObject.t = "faShareNodes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShareSquare: IconObject.t = "faShareSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSheetPlastic: IconObject.t = "faSheetPlastic"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShekel: IconObject.t = "faShekel"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShekelSign: IconObject.t = "faShekelSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSheqel: IconObject.t = "faSheqel"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSheqelSign: IconObject.t = "faSheqelSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShield: IconObject.t = "faShield"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShieldAlt: IconObject.t = "faShieldAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShieldBlank: IconObject.t = "faShieldBlank"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShieldCat: IconObject.t = "faShieldCat"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShieldDog: IconObject.t = "faShieldDog"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShieldHalved: IconObject.t = "faShieldHalved"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShieldHeart: IconObject.t = "faShieldHeart"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShieldVirus: IconObject.t = "faShieldVirus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShip: IconObject.t = "faShip"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShippingFast: IconObject.t = "faShippingFast"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShirt: IconObject.t = "faShirt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShoePrints: IconObject.t = "faShoePrints"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShop: IconObject.t = "faShop"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShopLock: IconObject.t = "faShopLock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShopSlash: IconObject.t = "faShopSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShoppingBag: IconObject.t = "faShoppingBag"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShoppingBasket: IconObject.t = "faShoppingBasket"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShoppingCart: IconObject.t = "faShoppingCart"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShower: IconObject.t = "faShower"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShrimp: IconObject.t = "faShrimp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShuffle: IconObject.t = "faShuffle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShuttleSpace: IconObject.t = "faShuttleSpace"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faShuttleVan: IconObject.t = "faShuttleVan"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSign: IconObject.t = "faSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignHanging: IconObject.t = "faSignHanging"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignIn: IconObject.t = "faSignIn"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignInAlt: IconObject.t = "faSignInAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignLanguage: IconObject.t = "faSignLanguage"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignOut: IconObject.t = "faSignOut"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignOutAlt: IconObject.t = "faSignOutAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignal: IconObject.t = "faSignal"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignal5: IconObject.t = "faSignal5"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignalPerfect: IconObject.t = "faSignalPerfect"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignature: IconObject.t = "faSignature"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSigning: IconObject.t = "faSigning"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSignsPost: IconObject.t = "faSignsPost"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSimCard: IconObject.t = "faSimCard"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSink: IconObject.t = "faSink"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSitemap: IconObject.t = "faSitemap"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSkating: IconObject.t = "faSkating"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSkiing: IconObject.t = "faSkiing"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSkiingNordic: IconObject.t = "faSkiingNordic"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSkull: IconObject.t = "faSkull"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSkullCrossbones: IconObject.t = "faSkullCrossbones"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSlash: IconObject.t = "faSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSleigh: IconObject.t = "faSleigh"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSliders: IconObject.t = "faSliders"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSlidersH: IconObject.t = "faSlidersH"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSmile: IconObject.t = "faSmile"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSmileBeam: IconObject.t = "faSmileBeam"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSmileWink: IconObject.t = "faSmileWink"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSmog: IconObject.t = "faSmog"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSmoking: IconObject.t = "faSmoking"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSmokingBan: IconObject.t = "faSmokingBan"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSms: IconObject.t = "faSms"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSnowboarding: IconObject.t = "faSnowboarding"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSnowflake: IconObject.t = "faSnowflake"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSnowman: IconObject.t = "faSnowman"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSnowplow: IconObject.t = "faSnowplow"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSoap: IconObject.t = "faSoap"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSoccerBall: IconObject.t = "faSoccerBall"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSocks: IconObject.t = "faSocks"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSolarPanel: IconObject.t = "faSolarPanel"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSort: IconObject.t = "faSort"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAlphaAsc: IconObject.t = "faSortAlphaAsc"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAlphaDesc: IconObject.t = "faSortAlphaDesc"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAlphaDown: IconObject.t = "faSortAlphaDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAlphaDownAlt: IconObject.t = "faSortAlphaDownAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAlphaUp: IconObject.t = "faSortAlphaUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAlphaUpAlt: IconObject.t = "faSortAlphaUpAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAmountAsc: IconObject.t = "faSortAmountAsc"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAmountDesc: IconObject.t = "faSortAmountDesc"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAmountDown: IconObject.t = "faSortAmountDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAmountDownAlt: IconObject.t = "faSortAmountDownAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAmountUp: IconObject.t = "faSortAmountUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAmountUpAlt: IconObject.t = "faSortAmountUpAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortAsc: IconObject.t = "faSortAsc"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortDesc: IconObject.t = "faSortDesc"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortDown: IconObject.t = "faSortDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortNumericAsc: IconObject.t = "faSortNumericAsc"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortNumericDesc: IconObject.t = "faSortNumericDesc"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortNumericDown: IconObject.t = "faSortNumericDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortNumericDownAlt: IconObject.t = "faSortNumericDownAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortNumericUp: IconObject.t = "faSortNumericUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortNumericUpAlt: IconObject.t = "faSortNumericUpAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSortUp: IconObject.t = "faSortUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSpa: IconObject.t = "faSpa"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSpaceShuttle: IconObject.t = "faSpaceShuttle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSpaghettiMonsterFlying: IconObject.t = "faSpaghettiMonsterFlying"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSpellCheck: IconObject.t = "faSpellCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSpider: IconObject.t = "faSpider"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSpinner: IconObject.t = "faSpinner"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSplotch: IconObject.t = "faSplotch"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSpoon: IconObject.t = "faSpoon"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSprayCan: IconObject.t = "faSprayCan"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSprayCanSparkles: IconObject.t = "faSprayCanSparkles"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSprout: IconObject.t = "faSprout"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquare: IconObject.t = "faSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareArrowUpRight: IconObject.t = "faSquareArrowUpRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareCaretDown: IconObject.t = "faSquareCaretDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareCaretLeft: IconObject.t = "faSquareCaretLeft"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareCaretRight: IconObject.t = "faSquareCaretRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareCaretUp: IconObject.t = "faSquareCaretUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareCheck: IconObject.t = "faSquareCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareEnvelope: IconObject.t = "faSquareEnvelope"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareFull: IconObject.t = "faSquareFull"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareH: IconObject.t = "faSquareH"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareMinus: IconObject.t = "faSquareMinus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareNfi: IconObject.t = "faSquareNfi"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareParking: IconObject.t = "faSquareParking"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquarePen: IconObject.t = "faSquarePen"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquarePersonConfined: IconObject.t = "faSquarePersonConfined"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquarePhone: IconObject.t = "faSquarePhone"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquarePhoneFlip: IconObject.t = "faSquarePhoneFlip"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquarePlus: IconObject.t = "faSquarePlus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquarePollHorizontal: IconObject.t = "faSquarePollHorizontal"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquarePollVertical: IconObject.t = "faSquarePollVertical"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareRootAlt: IconObject.t = "faSquareRootAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareRootVariable: IconObject.t = "faSquareRootVariable"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareRss: IconObject.t = "faSquareRss"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareShareNodes: IconObject.t = "faSquareShareNodes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareUpRight: IconObject.t = "faSquareUpRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareVirus: IconObject.t = "faSquareVirus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSquareXmark: IconObject.t = "faSquareXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStaffAesculapius: IconObject.t = "faStaffAesculapius"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStaffSnake: IconObject.t = "faStaffSnake"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStairs: IconObject.t = "faStairs"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStamp: IconObject.t = "faStamp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStapler: IconObject.t = "faStapler"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStar: IconObject.t = "faStar"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStarAndCrescent: IconObject.t = "faStarAndCrescent"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStarHalf: IconObject.t = "faStarHalf"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStarHalfAlt: IconObject.t = "faStarHalfAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStarHalfStroke: IconObject.t = "faStarHalfStroke"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStarOfDavid: IconObject.t = "faStarOfDavid"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStarOfLife: IconObject.t = "faStarOfLife"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStepBackward: IconObject.t = "faStepBackward"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStepForward: IconObject.t = "faStepForward"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSterlingSign: IconObject.t = "faSterlingSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStethoscope: IconObject.t = "faStethoscope"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStickyNote: IconObject.t = "faStickyNote"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStop: IconObject.t = "faStop"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStopCircle: IconObject.t = "faStopCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStopwatch: IconObject.t = "faStopwatch"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStopwatch20: IconObject.t = "faStopwatch20"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStore: IconObject.t = "faStore"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStoreAlt: IconObject.t = "faStoreAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStoreAltSlash: IconObject.t = "faStoreAltSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStoreSlash: IconObject.t = "faStoreSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStream: IconObject.t = "faStream"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStreetView: IconObject.t = "faStreetView"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStrikethrough: IconObject.t = "faStrikethrough"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faStroopwafel: IconObject.t = "faStroopwafel"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSubscript: IconObject.t = "faSubscript"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSubtract: IconObject.t = "faSubtract"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSubway: IconObject.t = "faSubway"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSuitcase: IconObject.t = "faSuitcase"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSuitcaseMedical: IconObject.t = "faSuitcaseMedical"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSuitcaseRolling: IconObject.t = "faSuitcaseRolling"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSun: IconObject.t = "faSun"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSunPlantWilt: IconObject.t = "faSunPlantWilt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSuperscript: IconObject.t = "faSuperscript"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSurprise: IconObject.t = "faSurprise"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSwatchbook: IconObject.t = "faSwatchbook"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSwimmer: IconObject.t = "faSwimmer"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSwimmingPool: IconObject.t = "faSwimmingPool"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSynagogue: IconObject.t = "faSynagogue"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSync: IconObject.t = "faSync"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSyncAlt: IconObject.t = "faSyncAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faSyringe: IconObject.t = "faSyringe"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTShirt: IconObject.t = "faTShirt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTable: IconObject.t = "faTable"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTableCells: IconObject.t = "faTableCells"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTableCellsLarge: IconObject.t = "faTableCellsLarge"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTableColumns: IconObject.t = "faTableColumns"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTableList: IconObject.t = "faTableList"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTableTennis: IconObject.t = "faTableTennis"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTableTennisPaddleBall: IconObject.t = "faTableTennisPaddleBall"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTablet: IconObject.t = "faTablet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTabletAlt: IconObject.t = "faTabletAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTabletAndroid: IconObject.t = "faTabletAndroid"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTabletButton: IconObject.t = "faTabletButton"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTabletScreenButton: IconObject.t = "faTabletScreenButton"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTablets: IconObject.t = "faTablets"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTachographDigital: IconObject.t = "faTachographDigital"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTachometer: IconObject.t = "faTachometer"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTachometerAlt: IconObject.t = "faTachometerAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTachometerAltAverage: IconObject.t = "faTachometerAltAverage"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTachometerAltFast: IconObject.t = "faTachometerAltFast"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTachometerAverage: IconObject.t = "faTachometerAverage"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTachometerFast: IconObject.t = "faTachometerFast"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTag: IconObject.t = "faTag"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTags: IconObject.t = "faTags"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTanakh: IconObject.t = "faTanakh"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTape: IconObject.t = "faTape"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTarp: IconObject.t = "faTarp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTarpDroplet: IconObject.t = "faTarpDroplet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTasks: IconObject.t = "faTasks"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTasksAlt: IconObject.t = "faTasksAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTaxi: IconObject.t = "faTaxi"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTeeth: IconObject.t = "faTeeth"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTeethOpen: IconObject.t = "faTeethOpen"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTeletype: IconObject.t = "faTeletype"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTelevision: IconObject.t = "faTelevision"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperature0: IconObject.t = "faTemperature0"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperature1: IconObject.t = "faTemperature1"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperature2: IconObject.t = "faTemperature2"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperature3: IconObject.t = "faTemperature3"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperature4: IconObject.t = "faTemperature4"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureArrowDown: IconObject.t = "faTemperatureArrowDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureArrowUp: IconObject.t = "faTemperatureArrowUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureDown: IconObject.t = "faTemperatureDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureEmpty: IconObject.t = "faTemperatureEmpty"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureFull: IconObject.t = "faTemperatureFull"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureHalf: IconObject.t = "faTemperatureHalf"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureHigh: IconObject.t = "faTemperatureHigh"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureLow: IconObject.t = "faTemperatureLow"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureQuarter: IconObject.t = "faTemperatureQuarter"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureThreeQuarters: IconObject.t = "faTemperatureThreeQuarters"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTemperatureUp: IconObject.t = "faTemperatureUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTenge: IconObject.t = "faTenge"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTengeSign: IconObject.t = "faTengeSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTent: IconObject.t = "faTent"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTentArrowDownToLine: IconObject.t = "faTentArrowDownToLine"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTentArrowLeftRight: IconObject.t = "faTentArrowLeftRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTentArrowTurnLeft: IconObject.t = "faTentArrowTurnLeft"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTentArrowsDown: IconObject.t = "faTentArrowsDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTents: IconObject.t = "faTents"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTerminal: IconObject.t = "faTerminal"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTextHeight: IconObject.t = "faTextHeight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTextSlash: IconObject.t = "faTextSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTextWidth: IconObject.t = "faTextWidth"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTh: IconObject.t = "faTh"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThLarge: IconObject.t = "faThLarge"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThList: IconObject.t = "faThList"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTheaterMasks: IconObject.t = "faTheaterMasks"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometer: IconObject.t = "faThermometer"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometer0: IconObject.t = "faThermometer0"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometer1: IconObject.t = "faThermometer1"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometer2: IconObject.t = "faThermometer2"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometer3: IconObject.t = "faThermometer3"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometer4: IconObject.t = "faThermometer4"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometerEmpty: IconObject.t = "faThermometerEmpty"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometerFull: IconObject.t = "faThermometerFull"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometerHalf: IconObject.t = "faThermometerHalf"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometerQuarter: IconObject.t = "faThermometerQuarter"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThermometerThreeQuarters: IconObject.t = "faThermometerThreeQuarters"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThumbTack: IconObject.t = "faThumbTack"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThumbsDown: IconObject.t = "faThumbsDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThumbsUp: IconObject.t = "faThumbsUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThumbtack: IconObject.t = "faThumbtack"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThunderstorm: IconObject.t = "faThunderstorm"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTicket: IconObject.t = "faTicket"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTicketAlt: IconObject.t = "faTicketAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTicketSimple: IconObject.t = "faTicketSimple"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTimeline: IconObject.t = "faTimeline"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTimes: IconObject.t = "faTimes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTimesCircle: IconObject.t = "faTimesCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTimesRectangle: IconObject.t = "faTimesRectangle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTimesSquare: IconObject.t = "faTimesSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTint: IconObject.t = "faTint"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTintSlash: IconObject.t = "faTintSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTired: IconObject.t = "faTired"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToggleOff: IconObject.t = "faToggleOff"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToggleOn: IconObject.t = "faToggleOn"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToilet: IconObject.t = "faToilet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToiletPaper: IconObject.t = "faToiletPaper"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToiletPaperSlash: IconObject.t = "faToiletPaperSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToiletPortable: IconObject.t = "faToiletPortable"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToiletsPortable: IconObject.t = "faToiletsPortable"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToolbox: IconObject.t = "faToolbox"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTools: IconObject.t = "faTools"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTooth: IconObject.t = "faTooth"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTorah: IconObject.t = "faTorah"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faToriiGate: IconObject.t = "faToriiGate"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTornado: IconObject.t = "faTornado"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTowerBroadcast: IconObject.t = "faTowerBroadcast"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTowerCell: IconObject.t = "faTowerCell"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTowerObservation: IconObject.t = "faTowerObservation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTractor: IconObject.t = "faTractor"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrademark: IconObject.t = "faTrademark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrafficLight: IconObject.t = "faTrafficLight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrailer: IconObject.t = "faTrailer"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrain: IconObject.t = "faTrain"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrainSubway: IconObject.t = "faTrainSubway"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrainTram: IconObject.t = "faTrainTram"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTram: IconObject.t = "faTram"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTransgender: IconObject.t = "faTransgender"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTransgenderAlt: IconObject.t = "faTransgenderAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrash: IconObject.t = "faTrash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrashAlt: IconObject.t = "faTrashAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrashArrowUp: IconObject.t = "faTrashArrowUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrashCan: IconObject.t = "faTrashCan"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrashCanArrowUp: IconObject.t = "faTrashCanArrowUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrashRestore: IconObject.t = "faTrashRestore"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrashRestoreAlt: IconObject.t = "faTrashRestoreAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTree: IconObject.t = "faTree"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTreeCity: IconObject.t = "faTreeCity"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTriangleCircleSquare: IconObject.t = "faTriangleCircleSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTriangleExclamation: IconObject.t = "faTriangleExclamation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrophy: IconObject.t = "faTrophy"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrowel: IconObject.t = "faTrowel"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTrowelBricks: IconObject.t = "faTrowelBricks"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruck: IconObject.t = "faTruck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckArrowRight: IconObject.t = "faTruckArrowRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckDroplet: IconObject.t = "faTruckDroplet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckFast: IconObject.t = "faTruckFast"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckField: IconObject.t = "faTruckField"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckFieldUn: IconObject.t = "faTruckFieldUn"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckFront: IconObject.t = "faTruckFront"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckLoading: IconObject.t = "faTruckLoading"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckMedical: IconObject.t = "faTruckMedical"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckMonster: IconObject.t = "faTruckMonster"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckMoving: IconObject.t = "faTruckMoving"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckPickup: IconObject.t = "faTruckPickup"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckPlane: IconObject.t = "faTruckPlane"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTruckRampBox: IconObject.t = "faTruckRampBox"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTry: IconObject.t = "faTry"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTshirt: IconObject.t = "faTshirt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTty: IconObject.t = "faTty"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTurkishLira: IconObject.t = "faTurkishLira"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTurkishLiraSign: IconObject.t = "faTurkishLiraSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTurnDown: IconObject.t = "faTurnDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTurnUp: IconObject.t = "faTurnUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTv: IconObject.t = "faTv"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTvAlt: IconObject.t = "faTvAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUmbrella: IconObject.t = "faUmbrella"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUmbrellaBeach: IconObject.t = "faUmbrellaBeach"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUnderline: IconObject.t = "faUnderline"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUndo: IconObject.t = "faUndo"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUndoAlt: IconObject.t = "faUndoAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUniversalAccess: IconObject.t = "faUniversalAccess"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUniversity: IconObject.t = "faUniversity"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUnlink: IconObject.t = "faUnlink"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUnlock: IconObject.t = "faUnlock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUnlockAlt: IconObject.t = "faUnlockAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUnlockKeyhole: IconObject.t = "faUnlockKeyhole"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUnsorted: IconObject.t = "faUnsorted"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUpDown: IconObject.t = "faUpDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUpDownLeftRight: IconObject.t = "faUpDownLeftRight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUpLong: IconObject.t = "faUpLong"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUpRightAndDownLeftFromCenter: IconObject.t = "faUpRightAndDownLeftFromCenter"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUpRightFromSquare: IconObject.t = "faUpRightFromSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUpload: IconObject.t = "faUpload"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsd: IconObject.t = "faUsd"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUser: IconObject.t = "faUser"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserAlt: IconObject.t = "faUserAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserAltSlash: IconObject.t = "faUserAltSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserAstronaut: IconObject.t = "faUserAstronaut"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserCheck: IconObject.t = "faUserCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserCircle: IconObject.t = "faUserCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserClock: IconObject.t = "faUserClock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserCog: IconObject.t = "faUserCog"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserDoctor: IconObject.t = "faUserDoctor"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserEdit: IconObject.t = "faUserEdit"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserFriends: IconObject.t = "faUserFriends"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserGear: IconObject.t = "faUserGear"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserGraduate: IconObject.t = "faUserGraduate"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserGroup: IconObject.t = "faUserGroup"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserInjured: IconObject.t = "faUserInjured"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserLarge: IconObject.t = "faUserLarge"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserLargeSlash: IconObject.t = "faUserLargeSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserLock: IconObject.t = "faUserLock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserMd: IconObject.t = "faUserMd"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserMinus: IconObject.t = "faUserMinus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserNinja: IconObject.t = "faUserNinja"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserNurse: IconObject.t = "faUserNurse"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserPen: IconObject.t = "faUserPen"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserPlus: IconObject.t = "faUserPlus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserSecret: IconObject.t = "faUserSecret"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserShield: IconObject.t = "faUserShield"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserSlash: IconObject.t = "faUserSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserTag: IconObject.t = "faUserTag"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserTie: IconObject.t = "faUserTie"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserTimes: IconObject.t = "faUserTimes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUserXmark: IconObject.t = "faUserXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsers: IconObject.t = "faUsers"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsersBetweenLines: IconObject.t = "faUsersBetweenLines"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsersCog: IconObject.t = "faUsersCog"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsersGear: IconObject.t = "faUsersGear"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsersLine: IconObject.t = "faUsersLine"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsersRays: IconObject.t = "faUsersRays"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsersRectangle: IconObject.t = "faUsersRectangle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsersSlash: IconObject.t = "faUsersSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUsersViewfinder: IconObject.t = "faUsersViewfinder"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUtensilSpoon: IconObject.t = "faUtensilSpoon"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faUtensils: IconObject.t = "faUtensils"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVanShuttle: IconObject.t = "faVanShuttle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVault: IconObject.t = "faVault"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVcard: IconObject.t = "faVcard"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVectorSquare: IconObject.t = "faVectorSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVenus: IconObject.t = "faVenus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVenusDouble: IconObject.t = "faVenusDouble"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVenusMars: IconObject.t = "faVenusMars"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVest: IconObject.t = "faVest"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVestPatches: IconObject.t = "faVestPatches"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVial: IconObject.t = "faVial"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVialCircleCheck: IconObject.t = "faVialCircleCheck"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVialVirus: IconObject.t = "faVialVirus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVials: IconObject.t = "faVials"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVideo: IconObject.t = "faVideo"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVideoCamera: IconObject.t = "faVideoCamera"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVideoSlash: IconObject.t = "faVideoSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVihara: IconObject.t = "faVihara"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVirus: IconObject.t = "faVirus"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVirusCovid: IconObject.t = "faVirusCovid"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVirusCovidSlash: IconObject.t = "faVirusCovidSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVirusSlash: IconObject.t = "faVirusSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faViruses: IconObject.t = "faViruses"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVoicemail: IconObject.t = "faVoicemail"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolcano: IconObject.t = "faVolcano"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolleyball: IconObject.t = "faVolleyball"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolleyballBall: IconObject.t = "faVolleyballBall"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeControlPhone: IconObject.t = "faVolumeControlPhone"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeDown: IconObject.t = "faVolumeDown"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeHigh: IconObject.t = "faVolumeHigh"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeLow: IconObject.t = "faVolumeLow"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeMute: IconObject.t = "faVolumeMute"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeOff: IconObject.t = "faVolumeOff"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeTimes: IconObject.t = "faVolumeTimes"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeUp: IconObject.t = "faVolumeUp"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVolumeXmark: IconObject.t = "faVolumeXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVoteYea: IconObject.t = "faVoteYea"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faVrCardboard: IconObject.t = "faVrCardboard"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWalkieTalkie: IconObject.t = "faWalkieTalkie"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWalking: IconObject.t = "faWalking"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWallet: IconObject.t = "faWallet"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWandMagic: IconObject.t = "faWandMagic"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWandMagicSparkles: IconObject.t = "faWandMagicSparkles"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWandSparkles: IconObject.t = "faWandSparkles"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWarehouse: IconObject.t = "faWarehouse"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWarning: IconObject.t = "faWarning"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWater: IconObject.t = "faWater"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWaterLadder: IconObject.t = "faWaterLadder"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWaveSquare: IconObject.t = "faWaveSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWeight: IconObject.t = "faWeight"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWeightHanging: IconObject.t = "faWeightHanging"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWeightScale: IconObject.t = "faWeightScale"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWheatAlt: IconObject.t = "faWheatAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWheatAwn: IconObject.t = "faWheatAwn"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWheatAwnCircleExclamation: IconObject.t = "faWheatAwnCircleExclamation"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWheelchair: IconObject.t = "faWheelchair"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWheelchairAlt: IconObject.t = "faWheelchairAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWheelchairMove: IconObject.t = "faWheelchairMove"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWhiskeyGlass: IconObject.t = "faWhiskeyGlass"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWifi: IconObject.t = "faWifi"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWifi3: IconObject.t = "faWifi3"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWifiStrong: IconObject.t = "faWifiStrong"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWind: IconObject.t = "faWind"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWindowClose: IconObject.t = "faWindowClose"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWindowMaximize: IconObject.t = "faWindowMaximize"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWindowMinimize: IconObject.t = "faWindowMinimize"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWindowRestore: IconObject.t = "faWindowRestore"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWineBottle: IconObject.t = "faWineBottle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWineGlass: IconObject.t = "faWineGlass"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWineGlassAlt: IconObject.t = "faWineGlassAlt"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWineGlassEmpty: IconObject.t = "faWineGlassEmpty"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWon: IconObject.t = "faWon"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWonSign: IconObject.t = "faWonSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWorm: IconObject.t = "faWorm"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWrench: IconObject.t = "faWrench"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faXRay: IconObject.t = "faXRay"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faXmark: IconObject.t = "faXmark"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faXmarkCircle: IconObject.t = "faXmarkCircle"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faXmarkSquare: IconObject.t = "faXmarkSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faXmarksLines: IconObject.t = "faXmarksLines"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faYen: IconObject.t = "faYen"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faYenSign: IconObject.t = "faYenSign"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faYinYang: IconObject.t = "faYinYang"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faZap: IconObject.t = "faZap"

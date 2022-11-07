@@ -1,6 +1,6 @@
 {
   "name": "@draftbit/rescript-font-awesome",
-  "version": "2.1.1",
+  "version": "6.0.0",
   "author": "",
   "license": "MIT",
   "scripts": {
@@ -10,7 +10,11 @@
     "re:build": "bsb -make-world",
     "re:watch": "bsb -make-world -w",
     "gen-icon-bindings": "node genbindings.js",
-    "gen": "yarn gen-icon-bindings"
+    "gen": "yarn gen-icon-bindings",
+    "example:css:build": "tailwindcss -i ./example/index.css -o ./example/tailwind.css",
+    "example:css:watch": "yarn example:css:build --watch",
+    "example:parcel": "parcel example/index.html",
+    "example:start": "concurrently --names 'res,css,parcel' 'yarn re:watch' 'yarn example:css:watch' 'yarn example:parcel'"
   },
   "keywords": [
     "BuckleScript",
@@ -19,31 +23,39 @@
     "Font Awesome"
   ],
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.34",
-    "@fortawesome/react-fontawesome": "^0.1.14"
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/pro-thin-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fortawesome/sharp-solid-svg-icons": "^6.2.0"
   },
   "peerDependencies": {
     "@rescript/react": "^0.10.1"
   },
   "optionalDependencies": {
-    "@fortawesome/free-brands-svg-icons": "^5.15.2",
-    "@fortawesome/free-regular-svg-icons": "^5.15.2",
-    "@fortawesome/free-solid-svg-icons": "^5.15.2",
-    "@fortawesome/pro-duotone-svg-icons": "^5.15.2",
-    "@fortawesome/pro-light-svg-icons": "^5.15.2",
-    "@fortawesome/pro-regular-svg-icons": "^5.15.2",
-    "@fortawesome/pro-solid-svg-icons": "^5.15.2"
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/pro-duotone-svg-icons": "^6.2.0",
+    "@fortawesome/pro-light-svg-icons": "^6.2.0",
+    "@fortawesome/pro-regular-svg-icons": "^6.2.0",
+    "@fortawesome/pro-solid-svg-icons": "^6.2.0"
   },
   "devDependencies": {
-    "@fortawesome/free-brands-svg-icons": "^5.15.2",
-    "@fortawesome/pro-duotone-svg-icons": "^5.15.2",
-    "@fortawesome/pro-light-svg-icons": "^5.15.2",
-    "@fortawesome/pro-regular-svg-icons": "^5.15.2",
-    "@fortawesome/pro-solid-svg-icons": "^5.15.2",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/pro-duotone-svg-icons": "^6.2.0",
+    "@fortawesome/pro-light-svg-icons": "^6.2.0",
+    "@fortawesome/pro-regular-svg-icons": "^6.2.0",
+    "@fortawesome/pro-solid-svg-icons": "^6.2.0",
     "@rescript/react": "^0.10.1",
     "bs-platform": "^9.0.1",
+    "concurrently": "^7.5.0",
     "lint-staged": "^10.4.0",
-    "prettier": "^2.1.2"
+    "parcel": "^2.7.0",
+    "prettier": "^2.1.2",
+    "process": "^0.11.10",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "tailwindcss": "^3.2.2"
   },
   "lint-staged": {
     "*.js": [
@@ -54,6 +66,9 @@
     ],
     "*.{re,rei}": [
       "bsrefmt --in-place"
+    ],
+    "*.res": [
+      "node ./scripts/format-rescript.js"
     ]
   }
 }
