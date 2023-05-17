@@ -387,6 +387,9 @@ external faArrowLeftToLine: IconObject.t = "faArrowLeftToLine"
 external faArrowPointer: IconObject.t = "faArrowPointer"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faArrowProgress: IconObject.t = "faArrowProgress"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faArrowRight: IconObject.t = "faArrowRight"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -769,6 +772,9 @@ external faBadgerHoney: IconObject.t = "faBadgerHoney"
 external faBadminton: IconObject.t = "faBadminton"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faBagSeedling: IconObject.t = "faBagSeedling"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faBagShopping: IconObject.t = "faBagShopping"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -1037,6 +1043,18 @@ external faBiking: IconObject.t = "faBiking"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faBikingMountain: IconObject.t = "faBikingMountain"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faBillboard: IconObject.t = "faBillboard"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faBinBottles: IconObject.t = "faBinBottles"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faBinBottlesRecycle: IconObject.t = "faBinBottlesRecycle"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faBinRecycle: IconObject.t = "faBinRecycle"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faBinary: IconObject.t = "faBinary"
@@ -1546,6 +1564,9 @@ external faBroom: IconObject.t = "faBroom"
 external faBroomBall: IconObject.t = "faBroomBall"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faBroomWide: IconObject.t = "faBroomWide"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faBrowser: IconObject.t = "faBrowser"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -1619,6 +1640,12 @@ external faBullseyeArrow: IconObject.t = "faBullseyeArrow"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faBullseyePointer: IconObject.t = "faBullseyePointer"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faBuoy: IconObject.t = "faBuoy"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faBuoyMooring: IconObject.t = "faBuoyMooring"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faBurger: IconObject.t = "faBurger"
@@ -1787,6 +1814,9 @@ external faCalendarTimes: IconObject.t = "faCalendarTimes"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faCalendarUpload: IconObject.t = "faCalendarUpload"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faCalendarUsers: IconObject.t = "faCalendarUsers"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faCalendarWeek: IconObject.t = "faCalendarWeek"
@@ -2164,7 +2194,16 @@ external faChartLineDown: IconObject.t = "faChartLineDown"
 external faChartLineUp: IconObject.t = "faChartLineUp"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faChartLineUpDown: IconObject.t = "faChartLineUpDown"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faChartMixed: IconObject.t = "faChartMixed"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faChartMixedUpCircleCurrency: IconObject.t = "faChartMixedUpCircleCurrency"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faChartMixedUpCircleDollar: IconObject.t = "faChartMixedUpCircleDollar"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faChartNetwork: IconObject.t = "faChartNetwork"
@@ -2177,6 +2216,12 @@ external faChartPieAlt: IconObject.t = "faChartPieAlt"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faChartPieSimple: IconObject.t = "faChartPieSimple"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faChartPieSimpleCircleCurrency: IconObject.t = "faChartPieSimpleCircleCurrency"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faChartPieSimpleCircleDollar: IconObject.t = "faChartPieSimpleCircleDollar"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faChartPyramid: IconObject.t = "faChartPyramid"
@@ -2368,7 +2413,13 @@ external faChevronsRight: IconObject.t = "faChevronsRight"
 external faChevronsUp: IconObject.t = "faChevronsUp"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faChfSign: IconObject.t = "faChfSign"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faChild: IconObject.t = "faChild"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faChildCombatant: IconObject.t = "faChildCombatant"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faChildDress: IconObject.t = "faChildDress"
@@ -2545,6 +2596,9 @@ external faCircleEllipsisVertical: IconObject.t = "faCircleEllipsisVertical"
 external faCircleEnvelope: IconObject.t = "faCircleEnvelope"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faCircleEuro: IconObject.t = "faCircleEuro"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faCircleExclamation: IconObject.t = "faCircleExclamation"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -2644,6 +2698,9 @@ external faCircleQ: IconObject.t = "faCircleQ"
 external faCircleQuarter: IconObject.t = "faCircleQuarter"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faCircleQuarterStroke: IconObject.t = "faCircleQuarterStroke"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faCircleQuarters: IconObject.t = "faCircleQuarters"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -2677,6 +2734,9 @@ external faCircleSortUp: IconObject.t = "faCircleSortUp"
 external faCircleStar: IconObject.t = "faCircleStar"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faCircleSterling: IconObject.t = "faCircleSterling"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faCircleStop: IconObject.t = "faCircleStop"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -2684,6 +2744,9 @@ external faCircleT: IconObject.t = "faCircleT"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faCircleThreeQuarters: IconObject.t = "faCircleThreeQuarters"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faCircleThreeQuartersStroke: IconObject.t = "faCircleThreeQuartersStroke"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faCircleTrash: IconObject.t = "faCircleTrash"
@@ -2725,7 +2788,13 @@ external faCircleXmark: IconObject.t = "faCircleXmark"
 external faCircleY: IconObject.t = "faCircleY"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faCircleYen: IconObject.t = "faCircleYen"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faCircleZ: IconObject.t = "faCircleZ"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faCirclesOverlap: IconObject.t = "faCirclesOverlap"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faCitrus: IconObject.t = "faCitrus"
@@ -2879,6 +2948,9 @@ external faCloudArrowDown: IconObject.t = "faCloudArrowDown"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faCloudArrowUp: IconObject.t = "faCloudArrowUp"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faCloudBinary: IconObject.t = "faCloudBinary"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faCloudBolt: IconObject.t = "faCloudBolt"
@@ -3187,6 +3259,9 @@ external faCommentEdit: IconObject.t = "faCommentEdit"
 external faCommentExclamation: IconObject.t = "faCommentExclamation"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faCommentHeart: IconObject.t = "faCommentHeart"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faCommentImage: IconObject.t = "faCommentImage"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -3326,6 +3401,9 @@ external faConveyorBelt: IconObject.t = "faConveyorBelt"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faConveyorBeltAlt: IconObject.t = "faConveyorBeltAlt"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faConveyorBeltArm: IconObject.t = "faConveyorBeltArm"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faConveyorBeltBoxes: IconObject.t = "faConveyorBeltBoxes"
@@ -3610,6 +3688,12 @@ external faDiamond: IconObject.t = "faDiamond"
 external faDiamondExclamation: IconObject.t = "faDiamondExclamation"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faDiamondHalf: IconObject.t = "faDiamondHalf"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faDiamondHalfStroke: IconObject.t = "faDiamondHalfStroke"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faDiamondTurnRight: IconObject.t = "faDiamondTurnRight"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -3658,6 +3742,9 @@ external faDigging: IconObject.t = "faDigging"
 external faDigitalTachograph: IconObject.t = "faDigitalTachograph"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faDinosaur: IconObject.t = "faDinosaur"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faDiploma: IconObject.t = "faDiploma"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -3674,6 +3761,15 @@ external faDisplay: IconObject.t = "faDisplay"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faDisplayArrowDown: IconObject.t = "faDisplayArrowDown"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faDisplayChartUp: IconObject.t = "faDisplayChartUp"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faDisplayChartUpCircleCurrency: IconObject.t = "faDisplayChartUpCircleCurrency"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faDisplayChartUpCircleDollar: IconObject.t = "faDisplayChartUpCircleDollar"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faDisplayCode: IconObject.t = "faDisplayCode"
@@ -4597,6 +4693,9 @@ external faFileCsv: IconObject.t = "faFileCsv"
 external faFileDashedLine: IconObject.t = "faFileDashedLine"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faFileDoc: IconObject.t = "faFileDoc"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faFileDownload: IconObject.t = "faFileDownload"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -4703,6 +4802,9 @@ external faFileWord: IconObject.t = "faFileWord"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faFileXmark: IconObject.t = "faFileXmark"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faFileZip: IconObject.t = "faFileZip"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faFileZipper: IconObject.t = "faFileZipper"
@@ -4841,6 +4943,9 @@ external faFlashlight: IconObject.t = "faFlashlight"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faFlask: IconObject.t = "faFlask"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faFlaskGear: IconObject.t = "faFlaskGear"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faFlaskPoison: IconObject.t = "faFlaskPoison"
@@ -5086,6 +5191,9 @@ external faGameBoardSimple: IconObject.t = "faGameBoardSimple"
 external faGameConsoleHandheld: IconObject.t = "faGameConsoleHandheld"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faGameConsoleHandheldCrank: IconObject.t = "faGameConsoleHandheldCrank"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faGamepad: IconObject.t = "faGamepad"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -5168,6 +5276,15 @@ external faGbp: IconObject.t = "faGbp"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faGear: IconObject.t = "faGear"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faGearCode: IconObject.t = "faGearCode"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faGearComplex: IconObject.t = "faGearComplex"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faGearComplexCode: IconObject.t = "faGearComplexCode"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faGears: IconObject.t = "faGears"
@@ -5336,6 +5453,21 @@ external faGridDividers: IconObject.t = "faGridDividers"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faGridHorizontal: IconObject.t = "faGridHorizontal"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faGridRound: IconObject.t = "faGridRound"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faGridRound2: IconObject.t = "faGridRound2"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faGridRound2Plus: IconObject.t = "faGridRound2Plus"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faGridRound4: IconObject.t = "faGridRound4"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faGridRound5: IconObject.t = "faGridRound5"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faGrill: IconObject.t = "faGrill"
@@ -5667,6 +5799,9 @@ external faHashtag: IconObject.t = "faHashtag"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faHashtagLock: IconObject.t = "faHashtagLock"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faHatBeach: IconObject.t = "faHatBeach"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faHatChef: IconObject.t = "faHatChef"
@@ -6275,6 +6410,9 @@ external faInstitution: IconObject.t = "faInstitution"
 external faIntegral: IconObject.t = "faIntegral"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faInterrobang: IconObject.t = "faInterrobang"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faIntersection: IconObject.t = "faIntersection"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -6321,6 +6459,9 @@ external faJpy: IconObject.t = "faJpy"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faJug: IconObject.t = "faJug"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faJugBottle: IconObject.t = "faJugBottle"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faJugDetergent: IconObject.t = "faJugDetergent"
@@ -6453,6 +6594,9 @@ external faLaptop: IconObject.t = "faLaptop"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faLaptopArrowDown: IconObject.t = "faLaptopArrowDown"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faLaptopBinary: IconObject.t = "faLaptopBinary"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faLaptopCode: IconObject.t = "faLaptopCode"
@@ -6603,6 +6747,9 @@ external faLightbulbExclamation: IconObject.t = "faLightbulbExclamation"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faLightbulbExclamationOn: IconObject.t = "faLightbulbExclamationOn"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faLightbulbGear: IconObject.t = "faLightbulbGear"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faLightbulbOn: IconObject.t = "faLightbulbOn"
@@ -6884,6 +7031,9 @@ external faMailReplyAll: IconObject.t = "faMailReplyAll"
 external faMailbox: IconObject.t = "faMailbox"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faMailboxFlagUp: IconObject.t = "faMailboxFlagUp"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faMakiRoll: IconObject.t = "faMakiRoll"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -7113,6 +7263,9 @@ external faMessageEdit: IconObject.t = "faMessageEdit"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faMessageExclamation: IconObject.t = "faMessageExclamation"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faMessageHeart: IconObject.t = "faMessageHeart"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faMessageImage: IconObject.t = "faMessageImage"
@@ -7493,6 +7646,9 @@ external faMusicNoteSlash: IconObject.t = "faMusicNoteSlash"
 external faMusicSlash: IconObject.t = "faMusicSlash"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faMustache: IconObject.t = "faMustache"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faNairaSign: IconObject.t = "faNairaSign"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -7539,6 +7695,9 @@ external faNfcTrash: IconObject.t = "faNfcTrash"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faNigiri: IconObject.t = "faNigiri"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faNose: IconObject.t = "faNose"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faNotEqual: IconObject.t = "faNotEqual"
@@ -7916,6 +8075,9 @@ external faPencil: IconObject.t = "faPencil"
 external faPencilAlt: IconObject.t = "faPencilAlt"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faPencilMechanical: IconObject.t = "faPencilMechanical"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faPencilPaintbrush: IconObject.t = "faPencilPaintbrush"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -8114,6 +8276,9 @@ external faPersonRifle: IconObject.t = "faPersonRifle"
 external faPersonRunning: IconObject.t = "faPersonRunning"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faPersonRunningFast: IconObject.t = "faPersonRunningFast"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faPersonSeat: IconObject.t = "faPersonSeat"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -8201,6 +8366,9 @@ external faPhoneArrowDown: IconObject.t = "faPhoneArrowDown"
 external faPhoneArrowDownLeft: IconObject.t = "faPhoneArrowDownLeft"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faPhoneArrowRight: IconObject.t = "faPhoneArrowRight"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faPhoneArrowUp: IconObject.t = "faPhoneArrowUp"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -8280,6 +8448,9 @@ external faPiano: IconObject.t = "faPiano"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faPianoKeyboard: IconObject.t = "faPianoKeyboard"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faPickaxe: IconObject.t = "faPickaxe"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faPickleball: IconObject.t = "faPickleball"
@@ -8529,6 +8700,9 @@ external faPrescriptionBottleAlt: IconObject.t = "faPrescriptionBottleAlt"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faPrescriptionBottleMedical: IconObject.t = "faPrescriptionBottleMedical"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faPrescriptionBottlePill: IconObject.t = "faPrescriptionBottlePill"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faPresentation: IconObject.t = "faPresentation"
@@ -8826,6 +9000,9 @@ external faRightFromLine: IconObject.t = "faRightFromLine"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faRightLeft: IconObject.t = "faRightLeft"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faRightLeftLarge: IconObject.t = "faRightLeftLarge"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faRightLong: IconObject.t = "faRightLong"
@@ -9554,6 +9731,9 @@ external faSkating: IconObject.t = "faSkating"
 external faSkeleton: IconObject.t = "faSkeleton"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faSkeletonRibs: IconObject.t = "faSkeletonRibs"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faSkiBoot: IconObject.t = "faSkiBoot"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -9663,6 +9843,9 @@ external faSnowboarding: IconObject.t = "faSnowboarding"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faSnowflake: IconObject.t = "faSnowflake"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faSnowflakeDroplets: IconObject.t = "faSnowflakeDroplets"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faSnowflakes: IconObject.t = "faSnowflakes"
@@ -9830,6 +10013,9 @@ external faSpade: IconObject.t = "faSpade"
 external faSpaghettiMonsterFlying: IconObject.t = "faSpaghettiMonsterFlying"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faSparkle: IconObject.t = "faSparkle"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faSparkles: IconObject.t = "faSparkles"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -9993,6 +10179,9 @@ external faSquareD: IconObject.t = "faSquareD"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faSquareDashed: IconObject.t = "faSquareDashed"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faSquareDashedCirclePlus: IconObject.t = "faSquareDashedCirclePlus"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faSquareDivide: IconObject.t = "faSquareDivide"
@@ -11231,6 +11420,12 @@ external faTriangleMusic: IconObject.t = "faTriangleMusic"
 external faTrianglePersonDigging: IconObject.t = "faTrianglePersonDigging"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faTricycle: IconObject.t = "faTricycle"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faTricycleAdult: IconObject.t = "faTricycleAdult"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faTrillium: IconObject.t = "faTrillium"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -11567,6 +11762,9 @@ external faUserGroup: IconObject.t = "faUserGroup"
 external faUserGroupCrown: IconObject.t = "faUserGroupCrown"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faUserGroupSimple: IconObject.t = "faUserGroupSimple"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faUserHair: IconObject.t = "faUserHair"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -11598,6 +11796,9 @@ external faUserLargeSlash: IconObject.t = "faUserLargeSlash"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faUserLock: IconObject.t = "faUserLock"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faUserMagnifyingGlass: IconObject.t = "faUserMagnifyingGlass"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faUserMd: IconObject.t = "faUserMd"
@@ -12032,6 +12233,9 @@ external faWebcam: IconObject.t = "faWebcam"
 external faWebcamSlash: IconObject.t = "faWebcamSlash"
 
 @module("@fortawesome/sharp-solid-svg-icons")
+external faWebhook: IconObject.t = "faWebhook"
+
+@module("@fortawesome/sharp-solid-svg-icons")
 external faWeight: IconObject.t = "faWeight"
 
 @module("@fortawesome/sharp-solid-svg-icons")
@@ -12174,6 +12378,9 @@ external faWorm: IconObject.t = "faWorm"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faWreath: IconObject.t = "faWreath"
+
+@module("@fortawesome/sharp-solid-svg-icons")
+external faWreathLaurel: IconObject.t = "faWreathLaurel"
 
 @module("@fortawesome/sharp-solid-svg-icons")
 external faWrench: IconObject.t = "faWrench"

@@ -854,6 +854,9 @@ external faOdnoklassniki: IconObject.t = "faOdnoklassniki"
 external faOdnoklassnikiSquare: IconObject.t = "faOdnoklassnikiSquare"
 
 @module("@fortawesome/free-brands-svg-icons")
+external faOdysee: IconObject.t = "faOdysee"
+
+@module("@fortawesome/free-brands-svg-icons")
 external faOldRepublic: IconObject.t = "faOldRepublic"
 
 @module("@fortawesome/free-brands-svg-icons")
@@ -1230,6 +1233,9 @@ external faStripe: IconObject.t = "faStripe"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faStripeS: IconObject.t = "faStripeS"
+
+@module("@fortawesome/free-brands-svg-icons")
+external faStubber: IconObject.t = "faStubber"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faStudiovinari: IconObject.t = "faStudiovinari"
