@@ -9,14 +9,24 @@ const iconObjectTypeName = "IconObject.t";
   ["duotone", "pro"],
   ["thin", "pro"],
   ["sharp-solid", "pro"],
+  ["sharp-regular", "pro"],
+  ["sharp-light", "pro"],
   ["regular", "free"],
   ["solid", "free"],
   ["brands", "free"],
 ].forEach(([style, tier]) => {
-  const libName =
-    style === "sharp-solid"
-      ? `@fortawesome/sharp-solid-svg-icons`
-      : `@fortawesome/${tier}-${style}-svg-icons`;
+  const libName = (() => {
+    switch (style) {
+      case "sharp-solid":
+        return "@fortawesome/sharp-solid-svg-icons";
+      case "sharp-regular":
+        return "@fortawesome/sharp-regular-svg-icons";
+      case "sharp-light":
+        return "@fortawesome/sharp-light-svg-icons";
+      default:
+        return `@fortawesome/${tier}-${style}-svg-icons`;
+    }
+  })();
   const lib = require(libName);
   const iconNames = Object.keys(lib)
     .filter((s) => s.match(/fa[A-Z][A-Za-z]+/))
