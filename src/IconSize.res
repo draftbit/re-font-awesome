@@ -3,8 +3,8 @@ type t = [
   | #"2xs"
   | #xs
   | #sm
-  | #md
   | #lg
+  | #"1x"
   | #"2x"
   | #"3x"
   | #"4x"
@@ -20,8 +20,8 @@ let all: array<t> = [
   #"2xs",
   #xs,
   #sm,
-  #md,
   #lg,
+  #"1x",
   #"2x",
   #"3x",
   #"4x",
