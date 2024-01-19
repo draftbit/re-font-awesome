@@ -227,9 +227,6 @@ external faArrowTrendUp: IconObject.t = "faArrowTrendUp"
 external faArrowTurnDown: IconObject.t = "faArrowTurnDown"
 
 @module("@fortawesome/free-solid-svg-icons")
-external faArrowTurnRight: IconObject.t = "faArrowTurnRight"
-
-@module("@fortawesome/free-solid-svg-icons")
 external faArrowTurnUp: IconObject.t = "faArrowTurnUp"
 
 @module("@fortawesome/free-solid-svg-icons")
@@ -420,6 +417,9 @@ external faBandAid: IconObject.t = "faBandAid"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faBandage: IconObject.t = "faBandage"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faBangladeshiTakaSign: IconObject.t = "faBangladeshiTakaSign"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faBank: IconObject.t = "faBank"
@@ -1080,6 +1080,9 @@ external faChevronUp: IconObject.t = "faChevronUp"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faChild: IconObject.t = "faChild"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faChildCombatant: IconObject.t = "faChildCombatant"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faChildDress: IconObject.t = "faChildDress"
@@ -3490,6 +3493,9 @@ external faNewspaper: IconObject.t = "faNewspaper"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faNotEqual: IconObject.t = "faNotEqual"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faNotdef: IconObject.t = "faNotdef"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faNoteSticky: IconObject.t = "faNoteSticky"
