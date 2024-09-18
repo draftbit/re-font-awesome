@@ -122,6 +122,9 @@ external faBlogger: IconObject.t = "faBlogger"
 external faBloggerB: IconObject.t = "faBloggerB"
 
 @module("@fortawesome/free-brands-svg-icons")
+external faBluesky: IconObject.t = "faBluesky"
+
+@module("@fortawesome/free-brands-svg-icons")
 external faBluetooth: IconObject.t = "faBluetooth"
 
 @module("@fortawesome/free-brands-svg-icons")
@@ -299,6 +302,9 @@ external faDAndDBeyond: IconObject.t = "faDAndDBeyond"
 external faDailymotion: IconObject.t = "faDailymotion"
 
 @module("@fortawesome/free-brands-svg-icons")
+external faDartLang: IconObject.t = "faDartLang"
+
+@module("@fortawesome/free-brands-svg-icons")
 external faDashcube: IconObject.t = "faDashcube"
 
 @module("@fortawesome/free-brands-svg-icons")
@@ -450,6 +456,9 @@ external faFlickr: IconObject.t = "faFlickr"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faFlipboard: IconObject.t = "faFlipboard"
+
+@module("@fortawesome/free-brands-svg-icons")
+external faFlutter: IconObject.t = "faFlutter"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faFly: IconObject.t = "faFly"
@@ -705,6 +714,9 @@ external faJsSquare: IconObject.t = "faJsSquare"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faJsfiddle: IconObject.t = "faJsfiddle"
+
+@module("@fortawesome/free-brands-svg-icons")
+external faJxl: IconObject.t = "faJxl"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faKaggle: IconObject.t = "faKaggle"
@@ -1187,6 +1199,9 @@ external faSquareInstagram: IconObject.t = "faSquareInstagram"
 external faSquareJs: IconObject.t = "faSquareJs"
 
 @module("@fortawesome/free-brands-svg-icons")
+external faSquareKickstarter: IconObject.t = "faSquareKickstarter"
+
+@module("@fortawesome/free-brands-svg-icons")
 external faSquareLastfm: IconObject.t = "faSquareLastfm"
 
 @module("@fortawesome/free-brands-svg-icons")
@@ -1220,10 +1235,19 @@ external faSquareTumblr: IconObject.t = "faSquareTumblr"
 external faSquareTwitter: IconObject.t = "faSquareTwitter"
 
 @module("@fortawesome/free-brands-svg-icons")
+external faSquareUpwork: IconObject.t = "faSquareUpwork"
+
+@module("@fortawesome/free-brands-svg-icons")
 external faSquareViadeo: IconObject.t = "faSquareViadeo"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faSquareVimeo: IconObject.t = "faSquareVimeo"
+
+@module("@fortawesome/free-brands-svg-icons")
+external faSquareWebAwesome: IconObject.t = "faSquareWebAwesome"
+
+@module("@fortawesome/free-brands-svg-icons")
+external faSquareWebAwesomeStroke: IconObject.t = "faSquareWebAwesomeStroke"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faSquareWhatsapp: IconObject.t = "faSquareWhatsapp"
@@ -1437,6 +1461,9 @@ external faWatchmanMonitoring: IconObject.t = "faWatchmanMonitoring"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faWaze: IconObject.t = "faWaze"
+
+@module("@fortawesome/free-brands-svg-icons")
+external faWebAwesome: IconObject.t = "faWebAwesome"
 
 @module("@fortawesome/free-brands-svg-icons")
 external faWebflow: IconObject.t = "faWebflow"
