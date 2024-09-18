@@ -4860,7 +4860,16 @@ external faTable: IconObject.t = "faTable"
 external faTableCells: IconObject.t = "faTableCells"
 
 @module("@fortawesome/free-solid-svg-icons")
+external faTableCellsColumnLock: IconObject.t = "faTableCellsColumnLock"
+
+@module("@fortawesome/free-solid-svg-icons")
 external faTableCellsLarge: IconObject.t = "faTableCellsLarge"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTableCellsRowLock: IconObject.t = "faTableCellsRowLock"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faTableCellsRowUnlock: IconObject.t = "faTableCellsRowUnlock"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faTableColumns: IconObject.t = "faTableColumns"
@@ -5085,6 +5094,9 @@ external faThermometerThreeQuarters: IconObject.t = "faThermometerThreeQuarters"
 external faThumbTack: IconObject.t = "faThumbTack"
 
 @module("@fortawesome/free-solid-svg-icons")
+external faThumbTackSlash: IconObject.t = "faThumbTackSlash"
+
+@module("@fortawesome/free-solid-svg-icons")
 external faThumbsDown: IconObject.t = "faThumbsDown"
 
 @module("@fortawesome/free-solid-svg-icons")
@@ -5092,6 +5104,9 @@ external faThumbsUp: IconObject.t = "faThumbsUp"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faThumbtack: IconObject.t = "faThumbtack"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faThumbtackSlash: IconObject.t = "faThumbtackSlash"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faThunderstorm: IconObject.t = "faThunderstorm"
@@ -5644,6 +5659,9 @@ external faWaterLadder: IconObject.t = "faWaterLadder"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faWaveSquare: IconObject.t = "faWaveSquare"
+
+@module("@fortawesome/free-solid-svg-icons")
+external faWebAwesome: IconObject.t = "faWebAwesome"
 
 @module("@fortawesome/free-solid-svg-icons")
 external faWeight: IconObject.t = "faWeight"
