@@ -4,6 +4,8 @@ type t = [
   | #xs
   | #sm
   | #lg
+  | #xl
+  | #"2xl"
   | #"1x"
   | #"2x"
   | #"3x"
@@ -21,6 +23,8 @@ let all: array<t> = [
   #xs,
   #sm,
   #lg,
+  #xl,
+  #"2xl",
   #"1x",
   #"2x",
   #"3x",
